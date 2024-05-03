@@ -1,0 +1,1883 @@
+.disflex {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+}
+
+.pgCont {
+    width: 1200px;
+    margin: 0 auto;
+    background: #18191e;
+    padding-bottom: 100px;
+}
+
+.pgTit {
+    background-color: #0f0f12;
+    height: 60px;
+    box-sizing: border-box;
+    font-size: 14px;
+    padding: 20px 0px 0px 26px;
+    color: #999797;
+}
+
+.pgTit a {
+    color: #999797;
+}
+
+.banner {
+    width: 100%;
+    height: 295px;
+    margin: 0 auto;
+}
+
+.pgMain {
+    width: 1148px;
+    margin: 0 auto;
+    padding: 0px 26px 0px;
+}
+
+.clearfix:after {
+    content: ".";
+    display: block;
+    visibility: hidden;
+    height: 0.1px;
+    font-size: 0.1em;
+    line-height: 0;
+    clear: both;
+}
+
+.job__content__wrapper {
+    margin-bottom: 64px;
+}
+
+.job__title .ic_new,
+.job__title .ic_update {
+    display: inline-block;
+    margin-left: 4px;
+    margin-top: -4px;
+    vertical-align: middle;
+}
+
+.job__combo__text {
+    margin: 0 10px 32px;
+    font-size: 14px;
+}
+
+.job__combo__title {
+    margin: 0 10px;
+}
+
+.job__combo__title__sequence {
+    width: 640px;
+    margin-right: 4px;
+    float: left;
+}
+
+.job__combo__title__effect {
+    width: 276px;
+    float: left;
+}
+
+.job__combo__title h3 {
+    border-radius: 3px;
+    text-align: center;
+    font-size: 12px;
+    color: #ffffff;
+    font-weight: normal;
+    line-height: 28px;
+}
+
+.job__combo__detail {
+    margin: 0 10px;
+}
+
+.job__combo__root {
+    display: table;
+    box-sizing: border-box;
+    min-height: 124px;
+}
+
+.job__combo__paladin_01,
+.job__combo__warrior_01 {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/_IVh6kXeW2Nnc3vzoVw2hKv0d0.png) no-repeat 150px 0, url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/CPlw_vyjntBjdc44iMVcY5qwMQ.png) no-repeat 370px 0;
+}
+
+.job__combo__root__skill,
+.job__combo__root__skill_last {
+    display: table-cell;
+    width: 200px;
+    padding: 16px 20px 16px 0;
+    text-align: center;
+}
+
+.job__combo__root__skill_last {
+    padding-right: 0;
+}
+
+.job__combo__ninja_01 {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/CPlw_vyjntBjdc44iMVcY5qwMQ.png) no-repeat 150px 0, url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/CPlw_vyjntBjdc44iMVcY5qwMQ.png) no-repeat 370px 0;
+}
+
+.job__combo__ninja_02 {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/ete78hawXp8SmE10UEKuuj3t-A.png) no-repeat 150px 0, url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/DsM5O0psoLoBIZTvp5M6b7HXlU.png) no-repeat 370px 0;
+}
+
+.job__combo__ninja_03 {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/DsM5O0psoLoBIZTvp5M6b7HXlU.png) no-repeat 150px 0;
+    border-bottom: 1px solid #999999;
+}
+
+.job__combo__samurai_01 {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/CPlw_vyjntBjdc44iMVcY5qwMQ.png) no-repeat 150px 0, url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/_IVh6kXeW2Nnc3vzoVw2hKv0d0.png) no-repeat 370px 0;
+}
+
+.job__combo__samurai_02 {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/_O1Z0ojPuLkXc7Dq3LqUsQg2F8.png) no-repeat 150px 0, url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/_IVh6kXeW2Nnc3vzoVw2hKv0d0.png) no-repeat 370px 0;
+}
+
+.job__combo__samurai_03 {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/DsM5O0psoLoBIZTvp5M6b7HXlU.png) no-repeat 150px 0;
+    border-bottom: 1px solid #999999;
+}
+
+.job__combo__samurai_04 {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/CPlw_vyjntBjdc44iMVcY5qwMQ.png) no-repeat 150px 0;
+}
+
+.job__combo__samurai_03 {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/DsM5O0psoLoBIZTvp5M6b7HXlU.png) no-repeat 150px 0;
+    border-bottom: 1px solid #999999;
+}
+
+.job__combo__dancer {
+    display: table-cell;
+    width: 640px;
+    max-width: 660px;
+}
+
+.job__combo__dancer_01__inner {
+    width: 640px;
+    padding: 0 110px;
+    box-sizing: border-box;
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/_IVh6kXeW2Nnc3vzoVw2hKv0d0.png) no-repeat 260px 0;
+    max-width: 660px;
+}
+
+.job__combo__dancer_02__inner {
+    width: 640px;
+    padding: 0 0px;
+    position: relative;
+    box-sizing: border-box;
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/UQvRh92u9GNkbFPiN-OvjpWgJQ.png) no-repeat 150px 0, url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/UQvRh92u9GNkbFPiN-OvjpWgJQ.png) no-repeat 370px 0;
+}
+
+.job__combo__dancer_02__inner .job__combo__root__skill {
+    vertical-align: middle;
+    padding-right: 0;
+    padding: 0px;
+    overflow: hidden;
+    width: auto;
+    position: absolute;
+}
+
+.job__combo__dancer_02__inner .job__combo__root__skill:first-child {
+    top: 40px;
+    left: 90px;
+}
+
+.job__combo__dancer_02__inner .job__combo__root__skill:last-child {
+    top: 40px;
+    left: 310px;
+}
+
+.job__combo__dancer_03__inner {
+    width: 640px;
+    padding: 0 110px;
+    box-sizing: border-box;
+}
+
+.job__combo__redmage_01 {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/_IVh6kXeW2Nnc3vzoVw2hKv0d0.png) no-repeat 150px 0, url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/_IVh6kXeW2Nnc3vzoVw2hKv0d0.png) no-repeat 370px 0;
+    border-bottom: 1px solid #999999;
+}
+
+.job__combo__dancer_02__inner p {
+    width: 120px;
+    margin: 0 50px;
+    padding: 0px;
+}
+
+.job__combo__dancer_02__inner p span {
+    display: inline-block;
+    width: 50%;
+    font-size: 16px;
+    font-weight: bold;
+    color: #5c95e5;
+    padding: 0px;
+}
+
+.job__combo__skill_icon {
+    position: relative;
+    width: 76px;
+    height: 76px;
+    display: inline-block;
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/strFm2JQDmMpQN9NHfCA2X3vGI.png) no-repeat 6px 3px;
+    background-size: 64px 64px;
+    vertical-align: middle;
+    margin: 0 auto;
+}
+
+.job__combo__skill_icon img {
+    width: 64px;
+    height: 64px;
+    position: absolute;
+    top: 3px !important;
+    left: 50% !important;
+    margin-left: -32px;
+    display: block;
+    z-index: 1;
+}
+
+.job__combo__skill_icon:after {
+    content: "";
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/pzBj8-5mhW4-VqgGMqH2rqsbAU.png) no-repeat;
+    background-size: 76px 76px;
+    width: 76px;
+    height: 76px;
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+}
+
+.job__combo__root__skill p,
+.job__combo__root__skill_last p {
+    font-size: 12px;
+    font-weight: bold;
+    color: #585858;
+    width: 200px;
+}
+
+.job__combo__paladin_02,
+.job__combo__warrior_02 {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/DsM5O0psoLoBIZTvp5M6b7HXlU.png) no-repeat 370px 0;
+    border-bottom: 1px solid #999999;
+}
+
+.job__combo__root__effect {
+    width: 280px;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.job__combo__root__effect p {
+    display: block;
+    vertical-align: middle;
+    padding: 16px 12px;
+    font-size: 12px;
+    color: #585858;
+}
+
+.job__combo__paladin_03,
+.job__combo__warrior_03,
+.job__combo__darkknight_02,
+.job__combo__gunbreaker_02,
+.job__combo__ninja_04 {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/_IVh6kXeW2Nnc3vzoVw2hKv0d0.png) no-repeat 150px 0;
+    border-bottom: 1px solid #999999;
+}
+
+.job__hud__title {
+    font-size: 16px;
+    font-weight: bold;
+    margin: 0 10px 16px;
+}
+
+.job__hud__text {
+    margin: 0 10px 16px 10px;
+    font-size: 14px;
+    color: #585858;
+}
+
+.job__hud__text .txt_red {
+    font-size: 14px;
+    font-weight: normal;
+    color: #b2122d !important;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+th,
+td {
+    vertical-align: middle;
+}
+
+.job__hud__layout--pve,
+.job__hud__layout--pvp {
+    text-align: center;
+    margin: 0 auto 32px;
+}
+
+.job__hud__layout--pve th,
+.job__hud__layout--pvp th {
+    padding: 0 20px;
+    font-weight: normal;
+}
+
+.job__hud__layout--pve__simple,
+.job__hud__layout--pvp__simple {
+    padding-top: 32px;
+    border-top: 1px solid #999999;
+}
+
+.job__hud__layout--pve__simple img,
+.job__hud__layout--pvp__simple img {
+    display: block;
+    margin: 0 0 8px 0;
+}
+
+.job__hud__layout--pve__simple__caption,
+.job__hud__layout--pvp__simple__caption {
+    font-size: 12px;
+    color: #585858;
+    text-align: center;
+    padding-top: 0;
+}
+
+.job__notes__lv70,
+.job__notes__lv80caution {
+    background: #fffceb;
+    border-radius: 6px;
+    margin: 10px 10px 0;
+    padding: 6px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #b36b24;
+    text-align: center;
+}
+
+.job__notes__lv80caution {
+    margin: 0 0 10px;
+}
+
+.job__notes__lv80caution.bottom {
+    margin-bottom: 32px;
+}
+
+.job__social {
+    position: relative;
+    margin-right: 10px;
+    height: 25px;
+}
+
+.social_plugin_bt_box {
+    height: 25px;
+}
+
+.social {
+    position: absolute;
+    right: 0;
+    padding-top: 0;
+    z-index: 1;
+}
+
+.job__text {
+    margin: 0 10px 16px;
+    font-size: 14px;
+}
+
+.job__table {
+    width: 1200px;
+    margin: 0 auto 8px;
+}
+
+.job__thead th {
+    padding: 0 1px;
+}
+
+.job__thead th:nth-child(1) {
+    margin-left: 0;
+}
+
+.job__thead th:nth-last-child(1) {
+    margin-right: 0;
+}
+
+.job__thead p {
+    display: table;
+    width: 100%;
+    height: 41px;
+    border-radius: 4px;
+    text-align: center;
+    font-weight: normal;
+}
+
+.job__thead p span {
+    display: table-cell;
+    vertical-align: middle;
+    color: #ffffff;
+    font-size: 12px;
+    padding: 0 4px;
+    line-height: 1.2;
+}
+
+.job__thead div p {
+    display: table;
+    width: 100%;
+    height: 20px;
+    border-radius: 4px;
+    text-align: center;
+    font-weight: normal;
+}
+
+.job__thead div p span {
+    display: table-cell;
+    vertical-align: middle;
+    color: #ffffff;
+    font-size: 12px;
+    padding: 0 4px;
+    line-height: 1.2;
+}
+
+.job__tbody td {
+    padding: 6px 4px;
+    border-bottom: 1px solid #999999;
+    vertical-align: middle;
+    text-align: left;
+    font-size: 12px;
+    color: #585858;
+    line-height: 1.4;
+}
+
+.job__tbody tr.update td {
+    border-bottom: 0;
+    height: 16px;
+    padding: 0 !important;
+}
+
+.job__tbody td img {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.job__tbody td.skill .skill__wrapper,
+.job__tbody td.skill .jobclass__wrapper,
+.job__tbody td.jobclass .skill__wrapper,
+.job__tbody td.jobclass .jobclass__wrapper {
+    display: table;
+    width: 100%;
+    vertical-align: middle;
+}
+
+.job__tbody td.skill .skill__wrapper__icon,
+.job__tbody td.skill .jobclass__wrapper__icon,
+.job__tbody td.jobclass .skill__wrapper__icon,
+.job__tbody td.jobclass .jobclass__wrapper__icon {
+    display: table-cell;
+    vertical-align: middle;
+    width: 48px;
+}
+
+.job__skill_icon {
+    position: relative;
+    width: 48px;
+    height: 48px;
+    display: inline-block;
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/strFm2JQDmMpQN9NHfCA2X3vGI.png) no-repeat 4px 2px;
+    background-size: 40px 40px;
+    vertical-align: middle;
+}
+
+.job__skill_icon:after {
+    content: "";
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/hPseSzWlbPmvaEK5JZk3xGWbfQ.png) no-repeat;
+    width: 48px;
+    height: 48px;
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+}
+
+.job__skill_icon img {
+    position: absolute;
+    top: 2px !important;
+    left: 50% !important;
+    margin-left: -20px;
+    display: block;
+    z-index: 1;
+}
+
+.job__tbody td.skill .skill__wrapper p,
+.job__tbody td.skill .jobclass__wrapper p,
+.job__tbody td.jobclass .skill__wrapper p,
+.job__tbody td.jobclass .jobclass__wrapper p {
+    display: table-cell;
+    vertical-align: middle;
+    padding-left: 2px;
+}
+
+.job__tbody td.classification,
+.job__tbody td.cast,
+.job__tbody td.recast,
+.job__tbody td.cost {
+    text-align: center;
+}
+
+.job__tbody td.distant_range img {
+    vertical-align: top;
+    margin: 0 2px 0 10px;
+}
+
+.job__tbody td.content,
+.job__tbody td.update {
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.job__tbody td .update_text {
+    text-align: right;
+    position: relative;
+    margin-top: 8px;
+}
+
+.job__tbody td .update_text__btn {
+    background: #e59900;
+    display: inline-block;
+    width: 120px;
+    height: 24px;
+    text-align: center;
+    font-size: 12px;
+    font-weight: bold;
+    color: #ffffff;
+    border-radius: 12px;
+    -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+    transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+    line-height: 24px;
+}
+
+.job__tbody td .update_text__btn .update_text__tooltip {
+    width: 320px;
+    position: absolute;
+    top: 24px;
+    right: 0;
+    border-radius: 4px;
+    padding: 12px 20px;
+    background: #f3f3f3;
+    box-shadow: 0px 0px 0px 2px #f5a300 inset, 0px 1px 3px 0px rgba(0, 0, 0, 0.4);
+    font-size: 12px;
+    color: #585858;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1.4;
+    cursor: default;
+    box-sizing: border-box;
+    z-index: 2;
+    visibility: hidden;
+    opacity: 0;
+    -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+    transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+
+.job__tbody td .update_text__btn:hover .update_text__tooltip {
+    visibility: visible;
+    opacity: 1;
+}
+
+.job__tbody td p {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.job__hud__layout--mb16 {
+    margin: 0 0 16px 10px;
+    height: 1%;
+}
+
+.job__hud__layout--mb32 {
+    margin: 0 0 32px 10px;
+    height: 1%;
+}
+
+.job__hud__image {
+    float: left;
+    margin-right: 20px;
+    display: block;
+}
+
+.job__combo__darkknight_01,
+.job__combo__gunbreaker_01,
+.job__combo__machinist_01 {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/_IVh6kXeW2Nnc3vzoVw2hKv0d0.png) no-repeat 150px 0, url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/_IVh6kXeW2Nnc3vzoVw2hKv0d0.png) no-repeat 370px 0;
+    border-bottom: 1px solid #999999;
+}
+
+.job__hud__layout--pve.column03 td,
+.job__hud__layout--pvp.column03 td {
+    padding: 6px 10px 16px;
+}
+
+.job__hud__layout--pve.column03 th,
+.job__hud__layout--pvp.column03 th {
+    padding: 0 10px;
+}
+
+.job__hud__layout--pve__simple__title,
+.job__hud__layout--pvp__simple__title {
+    font-size: 14px;
+    color: #585858;
+    font-weight: bold;
+    text-align: left;
+}
+
+.job__combo__gunbreaker_03 {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/74crx72Uxf2AgmbuDCfvakuHzw.png) no-repeat 150px 0, url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/74crx72Uxf2AgmbuDCfvakuHzw.png) no-repeat 370px 0;
+}
+
+.job__combo__gunbreaker_04 {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/UQvRh92u9GNkbFPiN-OvjpWgJQ.png) no-repeat 40px 0, url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/Nde1eXaI8PQpu-07eNisXvU01o.png) repeat-y 150px 0, url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/UQvRh92u9GNkbFPiN-OvjpWgJQ.png) no-repeat 260px 0, url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/Nde1eXaI8PQpu-07eNisXvU01o.png) repeat-y 370px 0, url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/UQvRh92u9GNkbFPiN-OvjpWgJQ.png) no-repeat 480px 0;
+}
+
+.job__combo__gunbreaker_05 {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/-7qGg5YwcgzYn_GuiGiKZcVSJg.png) no-repeat 150px 0, url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/-7qGg5YwcgzYn_GuiGiKZcVSJg.png) no-repeat 370px 0;
+}
+
+.job__combo__gunbreaker {
+    display: table-cell;
+    width: 600px;
+}
+
+.job__combo__root__effect {
+    width: 280px;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.job__combo__root__effect p {
+    display: block;
+    vertical-align: middle;
+    padding: 16px 12px;
+    font-size: 12px;
+    color: #585858;
+}
+
+.job__combo__root__dancer,
+.job__combo__root__gunbreaker {
+    border-bottom: 1px solid #999999;
+}
+
+.job__hud__layout--pve td,
+.job__hud__layout--pvp td {
+    padding: 6px 20px 16px;
+    font-size: 14px;
+    color: #585858;
+    vertical-align: top;
+}
+
+.job__monkcombo {
+    display: table;
+    margin: 0 10px;
+}
+
+.job__monkcombo__action {
+    display: table-cell;
+    border-radius: 4px;
+    box-shadow: inset 0 0 0 2px #8c4d4d;
+    background: #f2f2f2;
+    width: 280px;
+    box-sizing: border-box;
+    overflow: hidden;
+    padding: 2px;
+}
+
+.job__monkcombo__arrow {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.job__monkcombo__action__title {
+    background: #8c4d4d;
+    text-align: center;
+    color: #ffffff;
+    font-size: 12px;
+    font-weight: normal;
+    padding: 8px 0;
+    line-height: 1;
+}
+
+.job__monkcombo__action__skill,
+.job__monkcombo__action__skill__last {
+    padding: 8px 8px 0 8px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-box-align: center;
+    -o-box-align: center;
+    box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    width: 276px;
+    box-sizing: border-box;
+}
+
+.job__monkcombo__action__skill__last,
+.job__monkcombo__action__skill__last__last {
+    padding-bottom: 16px;
+}
+
+.job__monkcombo__action__effect__title {
+    background: #ebdfdf;
+    padding: 6px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #732828;
+    display: block;
+    text-align: left;
+}
+
+.job__monkcombo__action__effect__text {
+    padding: 8px 6px 16px;
+    text-align: left;
+    font-size: 12px;
+}
+
+.job__monkcombo__action__skill__name,
+.job__monkcombo__action__skill__last__name {
+    vertical-align: middle;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.job__combo__dragoon_01 {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/CPlw_vyjntBjdc44iMVcY5qwMQ.png) no-repeat 150px 0, url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/_IVh6kXeW2Nnc3vzoVw2hKv0d0.png) no-repeat 370px 0;
+}
+
+.job__combo__dragoon_02 {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/DsM5O0psoLoBIZTvp5M6b7HXlU.png) no-repeat 150px 0, url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/_IVh6kXeW2Nnc3vzoVw2hKv0d0.png) no-repeat 370px 0;
+    border-bottom: 1px solid #999999;
+}
+
+.job__combo__dragoon_03 {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/_IVh6kXeW2Nnc3vzoVw2hKv0d0.png) no-repeat 150px 0, url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/_IVh6kXeW2Nnc3vzoVw2hKv0d0.png) no-repeat 370px 0;
+    border-bottom: 1px solid #999999;
+}
+
+.fexdCont.blue .job__combo__title h3 {
+    background: #545e99;
+}
+
+.fexdCont.blue .job__hud__title {
+    color: #2d3a80;
+}
+
+.fexdCont.blue .job__thead p {
+    background: #545e99;
+}
+
+.fexdCont.green .job__combo__title h3 {
+    background: #548046;
+}
+
+.fexdCont.green .job__hud__title {
+    color: #346624;
+}
+
+.fexdCont.green .job__thead p {
+    background: #548046;
+}
+
+.fexdCont.red .job__combo__title h3 {
+    background: #8c4d4d;
+}
+
+.fexdCont.red .job__hud__title {
+    color: #732828;
+}
+
+.fexdCont.red .job__thead p {
+    background: #8c4d4d;
+}
+
+.job__tbody tr.update td {
+    background: #f0dfb6;
+}
+
+.job__tbody tr.update+tr td {
+    background: #f0e4c5;
+}
+
+.bannerBox {
+    width: 100%;
+}
+
+.bannerBox .bannrCont {
+    width: 1240px;
+    height: 180px;
+    position: relative;
+    margin: auto;
+}
+
+.bannerBox .job__header__inner {
+    width: 960px;
+    margin: 0 auto;
+    padding-top: 8px;
+}
+
+.bannerBox .job__header__inner .job__header__guide_top {
+    display: block;
+    margin-bottom: 8px;
+    padding-left: 22px;
+    position: relative;
+    font-size: 14px;
+    font-weight: bold;
+    color: #ffffff;
+    text-shadow: 0px 1px 4px #000;
+    text-shadow: 0px 1px 4px 0px #000;
+    height: 20px;
+    line-height: 20px;
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/4-MAwKu7KKbREFN2yDKu1sUruo.png) no-repeat left top;
+    -webkit-transition: all 0.4s;
+    transition: all 0.4s;
+}
+
+.bannerBox .job__header__inner .job__header__guide_top:hover {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/lOsYRFXO5S4F9o0drHwi8n_Brk.png) no-repeat left top;
+}
+
+.bannerBox .job__header__inner .job__header__jobname {
+    margin-bottom: 4px;
+}
+
+.bannerBox .job__header__inner .job__header__jobname__role {
+    margin-left: 16px;
+    display: block;
+    line-height: 32px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.bannerBox .job__header__inner .job__header__jobname__role img {
+    display: inline-block;
+    margin-right: 4px;
+}
+
+.bannerBox .job__header__inner .job__header__text {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/nnj_wInzO8uaZquN_1wMUyT5cI.png) no-repeat left top;
+    width: 472px;
+    height: 178px;
+    padding: 14px 0 16px 16px;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.bannerBox .job__header__inner .job__header__text .ps-container {
+    font-size: 14px;
+    color: #f5f5f5;
+    text-shadow: 0px 1px 4px #000;
+    text-shadow: 0px 1px 4px 0px #000;
+    height: 148px;
+    overflow: hidden;
+    margin: 0 !important;
+    padding-right: 3px;
+    position: relative;
+    display: block;
+    overflow-y: auto;
+}
+
+.bannerBox .job__header__inner .job__header__text .ps-container .ps-info {
+    padding-right: 13px;
+}
+
+.bannerBox .job__header__inner .job__header__text .job__header__quest__classquest {
+    display: inline-block;
+    font-size: 14px;
+    color: #ffffff;
+    line-height: 48px;
+    text-shadow: 0px 1px 4px #000;
+}
+
+.bannerBox .job__header--paladin {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/PJgWlLvCxoVsNsgDVz3QIiUaPQ.jpg) no-repeat center top #192455;
+}
+
+.bannerBox .job__header--warrior {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/N8YAPHd3Xp8ZqmVg0JyXKsyjcc.jpg) no-repeat center top #192455;
+}
+
+.bannerBox .job__header--darkknight {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/XRpvy7cMcZs820fzgbZQbb8utk.jpg) no-repeat center top #192455;
+}
+
+.bannerBox .job__header--whitemage {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/HQNAI97-Ozazpss0J7hU4tyqDU.jpg) no-repeat center top #1d4214;
+}
+
+.bannerBox .job__header--scholar {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/p9tlpfnVhLTAi5e3V94pFeEOlY.jpg) no-repeat center top #1d4214;
+}
+
+.bannerBox .job__header--astrologian {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/-S2THly0Ng4mGtEmosrkzkKTxQ.jpg) no-repeat center top #1d4214;
+}
+
+.bannerBox .job__header--monk {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/wxEAp2mOU2Ay-gw8HYPlHu5jNM.jpg) no-repeat center 50% #4f1717;
+}
+
+.bannerBox .job__header--dragoon {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/TZOVRpZGk8aqzqEkUj5l3LpF_4.jpg) no-repeat center 50% #4f1717;
+}
+
+.bannerBox .job__header--ninja {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/z5PCF6Hc9Gqb7TefHKxdmSSZM4.jpg) no-repeat center 50% #4f1717;
+}
+
+.bannerBox .job__header--samurai {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/zADePMzBSPsaZMvfM6PIWMeoME.jpg) no-repeat center 50% #4f1717;
+}
+
+.bannerBox .job__header--reaper {
+    background: url(https://img.finalfantasyxiv.com/lds/promo/h/T/Qw-gmeX32gyxMnKvXkuSgsIlpY.jpg) no-repeat center 50% #4f1717;
+}
+
+.bannerBox .job__header--bard {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/LOrM96FURBTJcKghngHIteiYOg.jpg) no-repeat center 50% #4f1717;
+}
+
+.bannerBox .job__header--machinist {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/avhH8ZzC1OUxJXv7K6CSDcuAcg.jpg) no-repeat center 50% #4f1717;
+}
+
+.bannerBox .job__header--blackmage {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/wYtgDGRa8boAqGis2nkadqp--4.jpg) no-repeat center 50% #4f1717;
+    background-size: 100% 140%;
+}
+
+.bannerBox .job__header--summoner {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/nDUQwmh7UmXxQV2GbgmdMKZVQE.jpg) no-repeat center 50% #4f1717;
+    background-size: 100% 140%;
+}
+
+.bannerBox .job__header--redmage {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/z8uUtHOovmt5-wec9shKsMC-p8.jpg) no-repeat center 50% #4f1717;
+    background-size: 100% 140%;
+}
+
+.bannerBox .job__header--gunbreaker {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/E2i9mNBUDu70knKFq7t2G6DtBc.jpg) no-repeat center top #192455;
+}
+
+.bannerBox .job__header--dancer {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/gDYXzC6_hvciPKTCr8k_oAv_R4.jpg) no-repeat center top #4f1717;
+}
+
+.job__wrapper {
+    width: 1240px;
+    padding-top: 16px;
+    padding-bottom: 120px;
+    margin: 0 auto;
+}
+
+.job__wrapper .rightNav {
+    position: fixed;
+    top: 64px;
+    right: 16px;
+}
+
+.job__wrapper .rightNav .nav__floating {
+    position: static;
+    top: 16px;
+}
+
+.job__wrapper .rightNav .nav__floating .nav__floating__icon {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/SHm9-qLWAuZIPY9Kw2gKgobW3M.png) no-repeat 0 0;
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+    float: right;
+    cursor: pointer;
+    margin-left: 4px;
+    line-height: 1;
+    -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+    transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+    opacity: 0;
+    display: none;
+}
+
+.job__wrapper .rightNav .nav__floating .nav__floating__list {
+    background: #f3f3f3;
+    width: auto;
+    max-width: 560px;
+    border-radius: 4px;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.4);
+    padding: 16px;
+    box-sizing: border-box;
+    position: relative;
+    z-index: 11;
+    visibility: visible;
+    -webkit-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
+    opacity: 1;
+    float: right;
+}
+
+.job__wrapper .rightNav .nav__floating .nav__floating__list .job__nav_title {
+    margin-bottom: 8px;
+    color: #2556b8;
+    font-size: 14px;
+    cursor: pointer;
+    position: relative;
+}
+
+.job__wrapper .rightNav .nav__floating .nav__floating__list .job__nav_title span {
+    position: relative;
+    display: inline-block;
+}
+
+.job__wrapper .rightNav .nav__floating .nav__floating__list .job__nav_title.fnormal {
+    font-weight: normal;
+}
+
+.job__wrapper .rightNav .nav__floating .nav__floating__list .job__nav_title.update span:after {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 50%;
+    right: -16px;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    width: 8px;
+    height: 8px;
+    background: #e68600;
+    border-radius: 4px;
+    pointer-events: none;
+}
+
+.job__wrapper .rightNav .nav__floating .nav__floating__list .job__nav_title.new span:after {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 50%;
+    right: -16px;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    width: 8px;
+    height: 8px;
+    background: #cc2929;
+    border-radius: 4px;
+    pointer-events: none;
+}
+
+.job__wrapper .rightNav .nav__floating .nav__floating__list .job__ulbox {
+    width: 240px;
+    margin-bottom: 16px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: start;
+    -webkit-justify-content: flex-start;
+    justify-content: flex-start;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+
+.job__wrapper .rightNav .nav__floating .nav__floating__list .job__ulbox .job__li {
+    width: 48px;
+    height: 48px;
+    position: relative;
+    cursor: pointer;
+    outline: none;
+}
+
+.job__wrapper .rightNav .nav__floating .nav__floating__list .job__ulbox .job__li .job__icon {
+    display: inline-block;
+    width: 48px;
+    height: 48px;
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/strFm2JQDmMpQN9NHfCA2X3vGI.png) no-repeat 4px 2px;
+    background-size: 40px 40px;
+    position: relative;
+    vertical-align: middle;
+}
+
+.job__wrapper .rightNav .nav__floating .nav__floating__list .job__ulbox .job__li .job__icon img {
+    position: absolute;
+    top: 2px !important;
+    left: 50% !important;
+    margin-left: -20px;
+    display: block;
+    z-index: 1;
+}
+
+.job__wrapper .rightNav .nav__floating .nav__floating__list .job__ulbox .job__li .job__icon:after {
+    content: "";
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/hPseSzWlbPmvaEK5JZk3xGWbfQ.png) no-repeat;
+    width: 48px;
+    height: 48px;
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+}
+
+.job__wrapper .rightNav .nav__floating .nav__floating__list .job__ulbox .job__li div:focus {
+    outline: none;
+}
+
+.job__wrapper .rightNav .nav__floating .nav__floating__list .job__ulbox .job__li.update:after {
+    content: "";
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/1rYfm1nvsGJyV5qRwpVyH58Wzc.png) no-repeat 0 0;
+    display: block;
+    position: absolute;
+    top: -4px;
+    left: -2px;
+    width: 52px;
+    height: 52px;
+    pointer-events: none;
+    z-index: 2;
+}
+
+.job__wrapper .rightNav .nav__floating .nav__floating__list .job__ulbox .job__li.new:after {
+    content: "";
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/EEHem7iD9dYgkFBU33-8QxjUtY.png) no-repeat 0 0;
+    display: block;
+    position: absolute;
+    top: -4px;
+    left: -2px;
+    width: 52px;
+    height: 52px;
+    pointer-events: none;
+    z-index: 2;
+}
+
+.job__wrapper .rightNav .nav__floating .nav__floating__list .job__ulbox .job__li:focus {
+    outline: none;
+}
+
+.job__wrapper .rightNav.zindexCls {
+    z-index: 8888;
+}
+
+.job__wrapper .tippy-tooltip.light-theme {
+    color: #26323d;
+    box-shadow: 0 0 20px 4px rgba(154, 161, 177, 0.15), 0 4px 80px -8px rgba(36, 40, 47, 0.25), 0 4px 4px -2px rgba(91, 94, 105, 0.15);
+    background-color: #fff;
+}
+
+.job__wrapper ul.job__tab {
+    list-style: none;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+    z-index: 99;
+}
+
+.job__wrapper ul.job__tab li {
+    -webkit-box-flex: 0;
+    -webkit-flex: none;
+    flex: none;
+    width: 480px;
+    height: 48px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    text-align: center;
+    cursor: pointer;
+    background: #d9d9d9;
+    box-shadow: 0px 1px 0px 0px rgba(255, 255, 255, 0.75) inset, 1px 0px 0px 0px rgba(255, 255, 255, 0.25) inset, -1px 0px 0px 0px rgba(0, 0, 0, 0.1) inset;
+}
+
+.job__wrapper ul.job__tab li.pve {
+    background: #e5e3d3;
+}
+
+.job__wrapper ul.job__tab li.pve:hover {
+    background: #f2efdf;
+    box-shadow: 0px 1px 0px 0px rgba(255, 255, 255, 0.75) inset, 1px 0px 0px 0px rgba(255, 255, 255, 0.25) inset, -1px 0px 0px 0px rgba(0, 0, 0, 0.1) inset;
+}
+
+.job__wrapper ul.job__tab li.pvp {
+    background: #d9d9d9;
+}
+
+.job__wrapper ul.job__tab li.pvp:hover {
+    background: #e5e5e5;
+    box-shadow: 0px 1px 0px 0px rgba(255, 255, 255, 0.75) inset, 1px 0px 0px 0px rgba(255, 255, 255, 0.25) inset, -1px 0px 0px 0px rgba(0, 0, 0, 0.1) inset;
+}
+
+.job__wrapper ul.job__tab li.pve.active {
+    background: #e5e3d3;
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.1) inset;
+}
+
+.job__wrapper ul.job__tab li.pvp.active {
+    background: #d9d9d9;
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.1) inset;
+}
+
+.job__wrapper .job__content {
+    z-index: 99;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    padding: 16px 10px 10px;
+    background: #e5e3d3;
+    box-shadow: 0px -1px 0px 0px rgba(0, 0, 0, 0.05) inset, 1px 0px 0px 0px rgba(0, 0, 0, 0.05) inset, -1px 0px 0px 0px rgba(0, 0, 0, 0.05) inset;
+}
+
+.job__wrapper .job__content .job__update {
+    margin-bottom: 6px;
+    text-align: right;
+    font-size: 14px;
+    font-weight: bold;
+    color: #585858;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.job__wrapper .job__content .job__notes__lv80caution {
+    background: #fffceb;
+    border-radius: 6px;
+    margin: 10px 10px 0;
+    padding: 6px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #b36b24;
+    text-align: center;
+    margin: 0 0 10px;
+}
+
+.job__wrapper .job__content.pvp {
+    background: #d9d9d9;
+}
+
+.job__wrapper .job__content__wrapper .roopBox {
+    margin-bottom: 64px;
+}
+
+.job__wrapper .job__content__wrapper .job__title {
+    font-size: 16px;
+    font-weight: bold;
+    color: #ffffff;
+    border-radius: 6px;
+    height: 32px;
+    line-height: 32px;
+    padding: 0 10px;
+    margin-bottom: 16px;
+}
+
+.job__wrapper .job__content__wrapper .job__sub_title {
+    font-size: 16px;
+    font-weight: bold;
+    margin: 0 10px 16px;
+}
+
+.job__wrapper .job__content__wrapper .job__sub_title .ic_update {
+    display: inline-block;
+    margin-left: 4px;
+    margin-top: -4px;
+    vertical-align: middle;
+    font-size: 12px;
+}
+
+.job__wrapper .job__content__wrapper .job__sub_title .ic_new {
+    display: inline-block;
+    margin-left: 4px;
+    margin-top: -4px;
+    vertical-align: middle;
+    font-size: 12px;
+}
+
+.job__wrapper .job__content__wrapper .job_txt {
+    margin: 0 10px 16px;
+    font-size: 14px;
+}
+
+.job__wrapper .job__content__wrapper .job__notes {
+    margin: 0 10px;
+    font-size: 12px;
+    color: #b2122d;
+}
+
+.job_table {
+    width: 1200px;
+    margin: 0 auto 8px;
+}
+
+.job_table .job_list {
+    width: 100%;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-justify-content: space-around;
+    justify-content: space-around;
+    box-sizing: border-box;
+}
+
+.job_table .job_list .job_item {
+    width: 72px;
+    height: 41px;
+    -webkit-box-flex: 0;
+    -webkit-flex: none;
+    flex: none;
+    border-radius: 4px;
+    text-align: center;
+    font-weight: normal;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    margin-right: 1px;
+}
+
+.job_table .job_list .job_item span {
+    display: table-cell;
+    vertical-align: middle;
+    color: #ffffff;
+    font-size: 12px;
+    padding: 0 4px;
+    line-height: 1.2;
+}
+
+.job_table .job_list .job_item:last-child {
+    margin-right: 0px;
+    -webkit-box-flex: 1;
+    -webkit-flex: auto;
+    flex: auto;
+}
+
+.job_table .job_list .job_item.item8_0 {
+    width: 189px;
+    -webkit-box-flex: 0;
+    -webkit-flex: none;
+    flex: none;
+}
+
+.job_table .job_list .job_item.item8_7 {
+    width: 283px;
+    -webkit-box-flex: 0;
+    -webkit-flex: none;
+    flex: none;
+}
+
+.job_table .job_list .job_item.item8_8 {
+    width: 275px;
+    -webkit-box-flex: 0;
+    -webkit-flex: none;
+    flex: none;
+    color: #b36b24;
+}
+
+.job_table .job_list .flexitem {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: space-around;
+    justify-content: space-around;
+    background: none;
+}
+
+.job_table .job_list .flexitem span.tspan {
+    background: #545e99;
+    box-sizing: border-box;
+    display: table;
+    width: 100%;
+    height: 20px;
+    line-height: 20px;
+    border-radius: 4px;
+    text-align: center;
+    font-weight: normal;
+}
+
+.job_table .job_tbody .job_list_head img {
+    display: block;
+    vertical-align: middle;
+}
+
+.job_table .job_tbody .job_list_head.update {
+    display: block;
+    background: #f0dfb6;
+    border-bottom: 0;
+    height: 16px;
+    padding: 0 !important;
+}
+
+.job_table .job_tbody .job_list_head.new {
+    display: block;
+    background: #f0cece;
+    border-bottom: 0;
+    height: 16px;
+    padding: 0 !important;
+}
+
+.job_table .job_tbody .job_tlist {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-justify-content: space-around;
+    justify-content: space-around;
+    box-sizing: border-box;
+}
+
+.job_table .job_tbody .job_tlist .job_titem {
+    -webkit-box-flex: 0;
+    -webkit-flex: none;
+    flex: none;
+    width: 74px;
+    padding: 6px 4px;
+    border-bottom: 1px solid #999999;
+    vertical-align: middle;
+    text-align: left;
+    font-size: 12px;
+    color: #585858;
+    line-height: 1.4;
+    box-sizing: border-box;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: start;
+    -webkit-justify-content: flex-start;
+    justify-content: flex-start;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+}
+
+.job_table .job_tbody .job_tlist .job_titem p {
+    display: inline-block;
+    padding-left: 2px;
+}
+
+.job_table .job_tbody .job_tlist .job_titem .skill_icon {
+    position: relative;
+    width: 48px;
+    height: 48px;
+    display: inline-block;
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/strFm2JQDmMpQN9NHfCA2X3vGI.png) no-repeat 4px 2px;
+    background-size: 40px 40px;
+    vertical-align: middle;
+}
+
+.job_table .job_tbody .job_tlist .job_titem .skill_icon img {
+    position: absolute;
+    top: 2px !important;
+    left: 50% !important;
+    margin-left: -20px;
+    display: block;
+    z-index: 1;
+}
+
+.job_table .job_tbody .job_tlist .job_titem .skill_icon:after {
+    content: "";
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/hPseSzWlbPmvaEK5JZk3xGWbfQ.png) no-repeat;
+    width: 48px;
+    height: 48px;
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+}
+
+.job_table .job_tbody .job_tlist .job_titem .skill_txt strong {
+    display: block;
+}
+
+.job_table .job_tbody .job_tlist .job_titem .skill_txt .des {
+    color: #b36b24;
+}
+
+.job_table .job_tbody .job_tlist .job_titem .waper_icon {
+    width: 32px;
+}
+
+.job_table .job_tbody .job_tlist .job_titem .waper_icon img {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.job_table .job_tbody .job_tlist .job_titem .pcent {
+    text-align: center;
+    padding-left: 0px;
+}
+
+.job_table .job_tbody .job_tlist .job_titem .job_des {
+    width: 100%;
+}
+
+.job_table .job_tbody .job_tlist .job_titem .job_des .update_text {
+    text-align: right;
+    position: relative;
+    margin-top: 8px;
+}
+
+.job_table .job_tbody .job_tlist .job_titem .job_des .update_text .update_text__btn {
+    background: #e59900;
+    display: inline-block;
+    width: 120px;
+    height: 24px;
+    text-align: center;
+    font-size: 12px;
+    font-weight: bold;
+    color: #ffffff;
+    border-radius: 12px;
+    -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+    transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+    line-height: 24px;
+}
+
+.job_table .job_tbody .job_tlist .job_titem .job_des .update_text .update_text__btn .update_text__tooltip {
+    width: 320px;
+    position: absolute;
+    top: 24px;
+    right: 0;
+    border-radius: 4px;
+    padding: 12px 20px;
+    background: #f3f3f3;
+    box-shadow: 0px 0px 0px 2px #f5a300 inset, 0px 1px 3px 0px rgba(0, 0, 0, 0.4);
+    font-size: 12px;
+    color: #585858;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1.4;
+    cursor: default;
+    box-sizing: border-box;
+    z-index: 2;
+    visibility: hidden;
+    opacity: 0;
+    -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+    transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+
+.job_table .job_tbody .job_tlist .job_titem .job_des .update_text .update_text__btn:hover {
+    text-decoration: none;
+    background: #f5a300;
+}
+
+.job_table .job_tbody .job_tlist .job_titem .job_des .update_text .update_text__btn:hover .update_text__tooltip {
+    display: block;
+    visibility: visible;
+    opacity: 1;
+}
+
+.job_table .job_tbody .job_tlist .itflex {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    background: none;
+}
+
+.job_table .job_tbody .job_tlist .itflex .pic_icon {
+    display: inline-block;
+    margin-bottom: 1px;
+}
+
+.job_table .job_tbody .job_tlist .itflex .pic_icon img {
+    display: inline-block;
+}
+
+.job_table .job_tbody .job_tlist .job_titem.itcent {
+    text-align: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+}
+
+.job_table .job_tbody .job_tlist .job_titem.item8_0 {
+    width: 191px;
+    -webkit-box-flex: 0;
+    -webkit-flex: none;
+    flex: none;
+}
+
+.job_table .job_tbody .job_tlist .job_titem.item8_7 {
+    width: 285px;
+    -webkit-box-flex: 0;
+    -webkit-flex: none;
+    flex: none;
+}
+
+.job_table .job_tbody .job_tlist .job_titem.item8_8 {
+    width: 278px;
+    -webkit-box-flex: 0;
+    -webkit-flex: none;
+    flex: none;
+    color: #b36b24;
+}
+
+.job_table .job_tbody .job_tlist.update {
+    background: #f0e4c5;
+}
+
+.job_table .job_tbody .job_tlist.new {
+    background: #f0dddd;
+}
+
+.roopBox7 .job_table .job_list .job_item.item7_0 {
+    width: 189px;
+    -webkit-box-flex: 0;
+    -webkit-flex: none;
+    flex: none;
+}
+
+.roopBox7 .job_table .job_list .job_item.item7_7 {
+    width: 359px;
+    -webkit-box-flex: 0;
+    -webkit-flex: none;
+    flex: none;
+}
+
+.roopBox7 .job_table .job_tbody .job_tlist .job_titem.item7_0 {
+    width: 191px;
+    -webkit-box-flex: 0;
+    -webkit-flex: none;
+    flex: none;
+}
+
+.roopBox7 .job_table .job_tbody .job_tlist .job_titem.item7_7 {
+    width: 359px;
+    -webkit-box-flex: 0;
+    -webkit-flex: none;
+    flex: none;
+}
+
+.roopBox6 .job_table .job_list .job_item {
+    width: 95px;
+}
+
+.roopBox6 .job_table .job_list .job_item.item6_0 {
+    width: 249px;
+    -webkit-box-flex: 0;
+    -webkit-flex: none;
+    flex: none;
+}
+
+.roopBox6 .job_table .job_list .job_item.item6_7 {
+    width: 279px;
+    -webkit-box-flex: 0;
+    -webkit-flex: none;
+    flex: none;
+}
+
+.roopBox6 .job_table .job_tbody .job_tlist .job_titem {
+    width: 97px;
+}
+
+.roopBox6 .job_table .job_tbody .job_tlist .job_titem.item6_0 {
+    width: 251px;
+    -webkit-box-flex: 0;
+    -webkit-flex: none;
+    flex: none;
+}
+
+.roopBox6 .job_table .job_tbody .job_tlist .job_titem.item6_7 {
+    width: 281px;
+    -webkit-box-flex: 0;
+    -webkit-flex: none;
+    flex: none;
+}
+
+.roopBox2 .job_table .job_list .job_item.item2_0 {
+    width: 330px;
+    -webkit-box-flex: 0;
+    -webkit-flex: none;
+    flex: none;
+}
+
+.roopBox2 .job_table .job_list .job_item.item2_1 {
+    width: 587px;
+    -webkit-box-flex: 0;
+    -webkit-flex: none;
+    flex: none;
+}
+
+.roopBox2 .job_table .job_tbody .job_tlist .job_titem.item2_0 {
+    width: 332px;
+    -webkit-box-flex: 0;
+    -webkit-flex: none;
+    flex: none;
+}
+
+.roopBox2 .job_table .job_tbody .job_tlist .job_titem.item2_1 {
+    width: 587px;
+    -webkit-box-flex: 0;
+    -webkit-flex: none;
+    flex: none;
+}
+
+.roopBox3 .job_table .job_list .job_item.item3_0 {
+    width: 189px;
+    -webkit-box-flex: 0;
+    -webkit-flex: none;
+    flex: none;
+}
+
+.roopBox3 .job_table .job_list .job_item.item3_1 {
+    width: 72px;
+    -webkit-box-flex: 0;
+    -webkit-flex: none;
+    flex: none;
+}
+
+.roopBox3 .job_table .job_list .job_item.item3_2 {
+    width: 580px;
+    -webkit-box-flex: 0;
+    -webkit-flex: none;
+    flex: none;
+}
+
+.roopBox3 .job_table .job_list .job_item.item3_3 {
+    width: 350px;
+    -webkit-box-flex: 0;
+    -webkit-flex: none;
+    flex: none;
+}
+
+.roopBox3 .job_table .job_tbody .job_tlist .job_titem.item3_0 {
+    width: 191px;
+    -webkit-box-flex: 0;
+    -webkit-flex: none;
+    flex: none;
+}
+
+.roopBox3 .job_table .job_tbody .job_tlist .job_titem.item3_1 {
+    width: 74px;
+    -webkit-box-flex: 0;
+    -webkit-flex: none;
+    flex: none;
+}
+
+.roopBox3 .job_table .job_tbody .job_tlist .job_titem.item3_2 {
+    width: 582px;
+    -webkit-box-flex: 0;
+    -webkit-flex: none;
+    flex: none;
+}
+
+.roopBox3 .job_table .job_tbody .job_tlist .job_titem.item3_3 {
+    width: 352px;
+    -webkit-box-flex: 0;
+    -webkit-flex: none;
+    flex: none;
+    color: #b36b24;
+}
+
+.job__wrapper.blue .job__title {
+    background: #2d3a80;
+}
+
+.job__wrapper.blue .job__sub_title {
+    color: #2d3a80;
+}
+
+.job__wrapper.blue .job_table .job_list .job_item {
+    background: #545e99;
+}
+
+.job__wrapper.blue .job_table .job_list .flexitem {
+    background: none;
+}
+
+.job__wrapper.blue .job_table .job_list .flexitem span.tspan {
+    background: #545e99;
+}
+
+.job__wrapper.green .job__title {
+    background: #346624;
+}
+
+.job__wrapper.green .job__sub_title {
+    color: #346624;
+}
+
+.job__wrapper.green .job_table .job_list .job_item {
+    background: #548046;
+}
+
+.job__wrapper.green .job_table .job_list .flexitem {
+    background: none;
+}
+
+.job__wrapper.green .job_table .job_list .flexitem span.tspan {
+    background: #548046;
+}
+
+.job__wrapper.green .rightNav .nav__floating .nav__floating__list .job__nav_title {
+    color: #346624;
+}
+
+.job__wrapper.red .job__title {
+    background: #732828;
+}
+
+.job__wrapper.red .job__sub_title {
+    color: #732828;
+}
+
+.job__wrapper.red .job_table .job_list .job_item {
+    background: #8c4d4d;
+}
+
+.job__wrapper.red .job_table .job_list .flexitem {
+    background: none;
+}
+
+.job__wrapper.red .job_table .job_list .flexitem span.tspan {
+    background: #8c4d4d;
+}
+
+.job__wrapper.red .rightNav .nav__floating .nav__floating__list .job__nav_title {
+    color: #732828;
+}
+
+.job__wrapper .rightNav .nav__floating .nav__floating__list.sList {
+    visibility: visible;
+    opacity: 1;
+}
+
+@media screen and (max-width: 1538px) {
+    .job__wrapper .rightNav .nav__floating .nav__floating__icon {
+        display: block;
+        opacity: 1;
+    }
+
+    .job__wrapper .rightNav .nav__floating .nav__floating__list {
+        visibility: hidden;
+        opacity: 0;
+    }
+}

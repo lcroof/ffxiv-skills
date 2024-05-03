@@ -1,23 +1,19 @@
 # ffxiv-skills
 
-## Project setup
+## 安装方式
 ```
+先加载npm淘宝镜像，再使用npm安装pnpm
+npm config set registry https://registry.npmmirror.com
+npm install -g pnpm@8.15.0
+pnpm config set registry https://registry.npmmirror.com
 pnpm install
 ```
 
-### Compiles and hot-reloads for development
+### 启动页面
 ```
 pnpm run serve
-```
 
-### Compiles and minifies for production
-```
-pnpm run build
-```
-
-### Lints and fixes files
-```
-pnpm run lint
+默认地址为http://localhost:8080/
 ```
 
 ### Customize configuration
