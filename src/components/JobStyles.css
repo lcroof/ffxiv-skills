@@ -862,7 +862,7 @@ td {
 }
 
 .bannerBox .job__header__inner .job__header__jobname__role {
-    margin-left: 16px;
+    margin-left: -320px;
     display: block;
     line-height: 32px;
     font-size: 14px;
