@@ -5,10 +5,15 @@ import moment from 'moment';
 
 export default {
     name: 'JobView',
-    //获取攻击范围图标
-    getRangeImage(rangeType) {
-        return "../../assets/rangeUI/" + rangeType + ".png";
-    },
+    methods: {
+        getRangeImage(ranger) {
+            if (ranger === "circle") {
+                return this.headers.circle;
+            } else if (ranger == "zero") {
+                return this.headers.zero
+            }
+        },
+    },    
     setup() {
         const skills = ref(null);
         const roleSkills = ref(null);
@@ -28,7 +33,8 @@ export default {
                 response = await axios.get('./JobSkills/Traits/' + currentRoute);
                 traits.value = response.data;
                 response = await axios.get('./WebResource/' + currentRoute);
-                Object.assign(headers, response.data[0])
+                Object.assign(headers, response.data[0]);
+
             } catch (error) {
                 console.error('Fetch error:', error);
             }

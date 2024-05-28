@@ -1,0 +1,25 @@
+<template>
+  <router-link to="/BlackMage">黑魔法师</router-link><br/>
+  <router-link to="/BlackMage">黑魔法师</router-link><br/>
+  <router-link to="/BlackMage">黑魔法师</router-link><br/>
+  <router-link to="/BlackMage">黑魔法师</router-link><br/>
+  <router-link to="/BlackMage">黑魔法师</router-link><br/>
+  <router-link to="/BlackMage">黑魔法师</router-link><br/>
+  <router-link to="/BlackMage">黑魔法师</router-link><br/>
+  <router-link to="/BlackMage">黑魔法师</router-link>
+</template>
+    
+<script>
+</script>
+
+<style>
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  margin-top: 60px;
+}
+</style>
+    

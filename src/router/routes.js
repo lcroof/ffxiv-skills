@@ -1,10 +1,14 @@
 import JobView from '../components/JobView.vue'
-import App from '../App.vue'
+import index from '../IndexPage.vue'
 
 const routes = [
     {
         path: '/',
-        component: App
+        component: index
+    },
+    {
+        path: '/IndexPage',
+        component: index
     },
     {
         path: '/BlackMage',

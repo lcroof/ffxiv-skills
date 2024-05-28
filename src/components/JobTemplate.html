@@ -1,4 +1,7 @@
-<div class="views">
+<div class="views">    
+    <div>
+        <a :href="headers.jobTransJapen">日文翻译</a> &nbsp; <a :href="headers.jobTransEng">英文翻译</a>
+    </div>
     <div class="viewCont">
         <div class="page pageContinfo">
             <div class="bannerBox">
@@ -17,8 +20,7 @@
             <div class="job__wrapper red">
                 <div class="job__content">
                     <p class="job__update">最近更新: {{today}}</p>
-                    <p class="job__notes__lv80caution">
-                        本职业指南是Erlade以国际服JobGuide的内容制作的。感谢伊芙嘉登的网页框架修改。<br />由于版本还在不断修正改善中，具体内容以实际更新后版本为准。
+                    <p class="job__notes__lv80caution" v-html="headers.jobTitleDescription">
                     </p>
                     <div class="job__content__wrapper">
                         <h2 class="job__title">技能 &middot; 特性</h2>
@@ -105,7 +107,7 @@
                                                         <span>{{item.distant}}m</span>
                                                     </div>
                                                     <div class="pic_icon">
-                                                        <img :src="item.rangeType" width="16" height="16" alt="" />
+                                                        <img :src="getRangeImage(item.rangeType)" width="16" height="16" alt="" />
                                                         <span>{{item.range}}m</span>
                                                     </div>
                                                 </div>
@@ -207,7 +209,7 @@
                                                         <span>{{item.distant}}m</span>
                                                     </div>
                                                     <div class="pic_icon">
-                                                        <img src="{{getRangeImage(item.rangeType)}}" width="16"
+                                                        <img :src="getRangeImage(item.rangeType)" width="16"
                                                             height="16" alt="" />
                                                         <span>{{item.range}}m</span>
                                                     </div>
