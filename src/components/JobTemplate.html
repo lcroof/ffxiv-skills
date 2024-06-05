@@ -171,7 +171,10 @@
                                                         <img :src="item.pic" width="40" height="40" alt=""
                                                             :style="{'filter': item.isDisabled ? 'grayscale(100%)' : ''}">
                                                     </div>
-                                                    <p class="skill_txt"><strong>{{item.name}}</strong> </p>
+                                                    <p class="skill_txt"><strong v-if="item.isDisabled !== 'true'">
+                                                        <div class="skill_txt" v-html=[item.name]></div>
+                                                        <div class="des" v-if="item.ndes">通过特职任务获得</div>
+                                                    </strong> </p>
                                                 </div>
                                                 <div class="job_titem item8_1">
                                                     <div class="waper_icon">
@@ -275,7 +278,10 @@
                                                         <img :src="item.pic" width="40" height="40" alt=""
                                                             :style="{'filter': item.isDisabled ? 'grayscale(100%)' : ''}">
                                                     </div>
-                                                    <p class="skill_txt"><strong>{{item.name}}</strong> </p>
+                                                    <p class="skill_txt"><strong v-if="item.isDisabled !== 'true'">
+                                                        <div class="skill_txt" v-html=[item.name]></div>
+                                                        <div class="des" v-if="item.ndes">通过特职任务获得</div>
+                                                    </strong></p>
                                                 </div>
                                                 <div class="job_titem item8_1">
                                                     <div class="waper_icon">
@@ -360,11 +366,10 @@
                                                         <img :src="item.pic" width="40" height="40" alt=""
                                                             :style="{'filter': item.isDisabled ? 'grayscale(100%)' : ''}">
                                                     </div>                                                    
-                                                    <strong v-if="item.isDisabled === 'true'"><s class="skill_txt"
-                                                            v-html=[item.name]></s></strong>
-                                                    <strong v-if="item.isDisabled !== 'true'">
-                                                        <div class="skill_txt" v-html=[item.name]></div>                                                        
-                                                    </strong>
+                                                    <p class="skill_txt"><strong v-if="item.isDisabled !== 'true'">
+                                                        <div class="skill_txt" v-html=[item.name]></div>
+                                                        <div class="des" v-if="item.ndes">通过特职任务获得</div>
+                                                    </strong></p>
                                                 </div>
                                                 <div class="job_titem item3_1">
                                                     <div class="waper_icon">
