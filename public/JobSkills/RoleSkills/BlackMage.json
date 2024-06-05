@@ -21,7 +21,7 @@
         "range": "0",
         "rangeType": "zero",
         "content": "一定时间内，令目标的物理伤害降低5%，魔法伤害降低10% <BR>持续时间：10秒",
-        "change": "效果从「令目标的智力与精神降低10% 」变更为「令目标的物理伤害降低5%，魔法伤害降低10% 」"
+        "change": ""
     },
     {
         "isDisabled": false,
@@ -45,7 +45,7 @@
         "range": "5",
         "rangeType": "circle",
         "content": "令目标及其周围的敌人陷入睡眠状态<BR>持续时间：30秒<BR>发动之后会停止自动攻击",
-        "change": "新增技能"
+        "change": ""
     },
     {
         "isDisabled": false,
@@ -101,7 +101,7 @@
         "range": "0",
         "rangeType": "zero",
         "content": "持续恢复自身魔力<BR>效果量：55　持续时间：21秒",
-        "change": "效果量从50变更为55"
+        "change": ""
     },
     {
         "isDisabled": false,

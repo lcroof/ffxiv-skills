@@ -15,7 +15,7 @@
         "distant": "25",
         "range": "0",
         "rangeType": "zero",
-        "content": "对目标发动冰属性魔法攻击　威力：180<BR>追加效果：灵极冰　持续时间：15秒<BR>在处于星极火状态时只会解除该状态<BR>持续时间：15秒",
+        "content": "对目标发动冰属性魔法攻击　<br/>威力：180<br/>追加效果：灵极冰　<br/>持续时间：15秒<br/>在处于星极火状态时只会解除该状态<br/>持续时间：15秒",
         "change": ""
     },
     {
@@ -34,8 +34,8 @@
         "distant": "25",
         "range": "0",
         "rangeType": "zero",
-        "content": "对目标发动火属性魔法攻击　威力：180<BR>追加效果：星极火　持续时间：15秒<BR>在处于灵极冰状态时只会解除该状态<BR>追加效果（发动几率40%）：下次发动爆炎不消耗魔力，同时也没有咏唱时间　持续时间：30秒",
-        "change": "火苗的持续时间从18秒变更为30秒"
+        "content": "对目标发动火属性魔法攻击　<br/>威力：180<br/>追加效果：星极火　<br/>持续时间：15秒<br/>在处于灵极冰状态时只会解除该状态<br/>持续时间：15秒<br/>追加效果（发动几率40%）：下次发动爆炎不消耗魔力，同时也没有咏唱时间　<br/>持续时间：30秒",
+        "change": ""
     },
     {
         "isDisabled": false,
@@ -72,32 +72,32 @@
         "distant": "25",
         "range": "0",
         "rangeType": "zero",
-        "content": "对目标发动雷属性魔法攻击　威力：30<BR>追加效果：雷属性持续伤害<BR>威力：35　持续时间：21秒<BR>自身对目标附加的雷系魔法持续伤害效果同时只能存在一种<BR>追加效果（持续伤害每次起效时，发动几率10%）：<BR>下次发动的雷系魔法咏唱时间与消耗魔力均为0<BR>且命中时的威力会加算持续伤害的总和<BR>持续时间：40秒",
-        "change": "持续伤害威力从40变更为35<BR>持续伤害的持续时间从18秒变更为21秒<BR>雷属性魔法效果提高的持续时间从18秒变更为40秒"
+        "content": "对目标发动雷属性魔法攻击　<br/>威力：30<br/>追加效果：雷属性持续伤害<br/>威力：35　<br/>持续时间：21秒<br/>自身对目标附加的雷系魔法持续伤害效果同时只能存在一种<br/>追加效果（持续伤害每次起效时，发动几率10%）：<br/>下次发动的雷系魔法咏唱时间与消耗魔力均为0<br/>且命中时的威力会加算持续伤害的总和<br/>持续时间：40秒",
+        "change": ""
     },
     {
         "isDisabled": false,
         "name": "冰冻",
         "ndes": false,
-        "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Black%20Mage/Action_12_2022.png",
+        "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Black Mage/Action_12_2022.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/Zlo0xBHOBte3IGPo8SY9XUcGes.png",
         "tname": "咒术师",
         "ticon": "",
         "lvl": "Lv12",
         "classification": "魔法",
-        "cast": "3秒",
+        "cast": "2秒",
         "recast": "2.5秒",
         "cost": "魔力800",
         "distant": "25",
         "range": "5",
         "rangeType": "circle",
-        "content": "对目标及其周围的敌人发动冰属性范围魔法攻击　威力：100<BR>追加效果：灵极冰最大档数　持续时间：15秒<BR>在处于星极火状态时会同时解除该状态<BR>持续时间：15秒",
-        "change": "威力从50变更为100<BR>效果从「对周围的敌人发动冰属性范围魔法攻击」变更为「对目标及其周围的敌人发动冰属性范围魔法攻击」<BR>追加效果从「追加效果：灵极冰　持续时间：15秒」变更为「追加效果：灵极冰最大档数」<BR>距离从「0米」变更为「25米」<BR>咏唱时间从「2秒」变更为「3秒」"
+        "content": "对目标及其周围的敌人发动冰属性范围魔法攻击　<br/>威力：100<br/>追加效果：灵极冰最大档数<br/>在处于星极火状态时会同时解除该状态<br/>持续时间：15秒",
+        "change": ""
     },
     {
         "isDisabled": false,
         "name": "崩溃",
-        "ndes": true,
+        "ndes": false,
         "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Black Mage/Action_07.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/Zlo0xBHOBte3IGPo8SY9XUcGes.png",
         "tname": "咒术师",
@@ -110,7 +110,7 @@
         "distant": "25",
         "range": "0",
         "rangeType": "zero",
-        "content": "对目标发动无属性魔法攻击　威力：100<BR>追加效果（发动几率20%）：伤害变为2倍",
+        "content": "对目标发动无属性魔法攻击　<br/>威力：100<br/>追加效果（发动几率20%）：伤害变为2倍",
         "change": ""
     },
     {
@@ -129,8 +129,8 @@
         "distant": "25",
         "range": "5",
         "rangeType": "circle",
-        "content": "对目标及其周围的敌人发动火属性范围魔法攻击　威力：100<BR>追加效果：星极火最大档数　持续时间：15秒<BR>在处于灵极冰状态时会同时解除该状态<BR>持续时间：15秒<BR>星极火状态时追加效果：核爆效果提高<BR>该状态在星极火状态结束时会被解除",
-        "change": "威力从80变更为100<BR>追加效果从「星极火　持续时间：15秒  在处于灵极冰状态时只会解除该状态  持续时间：15秒」变更为「星极火最大档数　持续时间：15秒  在处于灵极冰状态时会同时解除该状态」<BR>新增效果「星极火状态时追加效果：核爆效果提高<BR>该状态在星极火状态结束时会被解除」"
+        "content": "对目标及其周围的敌人发动火属性范围魔法攻击　<br/>威力：100<br/>追加效果：星极火最大档数<br/>在处于灵极冰状态时只会解除该状态<br/>持续时间：15秒<br/>星极火状态中追加效果：对自身附加核爆效果提高<br/>星极火状态消失时该状态也会同时消失",
+        "change": ""
     },
     {
         "isDisabled": false,
@@ -148,13 +148,13 @@
         "distant": "25",
         "range": "5",
         "rangeType": "circle",
-        "content": "对目标及其周围敌人发动雷属性范围魔法攻击　威力：50<BR>追加效果：雷属性持续伤害<BR>威力：15　持续时间：18秒<BR>自身对目标附加的雷系魔法持续伤害效果同时只能存在一种<BR>追加效果（持续伤害每次起效时，发动几率3%）：下次发动的雷系魔法咏唱时间与消耗魔力均为0<BR>且命中时的威力会加算持续伤害的总和<BR>持续时间：40秒",
-        "change": "威力从30变更为50<BR>持续伤害的威力从30变更为15<BR>持续伤害的持续时间从12秒变更为18秒<BR>雷属性魔法效果提高的持续时间从18秒变更为40秒<BR>咏唱时间从3秒变更为2.5秒"
+        "content": "对目标及其周围敌人发动雷属性范围魔法攻击　威力：50<br/>追加效果：雷属性持续伤害<br/>威力：15　持续时间：18秒<br/>自身对目标附加的雷系魔法持续伤害效果同时只能存在一种<br/>追加效果（持续伤害每次起效时，发动几率3%）：<br/>下次发动的雷系魔法咏唱时间与消耗魔力均为0<br/>且命中时的威力会加算持续伤害的总和<br/>持续时间：40秒",
+        "change": ""
     },
     {
         "isDisabled": false,
         "name": "魔罩",
-        "ndes": true,
+        "ndes": false,
         "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Black Mage/Action_10.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/Zlo0xBHOBte3IGPo8SY9XUcGes.png",
         "tname": "咒术师",
@@ -167,13 +167,13 @@
         "distant": "0",
         "range": "0",
         "rangeType": "zero",
-        "content": "为自身张开一个防护罩，在一定时间内能抵消相当于最大体力30%的伤害量<BR>抵消的伤害量超过上限时防护罩自动消失<BR>持续时间：20秒",
+        "content": "为自身张开一个防护罩，在一定时间内能抵消相当于最大体力30%的伤害量<br/>抵消的伤害量超过上限时防护罩自动消失<br/>持续时间：20秒",
         "change": ""
     },
     {
         "isDisabled": false,
         "name": "魔泉",
-        "ndes": true,
+        "ndes": false,
         "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Black Mage/Action_11.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/7JuT00VSwaFqTfcTYUCUnGPFQE.png",
         "tname": "黑魔法师",
@@ -187,7 +187,7 @@
         "range": "0",
         "rangeType": "zero",
         "content": "恢复最大魔力的30%",
-        "change": "复唱时间从180秒变更为120秒"
+        "change": ""
     },
     {
         "isDisabled": false,
@@ -205,13 +205,13 @@
         "distant": "25",
         "range": "0",
         "rangeType": "zero",
-        "content": "对目标发动火属性魔法攻击　威力：260<BR>追加效果：星极火最大档数　持续时间：15秒<BR>在处于灵极冰状态时会同时解除该状态",
-        "change": "习得等级从34变更为35<BR>威力从240变更为260"
+        "content": "对目标发动火属性魔法攻击　<br/>威力：260<br/>追加效果：星极火最大档数　<br/>持续时间：15秒<br/>在处于灵极冰状态时会同时解除该状态",
+        "change": ""
     },
     {
         "isDisabled": false,
         "name": "冰封",
-        "ndes": true,
+        "ndes": false,
         "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Black Mage/Action_14.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/7JuT00VSwaFqTfcTYUCUnGPFQE.png",
         "tname": "黑魔法师",
@@ -224,13 +224,13 @@
         "distant": "25",
         "range": "0",
         "rangeType": "zero",
-        "content": "对目标发动冰属性魔法攻击　威力：260<BR>追加效果：灵极冰最大档数　持续时间：15秒<BR>在处于星极火状态时会同时解除该状态",
-        "change": "习得等级从40变更为35<BR>威力从240变更为260"
+        "content": "对目标发动冰属性魔法攻击　<br/>威力：260<br/>追加效果：灵极冰最大档数　<br/>持续时间：15秒<br/>在处于星极火状态时会同时解除该状态",
+        "change": ""
     },
     {
         "isDisabled": false,
         "name": "玄冰",
-        "ndes": true,
+        "ndes": false,
         "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Black Mage/Action_13.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/7JuT00VSwaFqTfcTYUCUnGPFQE.png",
         "tname": "黑魔法师",
@@ -243,13 +243,13 @@
         "distant": "25",
         "range": "5",
         "rangeType": "circle",
-        "content": "对目标及其周围的敌人发动冰属性范围魔法攻击　威力：120<BR>追加效果：3档灵极心<BR>灵极心效果：抵消星极火状态中发动火系魔法增加的魔力消耗<BR>另外，发动核爆时会消耗全部的灵极心将魔力消耗降为2/3<BR>发动条件：灵极冰状态中",
-        "change": "习得等级从35变更为40<BR>威力从100变更为120<BR>咏唱时间从2.5秒变更为2.8秒<BR>删除追加效果「灵极冰最大档数　持续时间：15秒<BR>在处于星极火状态时会同时解除该状态」<BR>追加效果从「1档灵极心」变更为「3档灵极心」<BR>新增「发动条件：灵极冰状态中」"
+        "content": "对目标及其周围的敌人发动冰属性范围魔法攻击　<br/>威力：120<br/>追加效果：3档灵极心<br/>灵极心效果：抵消星极火状态中发动火系魔法增加的魔力消耗<br/>另外，发动核爆时会消耗全部的灵极心将魔力消耗降为2/3<br/>发动条件：灵极冰状态中",
+        "change": ""
     },
     {
         "isDisabled": false,
         "name": "暴雷",
-        "ndes": true,
+        "ndes": false,
         "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Black Mage/Action_15.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/7JuT00VSwaFqTfcTYUCUnGPFQE.png",
         "tname": "黑魔法师",
@@ -262,8 +262,8 @@
         "distant": "25",
         "range": "0",
         "rangeType": "zero",
-        "content": "对目标发动雷属性魔法攻击　威力：50<BR>追加效果：雷属性持续伤害<BR>威力：35　持续时间：30秒<BR>自身对目标附加的雷系魔法持续伤害效果同时只能存在一种<BR>追加效果（持续伤害每次起效时，发动几率10%）：<BR>下次发动的雷系魔法咏唱时间与消耗魔力均为0<BR>且命中时的威力会加算持续伤害的总和<BR>持续时间：40秒",
-        "change": "威力从70变更为50<BR>持续伤害的威力从40变更为35<BR>持续伤害的持续时间从24秒变更为30秒<BR>雷属性魔法效果提高的持续时间从18秒变更为40秒"
+        "content": "对目标发动雷属性魔法攻击　<br/>威力：50<br/>追加效果：雷属性持续伤害<br/>威力：35　<br/>持续时间：30秒<br/>自身对目标附加的雷系魔法持续伤害效果同时只能存在一种<br/>追加效果（持续伤害每次起效时，发动几率10%）：<br/>下次发动的雷系魔法咏唱时间与消耗魔力均为0<br/>且命中时的威力会加算持续伤害的总和<br/>持续时间：40秒",
+        "change": ""
     },
     {
         "isDisabled": false,
@@ -281,13 +281,13 @@
         "distant": "25",
         "range": "0",
         "rangeType": "zero",
-        "content": "指定一名队员为目标，自身快速移动到目标身边<BR>止步状态下无法发动",
+        "content": "指定一名队员为目标，自身快速移动到目标身边<br/>止步状态下无法发动",
         "change": ""
     },
     {
         "isDisabled": false,
         "name": "核爆",
-        "ndes": true,
+        "ndes": false,
         "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Black Mage/Action_17.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/Zlo0xBHOBte3IGPo8SY9XUcGes.png",
         "tname": "咒术师",
@@ -300,13 +300,13 @@
         "distant": "25",
         "range": "5",
         "rangeType": "circle",
-        "content": "对目标及其周围的敌人发动火属性范围魔法攻击　威力：220<BR>攻击复数敌人时，对目标之外的敌人威力降低40%<BR>核爆效果提高时威力：280<BR>追加效果：星极火最大档数　持续时间：15秒<BR>发动条件：星极火状态中",
-        "change": "威力从260变更为220<BR> 新增核爆效果提高时威力：280<BR>删除「在处于灵极冰状态时会同时解除该状态」的效果<br>新增「发动条件：星极火状态中」"
+        "content": "对目标及其周围的敌人发动火属性范围魔法攻击　<br/>威力：220<br/>核爆效果提高时的威力：280<br/>攻击复数敌人时，对目标之外的敌人威力降低40%<br/>追加效果：星极火最大档数　<br/>持续时间：15秒<br/>发动条件：「星极火」状态中",
+        "change": ""
     },
     {
         "isDisabled": false,
         "name": "黑魔纹",
-        "ndes": true,
+        "ndes": false,
         "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Black Mage/Action_18.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/7JuT00VSwaFqTfcTYUCUnGPFQE.png",
         "tname": "黑魔法师",
@@ -319,13 +319,13 @@
         "distant": "0",
         "range": "3",
         "rangeType": "circle",
-        "content": "在自身脚下产生黑魔纹<BR>黑魔纹效果：自身的自动攻击间隔、魔法的咏唱及复唱时间缩短15%<BR>持续时间：30秒",
-        "change": "复唱时间从90秒变更为120秒"
+        "content": "在自身脚下产生黑魔纹<br/>黑魔纹效果：自身的自动攻击间隔、魔法的咏唱及复唱时间缩短15%<br/>持续时间：30秒",
+        "change": ""
     },
     {
         "isDisabled": false,
         "name": "激情咏唱",
-        "ndes": true,
+        "ndes": false,
         "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Black Mage/Action_19.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/7JuT00VSwaFqTfcTYUCUnGPFQE.png",
         "tname": "黑魔法师",
@@ -338,13 +338,13 @@
         "distant": "0",
         "range": "0",
         "rangeType": "zero",
-        "content": "效果时间内，自身发动的1次“崩溃”或“火炎”或“悖论”或“雷系魔法”必定触发“崩溃的追加效果”“火苗”“雷云”<BR>持续时间：30秒<BR>积蓄次数：2",
-        "change": "新增对悖论的效果<BR>新增积蓄次数：2<BR>持续时间从15秒变更为30秒"
+        "content": "效果时间内，自身发动的1次“崩溃”或“火炎”或“悖论”或“雷系魔法”必定触发“崩溃的追加效果”“爆炎效果提高”“雷系魔法效果提高”<br/>持续时间：30秒<br/>积蓄次数：2",
+        "change": ""
     },
     {
         "isDisabled": false,
         "name": "冰澈",
-        "ndes": true,
+        "ndes": false,
         "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Black Mage/Action_21.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/7JuT00VSwaFqTfcTYUCUnGPFQE.png",
         "tname": "黑魔法师",
@@ -357,8 +357,8 @@
         "distant": "25",
         "range": "0",
         "rangeType": "zero",
-        "content": "对目标发动冰属性魔法攻击　威力：310<BR>追加效果：3档灵极心<BR>灵极心效果：抵消星极火状态中发动火系魔法增加的魔力消耗<BR>另外，发动核爆时会消耗全部的灵极心将魔力消耗降为2/3<BR>发动条件：灵极冰状态中",
-        "change": "威力从300变更为310<BR>发动条件从「天语及灵极冰状态中」变更为「灵极冰状态中」<BR>咏唱时间从2.8秒变更为2.5秒"
+        "content": "对目标发动冰属性魔法攻击　<br/>威力：310<br/>追加效果：3档灵极心<br/>灵极心效果：抵消星极火状态中发动火系魔法增加的魔力消耗<br/>另外，发动核爆时会消耗全部的灵极心将魔力消耗降为2/3<br/>发动条件：「灵极冰」效果中",
+        "change": ""
     },
     {
         "isDisabled": false,
@@ -376,8 +376,8 @@
         "distant": "25",
         "range": "0",
         "rangeType": "zero",
-        "content": "对目标发动火属性魔法攻击　威力：310<BR>发动条件：星极火状态中",
-        "change": "威力从300变更为310<BR>发动条件从「天语及星极火状态中」变更为「星极火状态中」"
+        "content": "对目标发动火属性魔法攻击　<br/>威力：310<br/>发动条件：星极火状态中",
+        "change": ""
     },
     {
         "isDisabled": false,
@@ -395,7 +395,7 @@
         "distant": "25",
         "range": "0",
         "rangeType": "zero",
-        "content": "快速移动到自身留下的黑魔纹中心<BR>止步状态下无法发动",
+        "content": "快速移动到自身留下的黑魔纹中心<br/>止步状态下无法发动",
         "change": ""
     },
     {
@@ -414,8 +414,8 @@
         "distant": "25",
         "range": "5",
         "rangeType": "circle",
-        "content": "对目标及其周围敌人发动雷属性范围魔法攻击　威力：50<BR>追加效果：雷属性持续伤害<BR>威力：20　持续时间：18秒<BR>自身对目标附加的雷系魔法持续伤害效果同时只能存在一种<BR>追加效果（持续伤害每次起效时，发动几率3%）：下次发动的雷系魔法咏唱时间与消耗魔力均为0<BR>且命中时的威力会加算持续伤害的总和<BR>持续时间：40秒",
-        "change": "持续伤害的威力从30变更为20<BR>雷属性魔法效果提高的持续时间从18秒变更为40秒<BR>咏唱时间从3秒变更为2.5秒<BR>消费从「魔力800」变更为「魔力400」"
+        "content": "对目标及其周围敌人发动雷属性范围魔法攻击　<br/>威力：50<br/>追加效果：雷属性持续伤害<br/>威力：20　<br/>持续时间：18秒<br/>自身对目标附加的雷系魔法持续伤害效果同时只能存在一种<br/>追加效果（持续伤害每次起效时，发动几率3%）：下次发动的雷系魔法咏唱时间与消耗魔力均为0<br/>且命中时的威力会加算持续伤害的总和<br/>持续时间：40秒",
+        "change": ""
     },
     {
         "isDisabled": false,
@@ -433,13 +433,13 @@
         "distant": "0",
         "range": "0",
         "rangeType": "zero",
-        "content": "效果时间内，前3次咏唱的魔法没有任何咏唱时间　持续时间：15秒<BR>积蓄次数：2",
-        "change": "新增积蓄次数：2"
+        "content": "效果时间内，前3次咏唱的魔法没有任何咏唱时间　<br/>持续时间：15秒<br/>积蓄次数：2",
+        "change": ""
     },
     {
         "isDisabled": false,
         "name": "秽浊",
-        "ndes": true,
+        "ndes": false,
         "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Black Mage/Action_26.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/7JuT00VSwaFqTfcTYUCUnGPFQE.png",
         "tname": "黑魔法师",
@@ -448,12 +448,12 @@
         "classification": "魔法",
         "cast": "即时",
         "recast": "2.5秒",
-        "cost": "",
+        "cost": "-",
         "distant": "25",
         "range": "5",
         "rangeType": "circle",
-        "content": "对目标及其周围敌人发动无属性范围魔法攻击　威力：560<BR>攻击复数敌人时，对目标之外的敌人威力降低60%<BR>发动条件：通晓",
-        "change": "威力从650变更为560<BR>攻击复数敌人时，对目标之外的敌人威力降低从25%变更为60%<BR>咏唱时间从2.5秒变更为即时"
+        "content": "对目标及其周围敌人发动无属性范围魔法攻击　<br/>威力：600<br/>攻击复数敌人时，对目标之外的敌人威力降低60%<br/>发动条件：通晓",
+        "change": ""
     },
     {
         "isDisabled": false,
@@ -471,8 +471,8 @@
         "distant": "25",
         "range": "0",
         "rangeType": "zero",
-        "content": "对目标发动火属性魔法攻击　威力：340<BR>追加效果：星极火最大档数　持续时间：15秒<BR>发动条件：星极火状态中",
-        "change": "威力从380变更为340<BR>发动条件从「天语及星极火状态中」变更为「星极火状态中」"
+        "content": "对目标发动火属性魔法攻击　<br/>威力：340<br/>追加效果：星极火最大档数　<br/>持续时间：15秒<br/>发动条件：星极火状态中",
+        "change": ""
     },
     {
         "isDisabled": false,
@@ -490,8 +490,8 @@
         "distant": "0",
         "range": "0",
         "rangeType": "zero",
-        "content": "对自身附加灵极冰状态及1档灵极心<BR>灵极心效果：抵消星极火状态中发动火系魔法增加的魔力消耗<BR>另外，发动核爆时会消耗全部的灵极心将魔力消耗降为2/3<BR>发动条件：灵极冰状态中",
-        "change": "发动条件从「天语及灵极冰状态中」变更为「灵极冰状态中」"
+        "content": "对自身附加灵极冰状态及1档灵极心<br/>灵极心效果：抵消星极火状态中发动火系魔法增加的魔力消耗<br/>另外，发动核爆时会消耗全部的灵极心将魔力消耗降为2/3<br/>发动条件：灵极冰状态中",
+        "change": ""
     },
     {
         "isDisabled": false,
@@ -505,18 +505,18 @@
         "classification": "魔法",
         "cast": "即时",
         "recast": "2.5秒",
-        "cost": "",
+        "cost": "-",
         "distant": "25",
         "range": "0",
         "rangeType": "zero",
-        "content": "对目标发动无属性魔法攻击　威力：760<BR>发动条件：通晓",
-        "change": "威力从750变更为760"
+        "content": "对目标发动无属性魔法攻击　<br/>威力：880<br/>发动条件：通晓",
+        "change": ""
     },
     {
         "isDisabled": false,
-        "name": "High Fire II<BR>高烈炎",
+        "name": "高烈炎",
         "ndes": false,
-        "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Black%20Mage/Action_82_1.png",
+        "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Black Mage/Action_82_1.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/7JuT00VSwaFqTfcTYUCUnGPFQE.png",
         "tname": "黑魔法师",
         "ticon": "",
@@ -528,14 +528,14 @@
         "distant": "25",
         "range": "5",
         "rangeType": "circle",
-        "content": "对目标及其周围的敌人发动火属性范围魔法攻击<BR>威力：140<BR>追加效果：星极火最大档数<BR>持续时间：15秒<BR>在处于灵极冰状态时会同时解除该状态<BR>星极火状态时追加效果：核爆效果提高<BR>该状态在星极火状态结束时会被解除",
-        "change": "新增技能"
+        "content": "对目标及其周围的敌人发动火属性范围魔法攻击　<br/>威力：140<br/>追加效果：星极火最大档数<br/>在处于灵极冰状态时会同时解除该状态<br/>持续时间：15秒<br/>星极火状态中追加效果：核爆效果提高<br/>星极火状态消失时该状态也会同时消失",
+        "change": ""
     },
     {
         "isDisabled": false,
-        "name": "High Blizzard II<br>高冰冻",
+        "name": "高冰冻",
         "ndes": false,
-        "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Black%20Mage/Action_82_2.png",
+        "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Black Mage/Action_82_2.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/7JuT00VSwaFqTfcTYUCUnGPFQE.png",
         "tname": "黑魔法师",
         "ticon": "",
@@ -547,14 +547,14 @@
         "distant": "25",
         "range": "5",
         "rangeType": "circle",
-        "content": "对目标及其周围的敌人发动冰属性范围魔法攻击<BR>威力：140<BR>追加效果：灵极冰最大档数<BR>持续时间：15秒<BR>在处于星极火状态时会同时解除该状态",
-        "change": "新增技能"
+        "content": "对目标及其周围的敌人发动冰属性范围魔法攻击　<br/>威力：140<br/>追加效果：灵极冰最大档数<br/>在处于星极火状态时会同时解除该状态　<br/>持续时间：15秒",
+        "change": ""
     },
     {
         "isDisabled": false,
-        "name": "Amplifier<BR>扩音",
+        "name": "详述",
         "ndes": false,
-        "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Black%20Mage/Action_86.png",
+        "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Black Mage/Action_86.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/7JuT00VSwaFqTfcTYUCUnGPFQE.png",
         "tname": "黑魔法师",
         "ticon": "",
@@ -566,14 +566,14 @@
         "distant": "0",
         "range": "0",
         "rangeType": "zero",
-        "content": "对自身附加通晓状态<BR>发动条件：星极火或灵极冰状态中",
-        "change": "新增技能"
+        "content": "为自身附加通晓状态<br/>发动条件：星极火或灵极冰状态中",
+        "change": ""
     },
     {
         "isDisabled": false,
-        "name": "Paradox<BR>悖论",
+        "name": "悖论",
         "ndes": false,
-        "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Black%20Mage/Action_90.png",
+        "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Black Mage/Action_90.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/7JuT00VSwaFqTfcTYUCUnGPFQE.png",
         "tname": "黑魔法师",
         "ticon": "",
@@ -582,15 +582,10 @@
         "cast": "2.5秒",
         "recast": "2.5秒",
         "cost": "魔力1600",
-        "distant": "0",
+        "distant": "25",
         "range": "0",
         "rangeType": "zero",
-        "content": "对目标发动无属性魔法攻击 威力：500<BR>星极火状态时追加效果：星极火 持续时间：15秒<BR>追加效果（发动几率40%）：下次发动爆炎不消耗魔力，同时也没有咏唱时间 持续时间：30秒<BR>灵极冰状态时追加效果：灵极冰 持续时间：15秒<BR>该魔法不消耗魔力，同时也没有咏唱时间<BR>发动条件：悖论标记<BR>*该技能无法设置到热键栏",
-        "change": "新增技能"
+        "content": "对目标发动无属性魔法攻击　<br/>威力：500<br/>星极火状态中追加效果：星极火　<br/>持续时间：15秒<br/>同时有40%的几率下次发动的爆炎咏唱时间与消耗魔力均为0　<br/>持续时间：30秒<br/>灵极冰状态中追加效果：灵极冰　<br/>持续时间：15秒<br/>该魔法不消耗魔力，也不需要咏唱时间<br/>发动条件：悖论状态中<br/><br/>※该技能无法设置到热键栏",
+        "change": ""
     }
 ]
-
-
-
-
-
