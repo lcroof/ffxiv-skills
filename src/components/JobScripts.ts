@@ -8,9 +8,13 @@ export default {
     methods: {
         getRangeImage(ranger) {
             if (ranger === "circle") {
-                return this.headers.circle;
+                return this.globalAttributes.circle;
             } else if (ranger == "zero") {
-                return this.headers.zero
+                return this.globalAttributes.zero
+            }else if (ranger == "sector") {
+                return this.globalAttributes.sector
+            }else if (ranger == "line") {
+                return this.globalAttributes.line
             }
         },
     },    
@@ -23,6 +27,7 @@ export default {
         const today = moment(new Date()).format('YYYY-MM-DD');
         const jobClassType = 'job__header--' + useRoute().path.substring(1).toLowerCase();
         const headers = reactive({})
+        const globalAttributes = reactive({});
 
         const loadData = async () => {
             try {
@@ -34,6 +39,8 @@ export default {
                 traits.value = response.data;
                 response = await axios.get('./WebResource/' + currentRoute);
                 Object.assign(headers, response.data[0]);
+                response = await axios.get('./WebResource/GlobalAttributes.json');
+                Object.assign(globalAttributes, response.data[0]);
 
             } catch (error) {
                 console.error('Fetch error:', error);
@@ -50,7 +57,8 @@ export default {
             traits,
             today,
             headers,
-            jobClassType
+            jobClassType,
+            globalAttributes
         };
     }
 }

@@ -1,6 +1,6 @@
 <template>
   <router-link to="/BlackMage">黑魔法师</router-link><br/>
-  <router-link to="/BlackMage">黑魔法师</router-link><br/>
+  <router-link to="/RedMage">赤魔法师</router-link><br/>
   <router-link to="/BlackMage">黑魔法师</router-link><br/>
   <router-link to="/BlackMage">黑魔法师</router-link><br/>
   <router-link to="/BlackMage">黑魔法师</router-link><br/>
