@@ -17,6 +17,22 @@ const routes = [
     {
         path: '/RedMage',
         component: JobView
+    },
+    {
+        path: '/Ninja',
+        component: JobView
+    },
+    {
+        path: '/Viper',
+        component: JobView
+    },
+    {
+        path: '/Summoner',
+        component: JobView
+    },
+    {
+        path: '/Samurai',
+        component: JobView
     }
 ]
 

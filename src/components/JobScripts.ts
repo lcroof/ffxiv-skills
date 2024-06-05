@@ -22,6 +22,7 @@ export default {
         const skills = ref(null);
         const roleSkills = ref(null);
         const traits = ref(null);
+        const specialSkills = ref(null);
         const currentRoute = useRoute().path.substring(1) + ".json";
         var response = null;
         const today = moment(new Date()).format('YYYY-MM-DD');
@@ -41,6 +42,8 @@ export default {
                 Object.assign(headers, response.data[0]);
                 response = await axios.get('./WebResource/GlobalAttributes.json');
                 Object.assign(globalAttributes, response.data[0]);
+                response = await axios.get('./JobSkills/SpecialSkills/' + currentRoute);
+                specialSkills.value = response.data;
 
             } catch (error) {
                 console.error('Fetch error:', error);
@@ -58,7 +61,8 @@ export default {
             today,
             headers,
             jobClassType,
-            globalAttributes
+            globalAttributes,
+            specialSkills
         };
     }
 }

@@ -1,7 +1,4 @@
-<div class="views">    
-    <div>
-        <a :href="headers.jobTransJapen">日文翻译</a> &nbsp; <a :href="headers.jobTransEng">英文翻译</a>
-    </div>
+<div class="views">
     <div class="viewCont">
         <div class="page pageContinfo">
             <div class="bannerBox">
@@ -130,6 +127,108 @@
                                 <p class="job__notes">{{headers.footer1}}</p>
                             </div>
                         </div>
+
+                        <div class="subTabNum" v-if="specialSkills">
+                            <div class="roopBox roopBox8">
+                                <h3 id="subTitle_3" class="job__sub_title">{{headers.specialSkillsName}} <span
+                                        class="js__jobguide_new_or_update hide" style="display: inline;"> </span></h3>
+                                <div class="job_table">
+                                    <div class="job_list job_tab_tit">
+                                        <div class="job_item item8_0">
+                                            <span>技能名称</span>
+                                        </div>
+                                        <div class="job_item item8_1">
+                                            <span>习得<br />条件</span>
+                                        </div>
+                                        <div class="job_item item8_2">
+                                            <span>种类</span>
+                                        </div>
+                                        <div class="job_item item8_3">
+                                            <span>咏唱<br />时间</span>
+                                        </div>
+                                        <div class="job_item item8_4">
+                                            <span>复唱<br />时间</span>
+                                        </div>
+                                        <div class="job_item item8_5">
+                                            <span>消费</span>
+                                        </div>
+                                        <div class="job_item item8_6 flexitem">
+                                            <span class="tspan">距离</span>
+                                            <span class="tspan">范围</span>
+                                        </div>
+                                        <div class="job_item item8_7">
+                                            <span>效果</span>
+                                        </div>
+                                        <div class="job_item item8_8">
+                                            <span>变更内容</span>
+                                        </div>
+                                    </div>
+                                    <div class="job_tbody">
+                                        <div class="job_list_type" v-for="item in specialSkills">
+                                            <div class="job_tlist">
+                                                <div class="job_titem item8_0">
+                                                    <div class="skill_icon">
+                                                        <img :src="item.pic" width="40" height="40" alt=""
+                                                            :style="{'filter': item.isDisabled ? 'grayscale(100%)' : ''}">
+                                                    </div>
+                                                    <p class="skill_txt"><strong>{{item.name}}</strong> </p>
+                                                </div>
+                                                <div class="job_titem item8_1">
+                                                    <div class="waper_icon">
+                                                        <div class="oneHas">
+                                                            <div class="item" tabindex="0"
+                                                                v-for="itemIcon in item.ticon">
+                                                                <img :src="itemIcon.url" width="32" height="32"
+                                                                    class="js__tooltip" />
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <p>{{item.lvl}}</p>
+                                                </div>
+                                                <div class="job_titem item8_2 itcent">
+                                                    <p class="pcent">{{item.classification}}</p>
+                                                </div>
+                                                <div class="job_titem item8_3 itcent">
+                                                    <p class="pcent">{{item.cast}}</p>
+                                                </div>
+                                                <div class="job_titem item8_4 itcent">
+                                                    <p class="pcent">{{item.recast}}</p>
+                                                </div>
+                                                <div class="job_titem item8_5 itcent">
+                                                    <p class="pcent">{{item.cost}}</p>
+                                                </div>
+                                                <div class="job_titem item8_6 itflex">
+                                                    <div class="pic_icon">
+                                                        <img src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/mC5EtjE993EXT5Eo_63j2lmWiM.png"
+                                                            width="16" height="16" alt="" />
+                                                        <span>{{item.distant}}m</span>
+                                                    </div>
+                                                    <div class="pic_icon">
+                                                        <img :src="getRangeImage(item.rangeType)" width="16"
+                                                            height="16" alt="" />
+                                                        <span>{{item.range}}m</span>
+                                                    </div>
+                                                </div>
+                                                <div class="job_titem item8_7">
+                                                    <div class="job_des">
+                                                        <div class="content" v-html=[item.content]>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="job_titem item8_8">
+                                                    <div class="job_des">
+                                                        <div class="content" v-html=[item.change]>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>                                    
+                                </div>
+                                <p class="job__notes">{{headers.footer4}}</p>
+                            </div>
+                        </div>
+
                         <div class="subTabNum">
                             <div class="roopBox roopBox8">
                                 <h3 id="subTitle_1" class="job__sub_title">职能技能 <span
@@ -302,4 +401,8 @@
             </div>
         </div>
     </div>
+</div>
+<br/><br/>
+<div>
+    <a :href="headers.jobTransJapen">日文翻译</a> &nbsp; <a :href="headers.jobTransEng">英文翻译</a>
 </div>
