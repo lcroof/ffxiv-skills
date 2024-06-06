@@ -15,9 +15,9 @@
 		"distant": "",
 		"rangetype": "",
 		"range": "",
-		"content": "发动部分魔法后，对自身附加灵极火或星极冰状态<BR>最大档数：1　<br>持续时间：15秒<BR>当自身的星极火或灵极冰达到最高档数时，相反属性的魔法将不消耗魔力<br>但不适用于核爆",
+		"content": "发动部分魔法后，对自身附加灵极火或星极冰状态<BR>最大档数：1　<br>持续时间：15秒<BR>星极火效果：火属性魔法威力提升40%<br>咏唱火属性魔法时魔力消耗提高至2倍，也不会随时间恢复魔力<br>咏唱冰属性魔法将不消耗魔力<br>冰属性魔法威力降低10%<br><br>灵极冰效果：咏唱冰属性魔法时将不消耗魔力<br>冰属性魔法命中时恢复2500魔力<br>咏唱火属性魔法将不消耗魔力<br>火属性魔法威力降低10%",
 		"type": "",
-		"change": ""
+		"change": "效果从“当自身的星极火或灵极冰达到最高档数时，相反属性的魔法将不消耗魔力<br>但不适用于核爆”变更至“星极火效果：火属性魔法威力提升40%<br>咏唱火属性魔法时魔力消耗提高至2倍，也不会随时间恢复魔力<br>咏唱冰属性魔法将不消耗魔力<br>冰属性魔法威力降低10%<br><br>灵极冰效果：咏唱冰属性魔法时将不消耗魔力<br>冰属性魔法命中时恢复2500魔力<br>咏唱火属性魔法将不消耗魔力<br>火属性魔法威力降低10%”"
 	},
 	{
         "isDisabled": false,
@@ -55,12 +55,12 @@
 		"distant": "",
 		"rangetype": "",
 		"range": "",
-		"content": "星极火与灵极冰可以积累到2档",
+		"content": "星极火与灵极冰可以积累到2档<br>积累到2档时发动如下效果<br>星极火效果：火属性魔法威力提升60%<br>冰属性魔法威力降低20%<br><br>灵极冰效果：冰属性魔法命中时恢复5000魔力<br>火属性魔法威力降低20%",
 		"type": "",
-		"change": ""
+		"change": "新增“积累到2档时发动如下效果<br>星极火效果：火属性魔法威力提升60%<br>冰属性魔法威力降低20%<br><br>灵极冰效果：冰属性魔法命中时恢复5000魔力<br>火属性魔法威力降低20%”"
 	},
 	{
-        "isDisabled": false,
+        "isDisabled": true,
         "name": "雷云",
 		"ndes": "",
 		"pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Black Mage/Trait_02.png",
@@ -77,7 +77,7 @@
 		"range": "",
 		"content": "下次咏唱的闪雷、震雷、暴雷、霹雷在命中时额外追加持续伤害总量的伤害，并且咏唱时间与消耗魔力均为0<BR>持续时间：40秒<BR>发动条件：闪雷、暴雷的持续伤害起效时（发动几率10%）或震雷、霹雷的持续伤害起效时（发动几率3%）",
 		"type": "",
-		"change": ""
+		"change": "删除"
 	},
 	{
         "isDisabled": false,
@@ -87,7 +87,7 @@
 		"tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/Zlo0xBHOBte3IGPo8SY9XUcGes.png",
 		"tname": "咒术师",
 		"ticon": "",
-		"lvl": "Lv20",
+		"lvl": "Lv35",
 		"classification": "",
 		"cast": "",
 		"recast": "",
@@ -95,9 +95,9 @@
 		"distant": "",
 		"rangetype": "",
 		"range": "",
-		"content": "星极火与灵极冰可以积累到3档<BR>同时，发动烈炎命中时，对自身附加最大档数的星极火状态，发动冰冻命中时，对自身附加最大档数的灵极冰状态",
+		"content": "星极火与灵极冰可以积累到3档<BR>同时，发动烈炎命中时，对自身附加最大档数的星极火状态，发动冰冻命中时，对自身附加最大档数的灵极冰状态<br>积累到3档时发动如下效果<br>星极火效果：火属性魔法威力提升80%<br>冰属性魔法威力降低30%<br>冰属性魔法的咏唱时间减半<br><br>灵极冰效果：冰属性魔法命中时恢复10000魔力<br>火属性魔法威力降低30%<br>火属性魔法的咏唱时间减半",
 		"type": "",
-		"change": ""
+		"change": "新增“积累到3档时发动如下效果<br>星极火效果：火属性魔法威力提升80%<br>冰属性魔法威力降低30%<br>冰属性魔法的咏唱时间减半<br><br>灵极冰效果：冰属性魔法命中时恢复10000魔力<br>火属性魔法威力降低30%<br>火属性魔法的咏唱时间减半”"
 	},
 	{
         "isDisabled": false,
@@ -161,26 +161,6 @@
 	},
 	{
         "isDisabled": false,
-        "name": "激情咏唱</br>*猜的",
-		"ndes": "通过特职任务获得",
-		"pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Black%20Mage/Action_19.png",
-		"tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/7JuT00VSwaFqTfcTYUCUnGPFQE.png",
-		"tname": "黑魔法师",
-		"ticon": "",
-		"lvl": "Lv54",
-		"classification": "",
-		"cast": "",
-		"recast": "",
-		"cost": "",
-		"distant": "",
-		"rangetype": "",
-		"range": "",
-		"content": "自身发动的“火炎”或“悖论”必定触发",
-		"type": "",
-		"change": "新增特性"
-	},
-	{
-        "isDisabled": false,
         "name": "天语",
 		"ndes": "通过特职任务获得",
 		"pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Black Mage/Trait_56.png",
@@ -195,15 +175,15 @@
 		"distant": "",
 		"rangetype": "",
 		"range": "",
-		"content": "自身发动魔法攻击造成的伤害提高5%<BR>发动条件：灵极火或星极冰状态中<BR>同时，在星极火效果中发动烈炎命中时，对自身附加核爆效果提高状态<BR>星极火状态消失时该状态也会同时消失",
+		"content": "自身发动魔法攻击造成的伤害提高5%<BR>发动条件：灵极火或星极冰状态中",
 		"type": "",
-		"change": ""
+		"change": "删除“同时，在星极火效果中发动烈炎命中时，对自身附加核爆效果提高状态<BR>星极火状态消失时该状态也会同时消失”"
 	},
 	{
         "isDisabled": false,
-        "name": "玄冰效果提高",
+        "name": "灵极心",
 		"ndes": "",
-		"pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Black Mage/Trait_08.png",
+		"pic": "https://img.picgo.net/2024/06/06/630f4a1cde0c5062a3f8c3524f09b4ccb10a614efa86a2c8.png",
 		"tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/7JuT00VSwaFqTfcTYUCUnGPFQE.png",
 		"tname": "黑魔法师",
 		"ticon": "",
@@ -217,7 +197,7 @@
 		"range": "",
 		"content": "对自身附加3档灵极心状态<BR>发动条件：玄冰",
 		"type": "",
-		"change": ""
+		"change": "特性名称从“玄冰效果提高”变更至“灵极心”<br/>图标变更"
 	},
 	{
         "isDisabled": false,
@@ -260,8 +240,8 @@
 		"change": ""
 	},
 	{
-        "isDisabled": false,
-        "name": "激情咏唱效果提高</br>*不知道是啥",
+        "isDisabled": true,
+        "name": "激情咏唱效果提高",
 		"ndes": "",
 		"pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Black Mage/Trait_11.png",
 		"tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/7JuT00VSwaFqTfcTYUCUnGPFQE.png",
@@ -275,9 +255,9 @@
 		"distant": "",
 		"rangetype": "",
 		"range": "",
-		"content": "？",
+		"content": "激情咏唱的复唱时间缩短到30秒",
 		"type": "",
-		"change": ""
+		"change": "删除"
 	},
 	{
         "isDisabled": false,
@@ -400,8 +380,8 @@
 		"change": ""
 	},
 	{
-        "isDisabled": false,
-        "name": "激情咏唱效果提高II</br>*不知道是啥",
+        "isDisabled": true,
+        "name": "激情咏唱效果提高II",
 		"ndes": "",
 		"pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Black Mage/Trait_88.png",
 		"tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/7JuT00VSwaFqTfcTYUCUnGPFQE.png",
@@ -415,9 +395,9 @@
 		"distant": "",
 		"rangetype": "",
 		"range": "",
-		"content": "？",
+		"content": "激情咏唱变为积蓄技能<br>积蓄次数：2",
 		"type": "",
-		"change": ""
+		"change": "删除"
 	},
 	{
         "isDisabled": false,
@@ -435,20 +415,15 @@
 		"distant": "",
 		"rangetype": "",
 		"range": "",
-		"content": "点亮悖论水晶<BR>该状态附加后冰结与火炎变为悖论<BR>发动条件：自身星极火或灵极冰与灵极心最大档数时，将自身的状态转变为相反的属性",
+		"content": "点亮悖论水晶<BR>该状态附加后火炎变为悖论<br>在解除星极火状态时会同时解除该状态<BR>发动条件：自身灵极冰与灵极心最大档数时，将自身的状态转变为相反的属性",
 		"type": "",
-		"change": ""
-	}
-
-
-
-
-	,
+		"change": "效果从“该状态附加后冰结与火炎变为悖论”变更至“该状态附加后火炎变为悖论<br>在解除星极火状态时会同时解除该状态”<br>发动条件从“自身星极火或灵极冰与灵极心最大档数时”变更至“自身灵极冰与灵极心最大档数时”"
+	},
 	{
         "isDisabled": false,
         "name": "闪雷精通III",
 		"ndes": "",
-		"pic": "",
+		"pic": "https://img.picgo.net/2024/06/06/35119d444dfcaa7f9.png",
 		"tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/7JuT00VSwaFqTfcTYUCUnGPFQE.png",
 		"tname": "黑魔法师",
 		"ticon": "",
@@ -466,9 +441,29 @@
 	},
 	{
         "isDisabled": false,
-        "name": "天语效果提高IV<br/>*猜的",
+        "name": "即刻咏唱效果提高",
 		"ndes": "",
-		"pic": "",
+		"pic": "https://img.picgo.net/2024/06/06/324ac7f0c54e1b527abe0a10e2a57033762fba03f10f0b73.png",
+		"tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/7JuT00VSwaFqTfcTYUCUnGPFQE.png",
+		"tname": "黑魔法师",
+		"ticon": "",
+		"lvl": "Lv94",
+		"classification": "",
+		"cast": "",
+		"recast": "",
+		"cost": "",
+		"distant": "",
+		"rangetype": "",
+		"range": "",
+		"content": "即刻咏唱的复唱时间缩短到40秒",
+		"type": "",
+		"change": "新增特性"
+	},
+	{
+        "isDisabled": false,
+        "name": "黑魔纹效果提高",
+		"ndes": "",
+		"pic": "https://img.picgo.net/2024/06/06/c7b90e49edc59f87f8708982f8c3e4969c977800a4196503.png",
 		"tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/7JuT00VSwaFqTfcTYUCUnGPFQE.png",
 		"tname": "黑魔法师",
 		"ticon": "",
@@ -480,7 +475,27 @@
 		"distant": "",
 		"rangetype": "",
 		"range": "",
-		"content": "天语的效果量提高到30%<br/>即刻咏唱的复唱时间缩短到40秒",
+		"content": "可以发动魔纹回溯<br>发动条件：黑魔纹效果",
+		"type": "",
+		"change": "新增特性"
+	},
+	{
+        "isDisabled": false,
+        "name": "天语效果提高IV",
+		"ndes": "",
+		"pic": "https://img.picgo.net/2024/06/06/45aafeebb4ff5a833.png",
+		"tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/7JuT00VSwaFqTfcTYUCUnGPFQE.png",
+		"tname": "黑魔法师",
+		"ticon": "",
+		"lvl": "Lv96",
+		"classification": "",
+		"cast": "",
+		"recast": "",
+		"cost": "",
+		"distant": "",
+		"rangetype": "",
+		"range": "",
+		"content": "天语的效果量提高到30%",
 		"type": "",
 		"change": "新增特性"
 	},
@@ -488,7 +503,7 @@
         "isDisabled": false,
         "name": "通晓效果提高II",
 		"ndes": "",
-		"pic": "",
+		"pic": "https://img.picgo.net/2024/06/06/2487cb25f2081facd.png",
 		"tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/7JuT00VSwaFqTfcTYUCUnGPFQE.png",
 		"tname": "黑魔法师",
 		"ticon": "",
@@ -506,9 +521,9 @@
 	},
 	{
         "isDisabled": false,
-        "name": "极性精通VI*猜的名字",
+        "name": "星极魂效果提高",
 		"ndes": "",
-		"pic": "",
+		"pic": "https://img.picgo.net/2024/06/06/435b799a3a6f7b3ec2c35f276fbeb1ca5779a8f71110e7f1.png",
 		"tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/7JuT00VSwaFqTfcTYUCUnGPFQE.png",
 		"tname": "黑魔法师",
 		"ticon": "",
@@ -520,7 +535,7 @@
 		"distant": "",
 		"rangetype": "",
 		"range": "",
-		"content": "点亮耀星水晶</br>发动条件：自身耀星状态最大档数时",
+		"content": "对自身附加星极魂状态</br>最大档数：6</br>发动条件：炽炎或核爆命中时",
 		"type": "",
 		"change": "新增特性"
 	}

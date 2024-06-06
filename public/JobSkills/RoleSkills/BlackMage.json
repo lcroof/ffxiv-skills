@@ -20,8 +20,8 @@
         "distant": "25",
         "range": "0",
         "rangeType": "zero",
-        "content": "一定时间内，令目标的物理伤害降低5%，魔法伤害降低10% <BR>持续时间：10秒",
-        "change": ""
+        "content": "一定时间内，令目标的物理伤害降低5%，魔法伤害降低10% <BR>持续时间：15秒",
+        "change": "持续时间从10秒变更至15秒"
     },
     {
         "isDisabled": false,
@@ -67,13 +67,13 @@
         "lvl": "Lv18",
         "classification": "能力",
         "cast": "即时",
-        "recast": "60秒",
+        "recast": "40秒",
         "cost": "-",
         "distant": "0",
         "range": "0",
         "rangeType": "zero",
         "content": "一定时间内，下次咏唱的魔法没有任何咏唱时间<BR>持续时间：10秒",
-        "change": ""
+        "change": "复唱时间从60秒变更至40秒"
     },
     {
         "isDisabled": false,
