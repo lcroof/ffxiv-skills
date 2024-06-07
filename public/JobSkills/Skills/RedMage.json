@@ -158,8 +158,8 @@
     "distant": "25",
     "rangeType": "zero",
     "range": "0",
-    "content": "对目标发动火属性魔法攻击　<br>威力：340<BR>追加效果：获得5点黑魔元<BR>发动条件：赤火炎预备状态中",
-    "change":""
+    "content": "对目标发动火属性魔法攻击　<br>威力：360<BR>追加效果：获得5点黑魔元<BR>发动条件：赤火炎预备状态中",
+    "change":"威力从340变更至360"
   },
   {
     "name": "赤飞石",
@@ -176,8 +176,8 @@
     "distant": "25",
     "rangeType": "zero",
     "range": "0",
-    "content": "对目标发动土属性魔法攻击　<br>威力：340<BR>追加效果：获得5点白魔元<BR>发动条件：赤飞石预备状态中",
-    "change":""
+    "content": "对目标发动土属性魔法攻击　<br>威力：360<BR>追加效果：获得5点白魔元<BR>发动条件：赤飞石预备状态中",
+    "change":"威力从340变更至360"
   },
   {
     "name": "交击斩",
@@ -284,8 +284,8 @@
     "distant": "0",
     "rangeType": "zero",
     "range": "0",
-    "content": "持续时间内发动1次赤暴雷或赤暴风、冲击不需要咏唱时间　<br>持续时间：20秒<BR>追加效果：冲击威力提高50<BR>追加效果：发动赤暴雷或赤暴风时，必定为自身附加赤火炎预备或赤飞石预备状态<BR>积蓄次数：2",
-    "change":""
+    "content": "持续时间内发动1次赤暴雷或赤暴风、冲击不需要咏唱时间　<br>持续时间：20秒<BR>追加效果：冲击威力提高50<BR>追加效果：发动赤暴雷或赤暴风时，必定为自身附加赤火炎预备或赤飞石预备状态<BR>追加效果：大冲击预备<br>持续时间：30秒<BR>积蓄次数：2",
+    "change":"新增“追加效果：大冲击预备<br>持续时间：30秒”"
   },
   {
     "name": "划圆斩",
@@ -356,8 +356,8 @@
     "distant": "0",
     "rangeType": "circle",
     "range": "30",
-    "content": "一定时间内，自身发动魔法攻击造成的伤害提高5%<BR>持续时间：20秒<BR>追加效果：令周围队员发动攻击造成的伤害提高5%<BR>持续时间：20秒",
-    "change":""
+    "content": "一定时间内，自身发动魔法攻击造成的伤害提高5%<BR>持续时间：20秒<BR>追加效果：令周围队员发动攻击造成的伤害提高5%<BR>持续时间：20秒<br>追加效果：荆棘钳预备<BR>持续时间：30秒",
+    "change":"新增“追加效果：荆棘钳预备<BR>持续时间：30秒”"
   },
   {
     "name": "魔元化",
@@ -374,8 +374,8 @@
     "distant": "0",
     "rangeType": "zero",
     "range": "0",
-    "content": "获得50点黑魔元和白魔元<BR>追加效果：为自身附加6档魔元化状态　<br>持续时间：15秒<BR>魔元化效果：自身发动魔法攻击造成的伤害提高5%<BR>此技能会中断连击<BR>发动条件：自身处于战斗状态",
-    "change":""
+    "content": "为自身附加3档魔法剑连击预备<br>持续时间：15秒<br>魔法剑连击效果：发动魔回刺、魔交击斩、魔连攻、魔划圆斩·一、魔划圆斩·二、魔划圆斩·三时不消耗魔元<BR>追加效果：为自身附加6档魔元化状态　<br>持续时间：15秒<BR>魔元化效果：自身发动魔法攻击造成的伤害提高5%<BR>此技能会中断连击<BR>发动条件：自身处于战斗状态",
+    "change":"效果从“获得50点黑魔元和白魔元”变更至“为自身附加3档魔法剑连击预备<br>持续时间：15秒<br>魔法剑连击效果：发动魔回刺、魔交击斩、魔连攻、魔划圆斩、魔划圆斩二、魔划圆斩三时不消耗魔元”"
   },
   {
     "name": "震荡",
@@ -392,8 +392,8 @@
     "distant": "25",
     "rangeType": "zero",
     "range": "0",
-    "content": "对目标发动无属性魔法攻击　<br>威力：320<BR>追加效果：获得2点黑魔元与2点白魔元",
-    "change":""
+    "content": "对目标发动无属性魔法攻击　<br>威力：280<BR>追加效果：获得2点黑魔元与2点白魔元",
+    "change":"威力从320变更至280"
   },
   {
     "name": "赤复活",
@@ -446,8 +446,8 @@
     "distant": "25",
     "rangeType": "circle",
     "range": "5",
-    "content": "对目标发动火属性魔法攻击　<br>威力：600<BR>攻击复数敌人时，对目标之外的敌人威力降低60%<BR>追加效果：获得11点黑魔元<BR>追加效果（发动几率20%）：赤火炎预备　<br>持续时间：30秒<BR>发动时白魔元高于黑魔元则100%发动追加效果<BR>发动条件：魔元集3档<BR><BR>※该技能无法设置到热键栏",
-    "change":""
+    "content": "对目标发动火属性魔法攻击　<br>威力：620<BR>攻击复数敌人时，对目标之外的敌人威力降低60%<BR>追加效果：获得11点黑魔元<BR>追加效果（发动几率20%）：赤火炎预备　<br>持续时间：30秒<BR>发动时白魔元高于黑魔元则100%发动追加效果<BR>发动条件：魔元集3档<BR><BR>※该技能无法设置到热键栏",
+    "change":"威力从600变更至620"
   },
   {
     "name": "赤神圣",
@@ -465,7 +465,7 @@
     "rangeType": "circle",
     "range": "5",
     "content": "对目标发动无属性魔法攻击　<br>威力：600<BR>攻击复数敌人时，对目标之外的敌人威力降低60%<BR>追加效果：获得11点白魔元<BR>追加效果（发动几率20%）：赤飞石预备　<br>持续时间：30秒<BR>发动时黑魔元高于白魔元则100%发动追加效果<BR>发动条件：魔元集3档<BR><BR>※该技能无法设置到热键栏",
-    "change":""
+    "change":"威力从600变更至620"
   },
   {
     "name": "续斩",
@@ -500,8 +500,8 @@
     "distant": "25",
     "rangeType": "circle",
     "range": "5",
-    "content": "对目标及其周围敌人发动无属性魔法攻击　<br>威力：680<BR>攻击复数敌人时，对目标之外的敌人威力降低60%<BR>连击条件：赤核爆或赤神圣<BR>追加效果：获得4点黑魔元与4点白魔元<BR>发动条件：赤核爆或赤神圣成功时<BR>满足发动条件后，震荡变为焦热<BR><BR>※该技能无法设置到热键栏",
-    "change":""
+    "content": "对目标及其周围敌人发动无属性魔法攻击　<br>威力：700<BR>攻击复数敌人时，对目标之外的敌人威力降低60%<BR>连击条件：赤核爆或赤神圣<BR>追加效果：获得4点黑魔元与4点白魔元<BR>发动条件：赤核爆或赤神圣成功时<BR>满足发动条件后，震荡变为焦热<BR><BR>※该技能无法设置到热键栏",
+    "change":"威力从680变更至700"
   },
   {
     "name": "赤暴雷",
@@ -519,7 +519,7 @@
     "rangeType": "zero",
     "range": "0",
     "content": "对目标发动雷属性魔法攻击　<br>威力：380<BR>追加效果：获得6点黑魔元<BR>追加效果（发动几率50%）：赤火炎预备　<br>持续时间：30秒",
-    "change":""
+    "change":"威力从380变更至420"
   },
   {
     "name": "赤暴风",
@@ -537,7 +537,25 @@
     "rangeType": "zero",
     "range": "0",
     "content": "对目标发动风属性魔法攻击　<br>威力：380<BR>追加效果：获得6点白魔元<BR>追加效果（发动几率50%）：赤飞石预备　<br>持续时间：30秒",
-    "change":""
+    "change":"威力从380变更至420"
+  },
+  {
+    "name": "Jolt III<br>激荡",
+    "ndes": "",
+    "pic": "https://img.picgo.net/2024/06/07/35080b2183dfd80e8ac4e3cadef51f2ebe78a6929ec16883.png",
+    "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/NRnqJxzRtbDKR1ZHzxazWBBR2Y.png",
+    "tname": "赤魔法师",
+    "ticon": "",
+    "lvl": "Lv82",
+    "classification": "魔法",
+    "cast": "2秒",
+    "recast": "2.5秒",
+    "cost": "魔力200",
+    "distant": "25",
+    "rangeType": "zero",
+    "range": "0",
+    "content": "对目标发动无属性魔法攻击　<br>威力：360<BR>追加效果：获得2点黑魔元与2点白魔元",
+    "change":"新增技能"
   },
   {
     "name": "抗死",
@@ -572,8 +590,62 @@
     "distant": "25",
     "rangeType": "line",
     "range": "25",
-    "content": "向目标所在方向发出直线无属性范围魔法攻击　<br>威力：750<BR>攻击复数敌人时，对目标之外的敌人威力降低60%<BR>连击条件：焦热<BR>追加效果：获得4点黑魔元与4点白魔元<BR>发动条件：焦热成功时<BR>满足发动条件后，焦热会变为决断<BR><BR>※该技能无法设置到热键栏",
-    "change":""
+    "content": "向目标所在方向发出直线无属性范围魔法攻击　<br>威力：760<BR>攻击复数敌人时，对目标之外的敌人威力降低60%<BR>连击条件：焦热<BR>追加效果：获得4点黑魔元与4点白魔元<BR>发动条件：焦热成功时<BR>满足发动条件后，焦热会变为决断<BR><BR>※该技能无法设置到热键栏",
+    "change":"威力从750变更至760"
+  },
+  {
+    "name": "Vice of Thorns<br>荆棘钳",
+    "ndes": "",
+    "pic": "https://img.picgo.net/2024/06/07/50d9ab50f86435573c9ff045d6c3225d1c26ea92ea3c63c3.png",
+    "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/NRnqJxzRtbDKR1ZHzxazWBBR2Y.png",
+    "tname": "赤魔法师",
+    "ticon": "",
+    "lvl": "Lv92",
+    "classification": "能力",
+    "cast": "即时",
+    "recast": "1秒",
+    "cost": "-",
+    "distant": "25",
+    "rangeType": "circle",
+    "range": "5",
+    "content": "对目标及其周围敌人发动无属性范围魔法攻击　<br>威力：520<BR>攻击复数敌人时，对目标之外的敌人威力降低60%<br>发动条件：荆棘钳预备",
+    "change":"新增技能"
+  },
+  {
+    "name": "Grand Impact<br>大冲击",
+    "ndes": "",
+    "pic": "https://img.picgo.net/2024/06/07/63b79fd6936c8bd4698a9a658773f3c5036d6577d9952373.png",
+    "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/NRnqJxzRtbDKR1ZHzxazWBBR2Y.png",
+    "tname": "赤魔法师",
+    "ticon": "",
+    "lvl": "Lv96",
+    "classification": "魔法",
+    "cast": "即时",
+    "recast": "2.5秒",
+    "cost": "魔力400",
+    "distant": "25",
+    "rangeType": "circle",
+    "range": "5",
+    "content": "对目标及其周围敌人发动无属性范围魔法攻击　<br>威力：540<BR>攻击复数敌人时，对目标之外的敌人威力降低60%<br>追加效果：获得3点黑魔元与3点白魔元<BR>发动条件：大冲击预备",
+    "change":"新增技能"
+  },
+  {
+    "name": "Cineration<br>灰化",
+    "ndes": "",
+    "pic": "https://img.picgo.net/2024/06/07/966cc276dfac3302f3c1220ae2200ca36952fa0aef3cf611.png",
+    "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/NRnqJxzRtbDKR1ZHzxazWBBR2Y.png",
+    "tname": "赤魔法师",
+    "ticon": "",
+    "lvl": "Lv100",
+    "classification": "魔法",
+    "cast": "即时",
+    "recast": "1秒",
+    "cost": "-",
+    "distant": "25",
+    "rangeType": "circle",
+    "range": "5",
+    "content": "对目标及其周围敌人发动无属性范围魔法攻击　<br>威力：620<BR>攻击复数敌人时，对目标之外的敌人威力降低60%<br>发动条件：灰化预备",
+    "change":"新增技能"
   },
   {
     "name": "魔回刺",
@@ -590,8 +662,8 @@
     "distant": "3",
     "rangeType": "zero",
     "range": "0",
-    "content": "对目标发动无属性魔法攻击　<br>威力：280<BR>为自身附加1档魔元集<br>发动条件：黑魔元、白魔元各20点<BR><BR>※该技能无法设置到热键栏",
-    "change":""
+    "content": "对目标发动无属性魔法攻击　<br>威力：300<BR>为自身附加1档魔元集<br>发动条件：黑魔元、白魔元各20点<BR><BR>※该技能无法设置到热键栏",
+    "change":"威力从280变更至300"
   },
   {
     "name": "魔交击斩",
@@ -608,8 +680,8 @@
     "distant": "3",
     "rangeType": "zero",
     "range": "0",
-    "content": "对目标发动无属性魔法攻击　<br>威力：150<BR>连击条件：回刺或魔回刺　<br>连击中威力：340<BR>为自身附加1档魔元集<br>发动条件：黑魔元、白魔元各15点<BR><BR>※该技能无法设置到热键栏",
-    "change":""
+    "content": "对目标发动无属性魔法攻击　<br>威力：170<BR>连击条件：回刺或魔回刺　<br>连击中威力：360<BR>为自身附加1档魔元集<br>发动条件：黑魔元、白魔元各15点<BR><BR>※该技能无法设置到热键栏",
+    "change":"威力150从变更至170<br>连击中威力从340变更至360"
   },
   {
     "name": "魔连攻",
@@ -626,11 +698,11 @@
     "distant": "3",
     "rangeType": "zero",
     "range": "0",
-    "content": "对目标发动无属性魔法攻击　<br>威力：130<BR>连击条件：魔交击斩<BR>连击中威力：500<BR>为自身附加1档魔元集<br>发动条件：黑魔元、白魔元各15点<BR><BR>※该技能无法设置到热键栏",
-    "change":""
+    "content": "对目标发动无属性魔法攻击　<br>威力：170<BR>连击条件：魔交击斩<BR>连击中威力：540<BR>为自身附加1档魔元集<br>发动条件：黑魔元、白魔元各15点<BR><BR>※该技能无法设置到热键栏",
+    "change":"威力130从变更至170<br>连击中威力从500变更至540"
   },
   {
-    "name": "魔划圆斩",
+    "name": "魔划圆斩·一",
     "ndes": "",
     "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Red Mage/Action_32.png",
     "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/NRnqJxzRtbDKR1ZHzxazWBBR2Y.png",
@@ -646,6 +718,40 @@
     "range": "8",
     "content": "向目标所在方向发出扇形范围魔法攻击　<br>威力：130<BR>追加效果：为自身附加1档魔元集<br>发动条件：黑魔元、白魔元各20点<BR><BR>※该技能无法设置到热键栏",
     "change":""
+  },  {
+    "name": "Moulinet Deux<br>魔划圆斩·二",
+    "ndes": "",
+    "pic": "https://img.picgo.net/2024/06/07/2b489f4737959da6e.png",
+    "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/NRnqJxzRtbDKR1ZHzxazWBBR2Y.png",
+    "tname": "赤魔法师",
+    "ticon": "",
+    "lvl": "Lv52",
+    "classification": "战技",
+    "cast": "即时",
+    "recast": "1.5秒",
+    "cost": "-",
+    "distant": "8",
+    "rangeType": "sector",
+    "range": "8",
+    "content": "向目标所在方向发出扇形范围魔法攻击　<br>威力：140<BR>连击条件：魔划圆斩·一<BR>追加效果：为自身附加1档魔元集<br>发动条件：黑魔元、白魔元各15点<BR><BR>※该技能无法设置到热键栏",
+    "change":"新增技能"
+  },  {
+    "name": "Moulinet Trois<br>魔划圆斩·三",
+    "ndes": "",
+    "pic": "https://img.picgo.net/2024/06/07/3069cd6d2bde2e67d.png",
+    "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/NRnqJxzRtbDKR1ZHzxazWBBR2Y.png",
+    "tname": "赤魔法师",
+    "ticon": "",
+    "lvl": "Lv52",
+    "classification": "战技",
+    "cast": "即时",
+    "recast": "1.5秒",
+    "cost": "-",
+    "distant": "8",
+    "rangeType": "sector",
+    "range": "8",
+    "content": "向目标所在方向发出扇形范围魔法攻击　<br>威力：150<BR>连击条件：魔划圆斩·二<BR>追加效果：为自身附加1档魔元集<br>发动条件：黑魔元、白魔元各15点<BR><BR>※该技能无法设置到热键栏",
+    "change":"新增技能"
   },
   {
     "name": "魔续斩",
@@ -662,7 +768,7 @@
     "distant": "25",
     "rangeType": "zero",
     "range": "0",
-    "content": "对目标发动无属性魔法攻击　<br>威力：340<BR>发动条件：黑魔元与白魔元各5点<BR><BR>※该技能无法设置到热键栏",
-    "change":""
+    "content": "对目标发动无属性魔法攻击　<br>威力：380<BR>发动条件：黑魔元与白魔元各5点<BR><BR>※该技能无法设置到热键栏",
+    "change":"威力从340变更至380"
   }
 ]

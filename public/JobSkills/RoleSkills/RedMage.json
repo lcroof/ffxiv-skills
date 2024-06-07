@@ -2,7 +2,7 @@
     {
         "isDisabled": false,
         "name": "昏乱",
-        "ndes": "",
+        "ndes": false,
         "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Black Mage/Magical Ranged DPS Role Action_01.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/8Dnf8Wy9IyxIt21y6lrE5atKt0.png",
         "tname": "远程魔法职业",
@@ -20,13 +20,13 @@
         "distant": "25",
         "range": "0",
         "rangeType": "zero",
-        "content": "一定时间内，令目标的物理伤害降低5%，魔法伤害降低10% <BR>持续时间：10秒",
-        "change": "效果从「令目标的智力与精神降低10% 」变更为「令目标的物理伤害降低5%，魔法伤害降低10% 」"
+        "content": "一定时间内，令目标的物理伤害降低5%，魔法伤害降低10% <BR>持续时间：15秒",
+        "change": "持续时间从10秒变更至15秒"
     },
     {
         "isDisabled": false,
         "name": "催眠",
-        "ndes": "",
+        "ndes": false,
         "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Black Mage/Action_05.png",
         "tiurl": "",
         "tname": "",
@@ -45,12 +45,12 @@
         "range": "5",
         "rangeType": "circle",
         "content": "令目标及其周围的敌人陷入睡眠状态<BR>持续时间：30秒<BR>发动之后会停止自动攻击",
-        "change": "新增技能"
+        "change": ""
     },
     {
         "isDisabled": false,
         "name": "即刻咏唱",
-        "ndes": "",
+        "ndes": false,
         "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Black Mage/Magical Ranged DPS Role Action_02.png",
         "tiurl": "",
         "tname": "",
@@ -67,18 +67,18 @@
         "lvl": "Lv18",
         "classification": "能力",
         "cast": "即时",
-        "recast": "60秒",
+        "recast": "40秒",
         "cost": "-",
         "distant": "0",
         "range": "0",
         "rangeType": "zero",
         "content": "一定时间内，下次咏唱的魔法没有任何咏唱时间<BR>持续时间：10秒",
-        "change": ""
+        "change": "复唱时间从60秒变更至40秒"
     },
     {
         "isDisabled": false,
         "name": "醒梦",
-        "ndes": "",
+        "ndes": false,
         "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Black Mage/Magical Ranged DPS Role Action_03.png",
         "tiurl": "",
         "tname": "",
@@ -106,7 +106,7 @@
     {
         "isDisabled": false,
         "name": "沉稳咏唱",
-        "ndes": "",
+        "ndes": false,
         "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Black Mage/Magical Ranged DPS Role Action_04.png",
         "tiurl": "",
         "tname": "",
