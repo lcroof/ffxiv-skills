@@ -284,8 +284,8 @@
     "distant": "0",
     "rangeType": "zero",
     "range": "0",
-    "content": "持续时间内发动1次赤暴雷或赤暴风、冲击不需要咏唱时间　<br>持续时间：20秒<BR>追加效果：冲击威力提高50<BR>追加效果：发动赤暴雷或赤暴风时，必定为自身附加赤火炎预备或赤飞石预备状态<BR>追加效果：大冲击预备<br>持续时间：30秒<BR>积蓄次数：2",
-    "change":"新增“追加效果：大冲击预备<br>持续时间：30秒”"
+    "content": "持续时间内发动1次赤暴雷或赤暴风、冲击不需要咏唱时间　<br>持续时间：20秒<BR>追加效果：冲击威力提高50<BR>追加效果：发动赤暴雷或赤暴风时，必定为自身附加赤火炎预备或赤飞石预备状态<BR>追加效果：贵族冲击预备<br>持续时间：30秒<BR>积蓄次数：2",
+    "change":"新增“追加效果：贵族冲击预备<br>持续时间：30秒”"
   },
   {
     "name": "划圆斩",
@@ -374,7 +374,7 @@
     "distant": "0",
     "rangeType": "zero",
     "range": "0",
-    "content": "为自身附加3档魔法剑连击预备<br>持续时间：15秒<br>魔法剑连击效果：发动魔回刺、魔交击斩、魔连攻、魔划圆斩·一、魔划圆斩·二、魔划圆斩·三时不消耗魔元<BR>追加效果：为自身附加6档魔元化状态　<br>持续时间：15秒<BR>魔元化效果：自身发动魔法攻击造成的伤害提高5%<BR>此技能会中断连击<BR>发动条件：自身处于战斗状态",
+    "content": "为自身附加3档魔法剑连击预备<br>持续时间：15秒<br>魔法剑连击效果：发动魔回刺、魔交击斩、魔连攻、魔划圆斩·一式、魔划圆斩·二式、魔划圆斩·三式时不消耗魔元<BR>追加效果：为自身附加6档魔元化状态　<br>持续时间：15秒<BR>魔元化效果：自身发动魔法攻击造成的伤害提高5%<BR>此技能会中断连击<BR>发动条件：自身处于战斗状态",
     "change":"效果从“获得50点黑魔元和白魔元”变更至“为自身附加3档魔法剑连击预备<br>持续时间：15秒<br>魔法剑连击效果：发动魔回刺、魔交击斩、魔连攻、魔划圆斩、魔划圆斩二、魔划圆斩三时不消耗魔元”"
   },
   {
@@ -518,7 +518,7 @@
     "distant": "25",
     "rangeType": "zero",
     "range": "0",
-    "content": "对目标发动雷属性魔法攻击　<br>威力：380<BR>追加效果：获得6点黑魔元<BR>追加效果（发动几率50%）：赤火炎预备　<br>持续时间：30秒",
+    "content": "对目标发动雷属性魔法攻击　<br>威力：420<BR>追加效果：获得6点黑魔元<BR>追加效果（发动几率50%）：赤火炎预备　<br>持续时间：30秒",
     "change":"威力从380变更至420"
   },
   {
@@ -536,7 +536,7 @@
     "distant": "25",
     "rangeType": "zero",
     "range": "0",
-    "content": "对目标发动风属性魔法攻击　<br>威力：380<BR>追加效果：获得6点白魔元<BR>追加效果（发动几率50%）：赤飞石预备　<br>持续时间：30秒",
+    "content": "对目标发动风属性魔法攻击　<br>威力：420<BR>追加效果：获得6点白魔元<BR>追加效果（发动几率50%）：赤飞石预备　<br>持续时间：30秒",
     "change":"威力从380变更至420"
   },
   {
@@ -612,7 +612,7 @@
     "change":"新增技能"
   },
   {
-    "name": "Grand Impact<br>大冲击",
+    "name": "Grand Impact<br>贵族冲击",
     "ndes": "",
     "pic": "https://img.picgo.net/2024/06/07/63b79fd6936c8bd4698a9a658773f3c5036d6577d9952373.png",
     "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/NRnqJxzRtbDKR1ZHzxazWBBR2Y.png",
@@ -626,7 +626,7 @@
     "distant": "25",
     "rangeType": "circle",
     "range": "5",
-    "content": "对目标及其周围敌人发动无属性范围魔法攻击　<br>威力：540<BR>攻击复数敌人时，对目标之外的敌人威力降低60%<br>追加效果：获得3点黑魔元与3点白魔元<BR>发动条件：大冲击预备",
+    "content": "对目标及其周围敌人发动无属性范围魔法攻击　<br>威力：540<BR>攻击复数敌人时，对目标之外的敌人威力降低60%<br>追加效果：获得3点黑魔元与3点白魔元<BR>发动条件：贵族冲击预备",
     "change":"新增技能"
   },
   {
@@ -702,7 +702,7 @@
     "change":"威力130从变更至170<br>连击中威力从500变更至540"
   },
   {
-    "name": "魔划圆斩·一",
+    "name": "魔划圆斩·一式",
     "ndes": "",
     "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Red Mage/Action_32.png",
     "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/NRnqJxzRtbDKR1ZHzxazWBBR2Y.png",
@@ -717,9 +717,9 @@
     "rangeType": "sector",
     "range": "8",
     "content": "向目标所在方向发出扇形范围魔法攻击　<br>威力：130<BR>追加效果：为自身附加1档魔元集<br>发动条件：黑魔元、白魔元各20点<BR><BR>※该技能无法设置到热键栏",
-    "change":""
+    "change":"技能名称从“魔划圆斩”变更至“魔划圆斩·一式”"
   },  {
-    "name": "Moulinet Deux<br>魔划圆斩·二",
+    "name": "Moulinet Deux<br>魔划圆斩·二式",
     "ndes": "",
     "pic": "https://img.picgo.net/2024/06/07/2b489f4737959da6e.png",
     "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/NRnqJxzRtbDKR1ZHzxazWBBR2Y.png",
@@ -733,10 +733,10 @@
     "distant": "8",
     "rangeType": "sector",
     "range": "8",
-    "content": "向目标所在方向发出扇形范围魔法攻击　<br>威力：140<BR>连击条件：魔划圆斩·一<BR>追加效果：为自身附加1档魔元集<br>发动条件：黑魔元、白魔元各15点<BR><BR>※该技能无法设置到热键栏",
+    "content": "向目标所在方向发出扇形范围魔法攻击　<br>威力：140<BR>连击条件：魔划圆斩·一式<BR>追加效果：为自身附加1档魔元集<br>发动条件：黑魔元、白魔元各15点<BR><BR>※该技能无法设置到热键栏",
     "change":"新增技能"
   },  {
-    "name": "Moulinet Trois<br>魔划圆斩·三",
+    "name": "Moulinet Trois<br>魔划圆斩·三式",
     "ndes": "",
     "pic": "https://img.picgo.net/2024/06/07/3069cd6d2bde2e67d.png",
     "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/NRnqJxzRtbDKR1ZHzxazWBBR2Y.png",
@@ -750,7 +750,7 @@
     "distant": "8",
     "rangeType": "sector",
     "range": "8",
-    "content": "向目标所在方向发出扇形范围魔法攻击　<br>威力：150<BR>连击条件：魔划圆斩·二<BR>追加效果：为自身附加1档魔元集<br>发动条件：黑魔元、白魔元各15点<BR><BR>※该技能无法设置到热键栏",
+    "content": "向目标所在方向发出扇形范围魔法攻击　<br>威力：150<BR>连击条件：魔划圆斩·二式<BR>追加效果：为自身附加1档魔元集<br>发动条件：黑魔元、白魔元各15点<BR><BR>※该技能无法设置到热键栏",
     "change":"新增技能"
   },
   {
