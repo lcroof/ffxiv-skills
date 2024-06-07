@@ -8,8 +8,8 @@
       "tname": "赤魔法师",
       "ticon": "",
       "lvl": "Lv1",
-      "content": "发动有咏唱时间的魔法时，对自身附加连续咏唱状态 <BR>连续咏唱效果：下次咏唱魔法不需要咏唱时间 <BR>若在持续时间中发动自动攻击或能力之外的技能，会立即解除连续咏唱状态",
-      "change": ""
+      "content": "发动有咏唱时间的魔法时，对自身附加连续咏唱状态<br>持续时间：15秒<BR>连续咏唱效果：下次咏唱魔法不需要咏唱时间 <BR>若在持续时间中发动自动攻击或能力之外的技能，会立即解除连续咏唱状态",
+      "change": "新增“持续时间：15秒”"
     },
     {
       "isDisabled": false,
@@ -45,7 +45,7 @@
       "ticon": "",
       "lvl": "Lv62",
       "content": "摇荡变为震荡<BR>将赤闪雷和赤疾风的威力提高到360，将赤火炎和赤飞石的威力提高到300。",
-      "change": "赤闪雷和赤疾风的威力提高从370变更为360，赤火炎和赤飞石的威力提升从310变更为300。"
+      "change": ""
     },
     {
       "isDisabled": false,
@@ -69,7 +69,7 @@
       "ticon": "",
       "lvl": "Lv68",
       "content": "对自身附加1档魔元结晶。<BR>最大档数：3档<BR>在魔元结晶累积到3档魔元结晶时，赤闪雷和赤震雷会变为赤核爆<BR>当习得赤神圣后，赤疾风和赤烈风也会变为赤神圣<BR>发动条件：魔回刺、魔交击斩、魔连攻、魔划圆斩成功时",
-      "change": "新增特性"
+      "change": ""
     },
     {
       "isDisabled": false,
@@ -81,7 +81,7 @@
       "ticon": "",
       "lvl": "Lv72",
       "content": "转移和交剑的威力提高到180",
-      "change": "新增交剑的效果<BR>威力提高从200变更为180"
+      "change": ""
     },
     {
       "isDisabled": false,
@@ -93,7 +93,7 @@
       "ticon": "",
       "lvl": "Lv74",
       "content": "六分反击的复唱时间缩短到35秒<BR>并将赤震雷与赤烈风的威力提高到120",
-      "change": "习得等级从78变更为74<BR>特性名称从「六分反击效果提高」变更为「赤魔法精通」"
+      "change": ""
     },
     {
       "isDisabled": false,
@@ -105,7 +105,7 @@
       "ticon": "",
       "lvl": "Lv78",
       "content": "倍增的复唱时间缩短到110秒<BR>并附加自身造成的魔法伤害提高5%的效果",
-      "change": "习得等级从74变更为78"
+      "change": ""
     },
     {
       "isDisabled": false,
@@ -117,7 +117,7 @@
       "ticon": "",
       "lvl": "Lv82",
       "content": "赤闪雷变为赤暴雷，赤疾风变为赤暴风 <BR>在魔元结晶累积到3档魔元结晶时，赤暴雷会变为赤核爆，赤暴风会变为赤神圣",
-      "change": "新增特性"
+      "change": ""
     },
     {
       "isDisabled": false,
@@ -128,8 +128,8 @@
       "tname": "赤魔法师",
       "ticon": "",
       "lvl": "Lv84",
-      "content": "将赤震雷与赤烈风的威力提高到140，将赤火炎和赤飞石的威力提高到330，将震荡的威力提高到310，将冲击的威力提高到210，将魔续斩的威力提高到330",
-      "change": "新增特性"
+      "content": "震荡变为激荡<br>将魔回刺威力提高到280，将赤震雷与赤烈风的威力提高到140，将赤火炎和赤飞石的威力提高到340，将魔交击斩威力提高到150，将魔连攻威力提高到130，将冲击的威力提高到210，将魔续斩的威力提高到340",
+      "change": "效果从“将震荡的威力提高到310”变更至“震荡变为激荡”<br>新增“将魔回刺威力提高到280，将魔交击斩威力提高到150，将魔连攻威力提高到130”<br>赤火炎和赤飞石的威力提高从330变更至340<br>魔续斩的威力提高从330变更至340<br>"
     },
     {
       "isDisabled": false,
@@ -141,7 +141,7 @@
       "ticon": "",
       "lvl": "Lv88",
       "content": "促进变为积蓄技能 <BR>积蓄次数：2",
-      "change": "新增特性"
+      "change": ""
     },
     {
       "isDisabled": false,
@@ -153,6 +153,78 @@
       "ticon": "",
       "lvl": "Lv90",
       "content": "倍增效果的最大档数增加到6档 ",
+      "change": ""
+    },
+    {
+      "isDisabled": false,
+      "name": "鼓励效果提高",
+      "ndes": "",
+      "pic": "https://img.picgo.net/2024/06/07/45f94d85283732f512fec8c1711b1c39df51410acf2900ae.th.png",
+      "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/NRnqJxzRtbDKR1ZHzxazWBBR2Y.png",
+      "tname": "赤魔法师",
+      "ticon": "",
+      "lvl": "Lv92",
+      "content": "对自身附加荆棘钳预备状态<br>效果时间：30秒<br>发动条件：鼓励",
+      "change": "新增特性"
+    },
+    {
+      "isDisabled": false,
+      "name": "即刻咏唱效果提高",
+      "ndes": "",
+      "pic": "https://img.picgo.net/2024/06/06/324ac7f0c54e1b527abe0a10e2a57033762fba03f10f0b73.png",
+      "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/8Dnf8Wy9IyxIt21y6lrE5atKt0.png",
+      "tname": "远程魔法职业",
+      "ticon": "",
+      "lvl": "Lv94",
+      "content": "即刻咏唱的复唱时间缩短到40秒",
+      "change": "新增特性"
+    },
+    {
+      "isDisabled": false,
+      "name": "技能威力提高",
+      "ndes": "",
+      "pic": "https://img.picgo.net/2024/06/07/ae6d5c72bdf38c89dac03d9bcf9fa65b800264f71c5feb62.th.png",
+      "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/NRnqJxzRtbDKR1ZHzxazWBBR2Y.png",
+      "tname": "赤魔法师",
+      "ticon": "",
+      "lvl": "Lv94",
+      "content": "将魔回刺威力提高到300，将赤火炎和赤飞石的威力提高到380，将魔交击斩和魔连攻威力提高到170，将赤核爆和赤神圣威力提高到620，将冲击的威力提高到210，将魔续斩的威力提高到380，将焦热的威力提高到700,将赤暴风和赤暴雷的威力提高到420,将决断的威力提高到760",
+      "change": "新增特性"
+    },
+    {
+      "isDisabled": false,
+      "name": "促进效果提高II",
+      "ndes": "",
+      "pic": "https://img.picgo.net/2024/06/07/24892bc5f2d7bd0c3.th.png",
+      "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/NRnqJxzRtbDKR1ZHzxazWBBR2Y.png",
+      "tname": "赤魔法师",
+      "ticon": "",
+      "lvl": "Lv96",
+      "content": "对自身附加贵族冲击预备状态<br>效果时间：30秒<br>发动条件：促进<br>该状态附加后激荡和冲击变为贵族冲击",
+      "change": "新增特性"
+    },
+    {
+      "isDisabled": false,
+      "name": "昏乱效果提高",
+      "ndes": "",
+      "pic": "https://img.picgo.net/2024/06/06/4210d1810b0254eb2ff37b8564cac05303cc6ccaa2dc9460.png",
+      "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/8Dnf8Wy9IyxIt21y6lrE5atKt0.png",
+      "tname": "远程魔法职业",
+      "ticon": "",
+      "lvl": "Lv98",
+      "content": "即刻咏唱的复唱时间缩短到40秒",
+      "change": "新增特性"
+    },
+    {
+      "isDisabled": false,
+      "name": "魔元化效果提高III",
+      "ndes": "",
+      "pic": "https://img.picgo.net/2024/06/07/3fad088d6879f9ed3.th.png",
+      "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/NRnqJxzRtbDKR1ZHzxazWBBR2Y.png",
+      "tname": "赤魔法师",
+      "ticon": "",
+      "lvl": "Lv100",
+      "content": "对自身附加灰化预备状态<br>效果时间：30秒<br>发动条件：消耗全部魔元化状态<br>该状态附加后魔元化变为灰化",
       "change": "新增特性"
     }
   ]
