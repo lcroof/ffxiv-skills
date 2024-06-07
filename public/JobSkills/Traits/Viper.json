@@ -1,0 +1,40 @@
+[
+    {
+      "isDisabled": false,
+      "name": "下落受伤减轻",
+      "ndes": "",
+      "pic": "",
+      "tiurl": "",
+      "tname": "Viper",
+      "ticon": "",
+      "lvl": "Lv14",
+      "classification": "",
+      "cast": "",
+      "recast": "",
+      "cost": "",
+      "distant": "",
+      "range": "",
+      "rangeType": "zero",
+      "content": "降低从高处下落时受到的伤害",
+      "change": ""
+    },
+    {
+      "isDisabled": false,
+      "name": "移动速度提高",
+      "ndes": "",
+      "pic": "",
+      "tiurl": "",
+      "tname": "Viper",
+      "ticon": "",
+      "lvl": "Lv20",
+      "classification": "",
+      "cast": "",
+      "recast": "",
+      "cost": "",
+      "distant": "",
+      "range": "",
+      "rangeType": "zero",
+      "content": "提升自身的移动速度",
+      "change": ""
+    }
+]

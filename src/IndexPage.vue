@@ -1,9 +1,9 @@
 <template>
-  <router-link to="/BlackMage">黑魔法师</router-link><br/>
-  <router-link to="/RedMage">赤魔法师</router-link><br/>
   <router-link to="/Ninja">忍者</router-link><br/>
+  <router-link to="/Viper">Viper</router-link><br/>
   <router-link to="/BlackMage">黑魔法师</router-link><br/>
-  <router-link to="/BlackMage">黑魔法师</router-link><br/>
+  <router-link to="/RedMage">赤魔法师</router-link><br/>  
+  <router-link to="/Summoner">召唤师</router-link><br/>
   <router-link to="/BlackMage">黑魔法师</router-link><br/>
   <router-link to="/BlackMage">黑魔法师</router-link><br/>
   <router-link to="/BlackMage">黑魔法师</router-link>

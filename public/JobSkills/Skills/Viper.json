@@ -1,0 +1,40 @@
+[
+    {
+      "isDisabled": false,
+      "name": "牙剑咬创",
+      "ndes": "",
+      "pic": "",
+      "tiurl": "",
+      "tname": "Viper",
+      "ticon": "",
+      "lvl": "Lv1",
+      "classification": "战技",
+      "cast": "即时",
+      "recast": "2.5秒",
+      "cost": "-",
+      "distant": "3",
+      "range": "0",
+      "rangeType": "zero",
+      "content": "对目标发动物理攻击　威力：220",
+      "change": ""
+    },
+    {
+      "isDisabled": false,
+      "name": "牙剑惨毒",
+      "ndes": "",
+      "pic": "",
+      "tiurl": "",
+      "tname": "Viper",
+      "ticon": "",
+      "lvl": "Lv10",
+      "classification": "能力",
+      "cast": "即时",
+      "recast": "2.5秒",
+      "cost": "-",
+      "distant": "0",
+      "range": "0",
+      "rangeType": "zero",
+      "content": "对目标发动物理攻击。威力：100<br/>追加效果：为目标附加惨毒状态 ；持续时间：20秒；<br/>惨毒效果:自身对目标造成的伤害提高10%<br/>若已经附加惨毒状态，则效果时间延长20秒，最多可延长至40秒",
+      "change": ""
+    }
+]

@@ -42,9 +42,12 @@ export default {
                 Object.assign(headers, response.data[0]);
                 response = await axios.get('./WebResource/GlobalAttributes.json');
                 Object.assign(globalAttributes, response.data[0]);
-                response = await axios.get('./JobSkills/SpecialSkills/' + currentRoute);
-                specialSkills.value = response.data;
-
+                try {
+                    response = await axios.get('./JobSkills/SpecialSkills/' + currentRoute);
+                    specialSkills.value = response.data;
+                } catch(error) {
+                    console.error();
+                }
             } catch (error) {
                 console.error('Fetch error:', error);
             }

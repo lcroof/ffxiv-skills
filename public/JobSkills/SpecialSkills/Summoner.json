@@ -1,0 +1,21 @@
+[
+    {
+    "isDisabled": false,
+    "name": "守护之光",
+    "ndes": "",
+    "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Summoner/20220313/Pet Action_2.png",
+    "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/_3v-EDzckpsEC39oe0t4A8pLJk.png",
+    "tname": "秘术师",
+    "ticon": "",
+    "lvl": "Lv2",
+    "classification": "能力",
+    "cast": "即时",
+    "recast": "1.5秒",
+    "cost": "-",
+    "distant": "30",
+    "range": "0",
+    "rangeType": "zero",
+    "content": "命令宝石兽发动守护之光<br/>对召唤该宝石兽的召唤师附加能够抵御一定伤害的防护罩<br/>该防护罩能够抵消相当于目标最大体力20%的伤害量<br/>持续时间：30秒<br/>积蓄次数：2<br/>发动条件：宝石兽处于同行状态",
+    "change": ""
+  }
+]
