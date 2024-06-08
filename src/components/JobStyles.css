@@ -103,9 +103,12 @@
     min-height: 124px;
 }
 
-.job__combo__paladin_01,
+.job__combo__paladin_01 {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/_IVh6kXeW2Nnc3vzoVw2hKv0d0.png) no-repeat 150px 0,url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/_IVh6kXeW2Nnc3vzoVw2hKv0d0.png) no-repeat 370px 0
+}
+
 .job__combo__warrior_01 {
-    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/_IVh6kXeW2Nnc3vzoVw2hKv0d0.png) no-repeat 150px 0, url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/CPlw_vyjntBjdc44iMVcY5qwMQ.png) no-repeat 370px 0;
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/_IVh6kXeW2Nnc3vzoVw2hKv0d0.png) no-repeat 150px 0,url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/CPlw_vyjntBjdc44iMVcY5qwMQ.png) no-repeat 370px 0
 }
 
 .job__combo__root__skill,
@@ -121,105 +124,150 @@
 }
 
 .job__combo__ninja_01 {
-    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/CPlw_vyjntBjdc44iMVcY5qwMQ.png) no-repeat 150px 0, url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/CPlw_vyjntBjdc44iMVcY5qwMQ.png) no-repeat 370px 0;
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/_IVh6kXeW2Nnc3vzoVw2hKv0d0.png) no-repeat 150px 0,url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/CPlw_vyjntBjdc44iMVcY5qwMQ.png) no-repeat 370px 0
 }
 
 .job__combo__ninja_02 {
-    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/ete78hawXp8SmE10UEKuuj3t-A.png) no-repeat 150px 0, url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/DsM5O0psoLoBIZTvp5M6b7HXlU.png) no-repeat 370px 0;
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/DsM5O0psoLoBIZTvp5M6b7HXlU.png) no-repeat 370px 0
 }
 
 .job__combo__ninja_03 {
     background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/DsM5O0psoLoBIZTvp5M6b7HXlU.png) no-repeat 150px 0;
-    border-bottom: 1px solid #999999;
+    border-bottom: 1px solid #999
 }
 
 .job__combo__samurai_01 {
-    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/CPlw_vyjntBjdc44iMVcY5qwMQ.png) no-repeat 150px 0, url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/_IVh6kXeW2Nnc3vzoVw2hKv0d0.png) no-repeat 370px 0;
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/CPlw_vyjntBjdc44iMVcY5qwMQ.png) no-repeat 150px 0,url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/_IVh6kXeW2Nnc3vzoVw2hKv0d0.png) no-repeat 370px 0
 }
 
 .job__combo__samurai_02 {
-    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/_O1Z0ojPuLkXc7Dq3LqUsQg2F8.png) no-repeat 150px 0, url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/_IVh6kXeW2Nnc3vzoVw2hKv0d0.png) no-repeat 370px 0;
-}
-
-.job__combo__samurai_03 {
-    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/DsM5O0psoLoBIZTvp5M6b7HXlU.png) no-repeat 150px 0;
-    border-bottom: 1px solid #999999;
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/_O1Z0ojPuLkXc7Dq3LqUsQg2F8.png) no-repeat 150px 0,url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/_IVh6kXeW2Nnc3vzoVw2hKv0d0.png) no-repeat 370px 0
 }
 
 .job__combo__samurai_04 {
-    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/CPlw_vyjntBjdc44iMVcY5qwMQ.png) no-repeat 150px 0;
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/CPlw_vyjntBjdc44iMVcY5qwMQ.png) no-repeat 150px 0
 }
 
 .job__combo__samurai_03 {
     background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/DsM5O0psoLoBIZTvp5M6b7HXlU.png) no-repeat 150px 0;
-    border-bottom: 1px solid #999999;
+    border-bottom: 1px solid #999
+}
+
+.job__combo__reaper_01 {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/_IVh6kXeW2Nnc3vzoVw2hKv0d0.png) no-repeat 150px 0,url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/_IVh6kXeW2Nnc3vzoVw2hKv0d0.png) no-repeat 370px 0
+}
+
+.job__combo__reaper_02 {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/_IVh6kXeW2Nnc3vzoVw2hKv0d0.png) no-repeat 150px 0
+}
+
+.job__combo__reaper_04 {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/CPlw_vyjntBjdc44iMVcY5qwMQ.png) no-repeat 150px 0
+}
+
+.job__combo__reaper_03 {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/DsM5O0psoLoBIZTvp5M6b7HXlU.png) no-repeat 150px 0;
+    border-bottom: 1px solid #999
 }
 
 .job__combo__dancer {
     display: table-cell;
     width: 640px;
-    max-width: 660px;
+    max-width: 660px
+}
+
+.job__combo__dancer_02 {
+    position: relative
 }
 
 .job__combo__dancer_01__inner {
     width: 640px;
-    padding: 0 110px;
+    padding-left: 55px;
+    padding-right: 165px;
     box-sizing: border-box;
-    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/_IVh6kXeW2Nnc3vzoVw2hKv0d0.png) no-repeat 260px 0;
-    max-width: 660px;
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/_IVh6kXeW2Nnc3vzoVw2hKv0d0.png) no-repeat 205px 0
 }
 
 .job__combo__dancer_02__inner {
     width: 640px;
-    padding: 0 0px;
-    position: relative;
+    height: 124px;
+    padding-left: 165px;
+    padding-right: 55px;
     box-sizing: border-box;
-    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/UQvRh92u9GNkbFPiN-OvjpWgJQ.png) no-repeat 150px 0, url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/UQvRh92u9GNkbFPiN-OvjpWgJQ.png) no-repeat 370px 0;
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/20220312/vpOiKJDYG3_CcwDe5EUhp7Wr3w.png) no-repeat 95px 0,url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/20220312/vpOiKJDYG3_CcwDe5EUhp7Wr3w.png) no-repeat 315px 0
 }
 
 .job__combo__dancer_02__inner .job__combo__root__skill {
     vertical-align: middle;
     padding-right: 0;
-    padding: 0px;
+    padding: 0;
     overflow: hidden;
     width: auto;
-    position: absolute;
+    position: absolute
 }
 
 .job__combo__dancer_02__inner .job__combo__root__skill:first-child {
-    top: 40px;
-    left: 90px;
+    display: table-cell;
+    width: 200px;
+    padding: 16px 20px 16px 0;
+    text-align: center
 }
 
 .job__combo__dancer_02__inner .job__combo__root__skill:last-child {
     top: 40px;
-    left: 310px;
+    left: 310px
+}
+
+.job__combo__dancer_02__inner .job__combo__root__skill_last1 {
+    position: absolute;
+    top: 0;
+    left: 385px
+}
+
+.job__combo__dancer_02__inner .job__combo__root__skill_last2 {
+    position: absolute;
+    top: 123px;
+    left: 385px
 }
 
 .job__combo__dancer_03__inner {
     width: 640px;
     padding: 0 110px;
-    box-sizing: border-box;
+    box-sizing: border-box
+}
+
+.job__combo__dancer_02__percent p span {
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 700;
+    color: #5c95e5
 }
 
 .job__combo__redmage_01 {
-    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/_IVh6kXeW2Nnc3vzoVw2hKv0d0.png) no-repeat 150px 0, url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/_IVh6kXeW2Nnc3vzoVw2hKv0d0.png) no-repeat 370px 0;
-    border-bottom: 1px solid #999999;
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/_IVh6kXeW2Nnc3vzoVw2hKv0d0.png) no-repeat 150px 0,url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/_IVh6kXeW2Nnc3vzoVw2hKv0d0.png) no-repeat 370px 0;
+    border-bottom: 1px solid #999
+}
+
+.job__combo__dancer_02__percent {
+    position: absolute;
+    top: 50%;
+    left: 20px;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%)
 }
 
 .job__combo__dancer_02__inner p {
     width: 120px;
-    margin: 0 50px;
-    padding: 0px;
+    padding: 0
 }
 
 .job__combo__dancer_02__inner p span {
     display: inline-block;
     width: 50%;
     font-size: 16px;
-    font-weight: bold;
+    font-weight: 700;
     color: #5c95e5;
-    padding: 0px;
+    padding: 0
 }
 
 .job__combo__skill_icon {
@@ -912,78 +960,80 @@ td {
 
 .bannerBox .job__header--paladin {
     background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/PJgWlLvCxoVsNsgDVz3QIiUaPQ.jpg) no-repeat center top #192455;
-}
-
-.bannerBox .job__header--warrior {
+    background-attachment: fixed;
+  }
+  .bannerBox .job__header--warrior {
     background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/N8YAPHd3Xp8ZqmVg0JyXKsyjcc.jpg) no-repeat center top #192455;
-}
-
-.bannerBox .job__header--darkknight {
+    background-attachment: fixed;
+  }
+  .bannerBox .job__header--darkknight {
     background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/XRpvy7cMcZs820fzgbZQbb8utk.jpg) no-repeat center top #192455;
-}
-
-.bannerBox .job__header--whitemage {
+    background-attachment: fixed;
+  }
+  .bannerBox .job__header--whitemage {
     background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/HQNAI97-Ozazpss0J7hU4tyqDU.jpg) no-repeat center top #1d4214;
-}
-
-.bannerBox .job__header--scholar {
+    background-attachment: fixed;
+  }
+  .bannerBox .job__header--scholar {
     background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/p9tlpfnVhLTAi5e3V94pFeEOlY.jpg) no-repeat center top #1d4214;
-}
-
-.bannerBox .job__header--astrologian {
+    background-attachment: fixed;
+  }
+  .bannerBox .job__header--astrologian {
     background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/-S2THly0Ng4mGtEmosrkzkKTxQ.jpg) no-repeat center top #1d4214;
-}
-
-.bannerBox .job__header--monk {
-    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/wxEAp2mOU2Ay-gw8HYPlHu5jNM.jpg) no-repeat center 50% #4f1717;
-}
-
-.bannerBox .job__header--dragoon {
-    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/TZOVRpZGk8aqzqEkUj5l3LpF_4.jpg) no-repeat center 50% #4f1717;
-}
-
-.bannerBox .job__header--ninja {
-    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/z5PCF6Hc9Gqb7TefHKxdmSSZM4.jpg) no-repeat center 50% #4f1717;
-}
-
-.bannerBox .job__header--samurai {
-    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/zADePMzBSPsaZMvfM6PIWMeoME.jpg) no-repeat center 50% #4f1717;
-}
-
-.bannerBox .job__header--reaper {
-    background: url(https://img.finalfantasyxiv.com/lds/promo/h/T/Qw-gmeX32gyxMnKvXkuSgsIlpY.jpg) no-repeat center 50% #4f1717;
-}
-
-.bannerBox .job__header--bard {
-    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/LOrM96FURBTJcKghngHIteiYOg.jpg) no-repeat center 50% #4f1717;
-}
-
-.bannerBox .job__header--machinist {
-    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/avhH8ZzC1OUxJXv7K6CSDcuAcg.jpg) no-repeat center 50% #4f1717;
-}
-
-.bannerBox .job__header--blackmage {
-    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/wYtgDGRa8boAqGis2nkadqp--4.jpg) no-repeat center 50% #4f1717;
-    background-size: 100% 140%;
-}
-
-.bannerBox .job__header--summoner {
-    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/nDUQwmh7UmXxQV2GbgmdMKZVQE.jpg) no-repeat center 50% #4f1717;
-    background-size: 100% 140%;
-}
-
-.bannerBox .job__header--redmage {
-    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/z8uUtHOovmt5-wec9shKsMC-p8.jpg) no-repeat center 50% #4f1717;
-    background-size: 100% 140%;
-}
-
-.bannerBox .job__header--gunbreaker {
+    background-attachment: fixed;
+  }
+  .bannerBox .job__header--sage {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20220223ffjob/sage/w_-f_5igjrQvbLnwJXuseavfeY.jpg) no-repeat center top #1d4214;
+    background-attachment: fixed;
+  }
+  .bannerBox .job__header--monk {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/wxEAp2mOU2Ay-gw8HYPlHu5jNM.jpg) no-repeat center top #4f1717;
+    background-attachment: fixed;
+  }
+  .bannerBox .job__header--dragoon {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/TZOVRpZGk8aqzqEkUj5l3LpF_4.jpg) no-repeat center top #4f1717;
+    background-attachment: fixed;
+  }
+  .bannerBox .job__header--ninja {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/z5PCF6Hc9Gqb7TefHKxdmSSZM4.jpg) no-repeat center top #4f1717;
+    background-attachment: fixed;
+  }
+  .bannerBox .job__header--samurai {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/zADePMzBSPsaZMvfM6PIWMeoME.jpg) no-repeat center top #4f1717;
+    background-attachment: fixed;
+  }
+  .bannerBox .job__header--reaper {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20220223ffjob/reaper/Qw-gmeX32gyxMnKvXkuSgsIlpY.jpg) no-repeat center top #4f1717;
+    background-attachment: fixed;
+  }
+  .bannerBox .job__header--bard {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/LOrM96FURBTJcKghngHIteiYOg.jpg) no-repeat center top #4f1717;
+    background-attachment: fixed;
+  }
+  .bannerBox .job__header--machinist {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/avhH8ZzC1OUxJXv7K6CSDcuAcg.jpg) no-repeat center top #4f1717;
+    background-attachment: fixed;
+  }
+  .bannerBox .job__header--blackmage {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/wYtgDGRa8boAqGis2nkadqp--4.jpg) no-repeat center top #4f1717;
+    background-attachment: fixed;
+  }
+  .bannerBox .job__header--summoner {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/nDUQwmh7UmXxQV2GbgmdMKZVQE.jpg) no-repeat center top #4f1717;
+    background-attachment: fixed;
+  }
+  .bannerBox .job__header--redmage {
+    background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/z8uUtHOovmt5-wec9shKsMC-p8.jpg) no-repeat center top #4f1717;
+    background-attachment: fixed;
+  }
+  .bannerBox .job__header--gunbreaker {
     background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/E2i9mNBUDu70knKFq7t2G6DtBc.jpg) no-repeat center top #192455;
-}
-
-.bannerBox .job__header--dancer {
+    background-attachment: fixed;
+  }
+  .bannerBox .job__header--dancer {
     background: url(https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/gDYXzC6_hvciPKTCr8k_oAv_R4.jpg) no-repeat center top #4f1717;
-}
+    background-attachment: fixed;
+  }
 
 .job__wrapper {
     width: 1240px;

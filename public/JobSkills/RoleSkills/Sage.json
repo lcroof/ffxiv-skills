@@ -1,0 +1,158 @@
+[
+    {
+        "isDisabled": false,
+        "name": "沉静",
+        "ndes": "",
+        "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/White Mage/Healer Role Action_01.png",
+        "tiurl": "",
+        "tname": "治疗职业",
+        "ticon": [
+            {
+                "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/V5xx3kfnREBO-2xWbTUW2Csy_Q.png",
+                "tname": "治疗职业"
+            }
+        ],
+        "lvl": "Lv8",
+        "classification": "魔法",
+        "cast": "2.5秒",
+        "recast": "2.5秒",
+        "cost": "魔力600",
+        "distant": "30",
+        "rangeType": "zero",
+        "range": "0",
+        "content": "令目标陷入睡眠状态　<br>持续时间：30秒<BR>发动之后会停止自动攻击",
+        "change": ""
+    },
+    {
+        "isDisabled": false,
+        "name": "康复",
+        "ndes": "",
+        "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/White Mage/Healer Role Action_02.png",
+        "tiurl": "",
+        "tname": "治疗职业",
+        "ticon": [
+            {
+                "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/V5xx3kfnREBO-2xWbTUW2Csy_Q.png",
+                "tname": "治疗职业"
+            }
+        ],
+        "lvl": "Lv10",
+        "classification": "魔法",
+        "cast": "1秒",
+        "recast": "2.5秒",
+        "cost": "魔力400",
+        "distant": "30",
+        "rangeType": "zero",
+        "range": "0",
+        "content": "解除目标身上部分弱化效果中的一种",
+        "change": ""
+    },
+    {
+        "isDisabled": false,
+        "name": "即刻咏唱",
+        "ndes": "",
+        "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/White Mage/Healer Role Action_03.png",
+        "tiurl": "",
+        "tname": "",
+        "ticon": [
+            {
+                "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/V5xx3kfnREBO-2xWbTUW2Csy_Q.png",
+                "tname": "治疗职业"
+            },
+            {
+                "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/8Dnf8Wy9IyxIt21y6lrE5atKt0.png",
+                "tname": "远程魔法职业"
+            }
+        ],
+        "lvl": "Lv18",
+        "classification": "能力",
+        "cast": "即时",
+        "recast": "40秒",
+        "cost": "-",
+        "distant": "0",
+        "rangeType": "zero",
+        "range": "0",
+        "content": "一定时间内，下次咏唱的魔法没有任何咏唱时间<BR>持续时间：10秒",
+        "change": "复唱时间从60秒变更至40秒"
+    },
+    {
+        "isDisabled": false,
+        "name": "醒梦",
+        "ndes": "",
+        "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/White Mage/Healer Role Action_04.png",
+        "tiurl": "",
+        "tname": "",
+        "ticon": [
+            {
+                "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/V5xx3kfnREBO-2xWbTUW2Csy_Q.png",
+                "tname": "治疗职业"
+            },
+            {
+                "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/8Dnf8Wy9IyxIt21y6lrE5atKt0.png",
+                "tname": "远程魔法职业"
+            }
+        ],
+        "lvl": "Lv14",
+        "classification": "能力",
+        "cast": "即时",
+        "recast": "60秒",
+        "cost": "-",
+        "distant": "0",
+        "rangeType": "zero",
+        "range": "0",
+        "content": "持续恢复自身魔力<BR>效果量：55　<br>持续时间：21秒",
+        "change": ""
+    },
+    {
+        "isDisabled": false,
+        "name": "沉稳咏唱",
+        "ndes": "",
+        "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/White Mage/Healer Role Action_05.png",
+        "tiurl": "",
+        "tname": "",
+        "ticon": [
+            {
+                "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/V5xx3kfnREBO-2xWbTUW2Csy_Q.png",
+                "tname": "治疗职业"
+            },
+            {
+                "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/8Dnf8Wy9IyxIt21y6lrE5atKt0.png",
+                "tname": "远程魔法职业"
+            }
+        ],
+        "lvl": "Lv44",
+        "classification": "能力",
+        "cast": "即时",
+        "recast": "120秒",
+        "cost": "-",
+        "distant": "0",
+        "rangeType": "zero",
+        "range": "0",
+        "content": "一定时间内，咏唱的魔法不会被任何妨碍打断<br>同时，令除特定攻击之外其他所有击退与吸引效果失效<BR>持续时间：6秒",
+        "change": ""
+    },
+    {
+        "isDisabled": false,
+        "name": "营救",
+        "ndes": "",
+        "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/White Mage/Healer Role Action_06.png",
+        "tiurl": "",
+        "tname": "治疗职业",
+        "ticon": [
+            {
+                "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/V5xx3kfnREBO-2xWbTUW2Csy_Q.png",
+                "tname": "治疗职业"
+            }
+        ],
+        "lvl": "Lv48",
+        "classification": "能力",
+        "cast": "即时",
+        "recast": "120秒",
+        "cost": "-",
+        "distant": "30",
+        "rangeType": "zero",
+        "range": "0",
+        "content": "将目标队员吸引到自己身边<BR>目标身中部分弱化效果或处于非战斗状态时无效<BR>发动条件：自身处于战斗状态",
+        "change": ""
+    }
+]

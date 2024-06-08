@@ -39,8 +39,8 @@ export default {
                 roleSkills.value = response.data;
                 response = await axios.get('./JobSkills/Traits/' + currentRoute);
                 traits.value = response.data;
-                response = await axios.get('./JobSkills/RoleTraits/' + currentRoute);
-                roleTraits.value = response.data;
+                // response = await axios.get('./JobSkills/RoleTraits/' + currentRoute);
+                // roleTraits.value = response.data;
                 response = await axios.get('./WebResource/' + currentRoute);
                 Object.assign(headers, response.data[0]);
                 response = await axios.get('./WebResource/GlobalAttributes.json');

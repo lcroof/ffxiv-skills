@@ -1,0 +1,215 @@
+[
+    {
+        "isDisabled": false,
+        "name": "技能效果提高",
+        "ndes": "",
+        "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Astrologian/Trait_01.png",
+        "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20220223ffjob/sage/G0lQTD01LdCGk5pECSc7fbbmbM.png",
+        "tname": "贤者",
+        "ticon": "",
+        "lvl": "Lv20",
+        "content": "除自动攻击外的技能造成的伤害提高至基本值的1.1倍，恢复技能的恢复量也提高至基本值的1.1倍",
+        "change": ""
+    },
+    {
+        "isDisabled": false,
+        "name": "技能效果提高II",
+        "ndes": "",
+        "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Astrologian/Trait_03.png",
+        "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20220223ffjob/sage/G0lQTD01LdCGk5pECSc7fbbmbM.png",
+        "tname": "贤者",
+        "ticon": "",
+        "lvl": "Lv40",
+        "content": "除自动攻击外的技能造成的伤害提高至基本值的1.3倍，恢复技能的恢复量也提高至基本值的1.3倍",
+        "change": ""
+    },
+    {
+        "isDisabled": false,
+        "name": "蛇胆",
+        "ndes": "",
+        "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20220223ffjob/sage/b86570a9f72fc265e443871ea6a405826d42060c.png",
+        "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20220223ffjob/sage/G0lQTD01LdCGk5pECSc7fbbmbM.png",
+        "tname": "贤者",
+        "ticon": "",
+        "lvl": "Lv45",
+        "content": "对自身附加蛇胆状态<BR>最大档数：3<BR>每隔20秒获得一档蛇胆<BR>陷入无法战斗状态不影响获得蛇胆",
+        "change": ""
+    },
+    {
+        "isDisabled": false,
+        "name": "贤学誓词",
+        "ndes": "",
+        "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20220223ffjob/sage/3ce64c88b1b8e70aee12747d90c599b922447938.png",
+        "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20220223ffjob/sage/G0lQTD01LdCGk5pECSc7fbbmbM.png",
+        "tname": "贤者",
+        "ticon": "",
+        "lvl": "Lv54",
+        "content": "部分技能的威力提高<BR><BR>注药的威力：250<BR>发炎的威力：330<BR>均衡注药的威力：35",
+        "change": ""
+    },
+    {
+        "isDisabled": false,
+        "name": "自生精通",
+        "ndes": "",
+        "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20220223ffjob/sage/6cf73d5fbe9a086a0860149db46f88f454bb3f13.png",
+        "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20220223ffjob/sage/G0lQTD01LdCGk5pECSc7fbbmbM.png",
+        "tname": "贤者",
+        "ticon": "",
+        "lvl": "Lv60",
+        "content": "自生变为自生II",
+        "change": ""
+    },
+    {
+        "isDisabled": false,
+        "name": "贤学誓词II",
+        "ndes": "",
+        "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20220223ffjob/sage/e7e779832d0197ed60a0214abbab1ca702de2875.png",
+        "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20220223ffjob/sage/G0lQTD01LdCGk5pECSc7fbbmbM.png",
+        "tname": "贤者",
+        "ticon": "",
+        "lvl": "Lv64",
+        "content": "部分技能的威力提高<BR><BR>注药的威力：300<BR>发炎的威力：400<BR>均衡注药的威力：40",
+        "change": ""
+    },
+    {
+        "isDisabled": false,
+        "name": "蛇刺",
+        "ndes": "",
+        "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20220223ffjob/sage/cfb87ef1a74d592d9dcfe7cb33621fb314a1ed01.png",
+        "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20220223ffjob/sage/G0lQTD01LdCGk5pECSc7fbbmbM.png",
+        "tname": "贤者",
+        "ticon": "",
+        "lvl": "Lv66",
+        "content": "对自身附加蛇刺状态<BR>最大档数：3<BR>发动条件：均衡诊断或对自身附加均衡预后因吸收到足够的伤害而消失时",
+        "change": ""
+    },
+    {
+        "isDisabled": false,
+        "name": "攻击魔法精通",
+        "ndes": "",
+        "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20220223ffjob/sage/9c6143925ffafcc5c89f778468efc6007e462af3.png",
+        "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20220223ffjob/sage/G0lQTD01LdCGk5pECSc7fbbmbM.png",
+        "tname": "贤者",
+        "ticon": "",
+        "lvl": "Lv72",
+        "content": "注药变为注药II<BR>发炎变为发炎II<BR>均衡注药变为均衡注药II<BR>同时，箭毒的威力提高到300",
+        "change": ""
+    },
+    {
+        "isDisabled": false,
+        "name": "坚角清汁效果提高",
+        "ndes": "",
+        "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20220223ffjob/sage/e6fa10aa0dbee5933fac656f6ef6dafc1e1e690c.png",
+        "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20220223ffjob/sage/G0lQTD01LdCGk5pECSc7fbbmbM.png",
+        "tname": "贤者",
+        "ticon": "",
+        "lvl": "Lv78",
+        "content": "坚角清汁追加持续恢复效果",
+        "change": ""
+    },
+    {
+        "isDisabled": false,
+        "name": "攻击魔法精通II",
+        "ndes": "",
+        "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20220223ffjob/sage/564a3b60ed5448982dad4d6ccc9cabd37c75c67e.png",
+        "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20220223ffjob/sage/G0lQTD01LdCGk5pECSc7fbbmbM.png",
+        "tname": "贤者",
+        "ticon": "",
+        "lvl": "Lv82",
+        "content": "注药II变为注药III<BR>发炎II变为发炎III<BR>均衡注药II变为均衡注药III<BR>失衡变为失衡II<BR>箭毒变为箭毒II",
+        "change": ""
+    },
+    {
+        "isDisabled": false,
+        "name": "治疗技能效果提高",
+        "ndes": "",
+        "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20220223ffjob/sage/a24e5cd23307348ea0119062908b5153b2b84ca2.png",
+        "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20220223ffjob/sage/G0lQTD01LdCGk5pECSc7fbbmbM.png",
+        "tname": "贤者",
+        "ticon": "",
+        "lvl": "Lv85",
+        "content": "部分技能与防护罩的效果提高<BR><BR>诊断的恢复力：450<BR>心关的恢复力：170<BR>均衡诊断的效果量：抵消相当于治疗量180%的伤害<BR>均衡预后的效果量：抵消相当于治疗量320%的伤害",
+        "change": ""
+    },
+    {
+        "isDisabled": false,
+        "name": "活化效果提高",
+        "ndes": "",
+        "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20220223ffjob/sage/ff0ef626ed580de0d061fda117ba39273ae14e55.png",
+        "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20220223ffjob/sage/G0lQTD01LdCGk5pECSc7fbbmbM.png",
+        "tname": "贤者",
+        "ticon": "",
+        "lvl": "Lv88",
+        "content": "活化的复唱时间缩短到90秒",
+        "change": ""
+    },
+    {
+        "isDisabled": false,
+        "name": "",
+        "ndes": "",
+        "pic": "",
+        "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20220223ffjob/sage/G0lQTD01LdCGk5pECSc7fbbmbM.png",
+        "tname": "贤者",
+        "ticon": "",
+        "lvl": "Lv94",
+        "content": "",
+        "change": ""
+    },
+    {
+        "isDisabled": false,
+        "name": "Enhanced Swiftcast<br>即刻咏唱效果提高",
+        "ndes": "",
+        "pic": "https://img.picgo.net/2024/06/06/324ac7f0c54e1b527abe0a10e2a57033762fba03f10f0b73.png",
+        "tiurl": "",
+        "tname": "",
+        "ticon": [
+            {
+                "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/V5xx3kfnREBO-2xWbTUW2Csy_Q.png",
+                "tname": "治疗职业"
+            },
+            {
+                "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/8Dnf8Wy9IyxIt21y6lrE5atKt0.png",
+                "tname": "远程魔法职业"
+            }
+        ],
+        "lvl": "Lv94",
+        "content": "即刻咏唱的复唱时间缩短到40秒",
+        "change": "新增特性"
+    },
+    {
+        "isDisabled": false,
+        "name": "",
+        "ndes": "",
+        "pic": "",
+        "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20220223ffjob/sage/G0lQTD01LdCGk5pECSc7fbbmbM.png",
+        "tname": "贤者",
+        "ticon": "",
+        "lvl": "Lv94",
+        "content": "",
+        "change": ""
+    },
+    {
+        "isDisabled": false,
+        "name": "",
+        "ndes": "",
+        "pic": "",
+        "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20220223ffjob/sage/G0lQTD01LdCGk5pECSc7fbbmbM.png",
+        "tname": "贤者",
+        "ticon": "",
+        "lvl": "Lv96",
+        "content": "",
+        "change": ""
+    },
+    {
+        "isDisabled": false,
+        "name": "",
+        "ndes": "",
+        "pic": "",
+        "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20220223ffjob/sage/G0lQTD01LdCGk5pECSc7fbbmbM.png",
+        "tname": "贤者",
+        "ticon": "",
+        "lvl": "Lv98",
+        "content": "",
+        "change": ""
+    }
+]

@@ -33,6 +33,18 @@ const routes = [
     {
         path: '/Samurai',
         component: JobView
+    },
+    {
+        path: '/Sage',
+        component: JobView
+    },
+    {
+        path: '/Scholar',
+        component: JobView
+    },
+    {
+        path: '/Monk',
+        component: JobView
     }
 ]
 
