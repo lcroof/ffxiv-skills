@@ -20,8 +20,8 @@
        "distant": "25",
        "range": "0",
        "rangeType": "zero",
-       "content": "一定时间内，令目标的物理伤害降低5%，魔法伤害降低10% <BR>持续时间：10秒",
-       "change": ""
+       "content": "一定时间内，令目标的物理伤害降低5%，魔法伤害降低10% <BR>持续时间：15秒",
+       "change": "持续时间从10秒延长到15秒"
     },
     {
        "isDisabled": false,
@@ -67,13 +67,13 @@
        "lvl": "Lv18",
        "classification": "能力",
        "cast": "即时",
-       "recast": "60秒",
+       "recast": "40秒",
        "cost": "-",
        "distant": "0",
        "range": "0",
        "rangeType": "zero",
        "content": "一定时间内，下次咏唱的魔法没有任何咏唱时间<BR>持续时间：10秒",
-       "change": ""
+       "change": "复唱时间从60秒缩短到40秒"
     },
     {
        "isDisabled": false,
@@ -130,57 +130,5 @@
        "rangeType": "zero",
        "content": "一定时间内，咏唱的魔法不会被任何妨碍打断<BR>同时，令除特定攻击之外其他所有击退与吸引效果失效<BR>持续时间：6秒",
        "change": ""
-      },
-      {
-         "isDisabled": false,
-         "name": "即刻咏唱效果提高",
-         "ndes": "",
-         "pic": "",
-         "tiurl": "",
-         "tname": "",
-         "ticon": [
-            {
-               "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/V5xx3kfnREBO-2xWbTUW2Csy_Q.png",
-               "tname": "治疗职业"
-            },
-            {
-               "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/8Dnf8Wy9IyxIt21y6lrE5atKt0.png",
-               "tname": "远程魔法职业"
-            }
-         ],
-         "lvl": "Lv94",
-         "classification": "能力",
-         "cast": "即时",
-         "recast": "40秒",
-         "cost": "-",
-         "distant": "0",
-         "range": "0",
-         "rangeType": "zero",
-         "content": "即刻咏唱的复唱时间缩短到40秒",
-         "change": "新增技能"
-      },
-      {
-         "isDisabled": false,
-         "name": "昏乱效果提高",
-         "ndes": "",
-         "pic": "",
-         "tiurl": "",
-         "tname": "",
-         "ticon": [
-            {
-               "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/8Dnf8Wy9IyxIt21y6lrE5atKt0.png",
-               "tname": "远程魔法职业"
-            }
-         ],
-         "lvl": "Lv98",
-         "classification": "能力",
-         "cast": "即时",
-         "recast": "40秒",
-         "cost": "-",
-         "distant": "0",
-         "range": "0",
-         "rangeType": "zero",
-         "content": "昏乱的持续时间延长到15秒",
-         "change": "新增技能"
-      }
+      }      
  ]

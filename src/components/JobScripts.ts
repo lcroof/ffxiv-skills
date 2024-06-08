@@ -22,6 +22,7 @@ export default {
         const skills = ref(null);
         const roleSkills = ref(null);
         const traits = ref(null);
+        const roleTraits = ref(null);
         const specialSkills = ref(null);
         const currentRoute = useRoute().path.substring(1) + ".json";
         var response = null;
@@ -38,6 +39,8 @@ export default {
                 roleSkills.value = response.data;
                 response = await axios.get('./JobSkills/Traits/' + currentRoute);
                 traits.value = response.data;
+                response = await axios.get('./JobSkills/RoleTraits/' + currentRoute);
+                roleTraits.value = response.data;
                 response = await axios.get('./WebResource/' + currentRoute);
                 Object.assign(headers, response.data[0]);
                 response = await axios.get('./WebResource/GlobalAttributes.json');
@@ -61,6 +64,7 @@ export default {
             skills,
             roleSkills,
             traits,
+            roleTraits,
             today,
             headers,
             jobClassType,
