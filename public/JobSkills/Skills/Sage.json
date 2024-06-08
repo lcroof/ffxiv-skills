@@ -167,7 +167,7 @@
         "distant": "30",
         "rangeType": "zero",
         "range": "0",
-        "content": "恢复目标的体力　恢复力：300<br>追加效果：为目标附加能够抵御一定伤害的防护罩均衡诊断<br>均衡诊断效果：抵消相当于恢复力180%的伤害量<br>持续时间：30秒<br>无法与均衡诊断及学者的鼓舞效果共存<br>追加效果（暴击时）：为目标附加能够抵御一定伤害的防护罩齐衡诊断<br>齐衡诊断效果：抵消相当于恢复力180%的伤害量<br>持续时间：30秒<BR><br>※该技能无法设置到热键栏",
+        "content": "恢复目标的体力　恢复力：300<br>追加效果：为目标附加能够抵御一定伤害的防护罩均衡诊断<br>均衡诊断效果：抵消相当于恢复力180%的伤害量<br>持续时间：30秒<br>无法与均衡诊断及学者的鼓舞效果共存<br>追加效果（暴击时）：为目标附加能够抵御一定伤害的防护罩齐衡诊断<br>齐衡诊断效果：抵消相当于恢复力180%的伤害量<br>持续时间：30秒<BR><br>※该技能无法设置到热键栏<br>满足发动条件时，诊断变化为均衡诊断",
         "change": ""
     },
     {
@@ -186,7 +186,7 @@
         "distant": "0",
         "rangeType": "circle",
         "range": "15",
-        "content": "恢复自身及周围队员的体力<BR>恢复力：100<BR>追加效果：为目标附加能够抵御一定伤害的防护罩<BR>该防护罩能够抵消相当于治疗量320%的伤害<BR>持续时间：30秒<BR>无法与均衡诊断及学者的鼓舞效果共存<BR><BR>※该技能无法设置到热键栏",
+        "content": "恢复自身及周围队员的体力<BR>恢复力：100<BR>追加效果：为目标附加能够抵御一定伤害的防护罩<BR>该防护罩能够抵消相当于治疗量320%的伤害<BR>持续时间：30秒<BR>无法与均衡诊断及学者的鼓舞效果共存<BR><BR>※该技能无法设置到热键栏<br>满足发动条件时，预后变化为均衡预后",
         "change": ""
     },
     {
@@ -205,7 +205,7 @@
         "distant": "25",
         "rangeType": "zero",
         "range": "0",
-        "content": "对目标附加无属性持续伤害状态<BR>威力：40　<br>持续时间：30秒<BR>追加效果：令带有关心状态的目标恢复体力<BR>恢复力：170<BR><BR>※该技能无法设置到热键栏",
+        "content": "对目标附加无属性持续伤害状态<BR>威力：40　<br>持续时间：30秒<BR>追加效果：令带有关心状态的目标恢复体力<BR>恢复力：170<BR><BR>※该技能无法设置到热键栏<br>满足发动条件时，注药变化为均衡注药",
         "change": ""
     },
     {
@@ -219,13 +219,13 @@
         "lvl": "Lv35",
         "classification": "能力",
         "cast": "即时",
-        "recast": "90秒",
+        "recast": "60秒",
         "cost": "-",
         "distant": "0",
         "rangeType": "zero",
         "range": "0",
         "content": "自身附加4档拯救状态<br>一定时间内，发动攻击魔法时令带有关心状态的目标恢复体力的效果提高1.7倍<BR>持续时间：15秒",
-        "change": ""
+        "change": "复唱时间从90秒变更至60秒"
     },
     {
         "isDisabled": false,
@@ -376,8 +376,8 @@
         "distant": "0",
         "rangeType": "circle",
         "range": "30",
-        "content": "持续恢复自身及周围队员的体力<BR>恢复力：130　<br>持续时间：15秒<BR>追加效果：令目标所受的体力恢复效果提高10%<BR>持续时间：10秒",
-        "change": ""
+        "content": "持续恢复自身及周围队员的体力<BR>恢复力：130　<br>持续时间：15秒<BR>追加效果：令目标所受的体力恢复效果提高10%<BR>持续时间：15秒",
+        "change": "体力恢复效果提高的持续时间从10秒变更至15秒"
     },
     {
         "isDisabled": false,
@@ -490,7 +490,7 @@
         "distant": "25",
         "rangeType": "zero",
         "range": "0",
-        "content": "对目标附加无属性持续伤害状态<BR>威力：60　<br>持续时间：30秒<BR>追加效果：令带有关心状态的目标恢复体力<BR>恢复力：170<BR><BR>※该技能无法设置到热键栏",
+        "content": "对目标附加无属性持续伤害状态<BR>威力：60　<br>持续时间：30秒<BR>追加效果：令带有关心状态的目标恢复体力<BR>恢复力：170<BR><BR>※该技能无法设置到热键栏<br>满足发动条件时，注药II变化为均衡注药II",
         "change": ""
     },
     {
@@ -534,7 +534,7 @@
     {
         "isDisabled": false,
         "name": "泛输血",
-        "ndes": "通过特职任务获得",
+        "ndes": "",
         "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20220223ffjob/sage/f7bdefbdd3410f2dd4b5c0f36e74ee72b115ccda.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20220223ffjob/sage/G0lQTD01LdCGk5pECSc7fbbmbM.png",
         "tname": "贤者",
@@ -566,8 +566,8 @@
         "distant": "25",
         "rangeType": "zero",
         "range": "0",
-        "content": "对目标发动无属性魔法攻击　<br>威力：330<BR>追加效果：令带有关心状态的目标恢复体力<BR>恢复力：170",
-        "change": ""
+        "content": "对目标发动无属性魔法攻击　<br>威力：360<BR>追加效果：令带有关心状态的目标恢复体力<BR>恢复力：170",
+        "change": "威力从330变更至360"
     },
     {
         "isDisabled": false,
@@ -604,7 +604,7 @@
         "distant": "25",
         "rangeType": "zero",
         "range": "0",
-        "content": "对目标附加无属性持续伤害状态<BR>威力：75<BR>持续时间：30秒<BR>追加效果：令带有关心状态的目标恢复体力<BR>恢复力：170<BR><BR>※该技能无法设置到热键栏",
+        "content": "对目标附加无属性持续伤害状态<BR>威力：75<BR>持续时间：30秒<BR>追加效果：令带有关心状态的目标恢复体力<BR>恢复力：170<BR><BR>※该技能无法设置到热键栏<br/>满足发动条件时，注药III变化为均衡注药III",
         "change": ""
     },
     {
@@ -625,6 +625,25 @@
         "range": "5",
         "content": "对自身周围的敌人发动无属性范围魔法攻击<BR>威力：170<BR>追加效果：令带有关心状态的目标恢复体力<BR>恢复力：170",
         "change": ""
+    },
+    {
+        "isDisabled": false,
+        "name": "Eukrasian Dyskrasia<br/>均衡失衡",
+        "ndes": "",
+        "pic": "https://img.picgo.net/2024/06/09/110bdee2d5e5ba797.png",
+        "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20220223ffjob/sage/G0lQTD01LdCGk5pECSc7fbbmbM.png",
+        "tname": "贤者",
+        "ticon": "",
+        "lvl": "Lv82",
+        "classification": "魔法",
+        "cast": "即时",
+        "recast": "1.5秒",
+        "cost": "魔力400",
+        "distant": "0",
+        "rangeType": "circle",
+        "range": "5",
+        "content": "对自身周围的敌人附加无属性持续伤害状态<BR>威力：40<BR>持续时间：30秒<BR>追加效果：令带有关心状态的目标恢复体力<BR>恢复力：170<BR><BR>※该技能无法设置到热键栏<br/>满足发动条件时，失衡II变化为均衡失衡",
+        "change": "新增技能"
     },
     {
         "isDisabled": false,
@@ -685,28 +704,47 @@
     },
     {
         "isDisabled": false,
-        "name": "",
+        "name": "Psyche<br/>灵魂",
         "ndes": "",
-        "pic": "",
+        "pic": "https://img.picgo.net/2024/06/09/24709c1f34fafb836.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20220223ffjob/sage/G0lQTD01LdCGk5pECSc7fbbmbM.png",
         "tname": "贤者",
         "ticon": "",
         "lvl": "Lv92",
-        "classification": "魔法",
+        "classification": "能力",
         "cast": "即时",
         "recast": "60秒",
         "cost": "-",
         "distant": "25",
         "rangeType": "circle",
         "range": "5",
-        "content": "",
+        "content": "对目标及其周围的敌人发动无属性范围魔法攻击<BR>威力：600<BR>攻击复数敌人时，对目标之外的敌人威力降低50%",
         "change": "新增技能"
     },
     {
         "isDisabled": false,
-        "name": "",
+        "name": "Eukrasian Prognosis II<br/>均衡预后II",
         "ndes": "",
-        "pic": "",
+        "pic": "https://img.picgo.net/2024/06/09/32e6f735dcf0dd7c4.png",
+        "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20220223ffjob/sage/G0lQTD01LdCGk5pECSc7fbbmbM.png",
+        "tname": "贤者",
+        "ticon": "",
+        "lvl": "Lv30",
+        "classification": "魔法",
+        "cast": "即时",
+        "recast": "1.5秒",
+        "cost": "魔力900",
+        "distant": "0",
+        "rangeType": "circle",
+        "range": "15",
+        "content": "恢复自身及周围队员的体力<BR>恢复力：100<BR>追加效果：为目标附加能够抵御一定伤害的防护罩<BR>该防护罩能够抵消相当于治疗量360%的伤害<BR>持续时间：30秒<BR>无法与均衡诊断及学者的鼓舞效果共存<BR><BR>※该技能无法设置到热键栏<br>满足发动条件时，预后变化为均衡预后II",
+        "change": "新增技能"
+    },
+    {
+        "isDisabled": false,
+        "name": "Philosopia<br/>至理",
+        "ndes": "",
+        "pic": "https://img.picgo.net/2024/06/09/4d03d06e22f83862a.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20220223ffjob/sage/G0lQTD01LdCGk5pECSc7fbbmbM.png",
         "tname": "贤者",
         "ticon": "",
@@ -718,7 +756,7 @@
         "distant": "0",
         "rangeType": "circle",
         "range": "20",
-        "content": "",
+        "content": "一定时间内，自身发动治疗魔法的治疗量提高20%<br/>持续时间：20秒<br/>追加效果：为自身和周围队员附加至幸状态<BR>持续时间：20秒<br/>该状态下发动魔法，令带有至幸状态的目标恢复体力<BR>恢复力：150",
         "change": "新增技能"
     }
 ]
