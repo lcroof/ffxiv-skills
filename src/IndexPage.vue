@@ -4,9 +4,9 @@
   <router-link to="/BlackMage">黑魔法师</router-link><br/>
   <router-link to="/RedMage">赤魔法师</router-link><br/>  
   <router-link to="/Summoner">召唤师</router-link><br/>
-  <router-link to="/BlackMage">黑魔法师</router-link><br/>
-  <router-link to="/BlackMage">黑魔法师</router-link><br/>
-  <router-link to="/BlackMage">黑魔法师</router-link>
+  <router-link to="/Sage">贤者</router-link><br/>
+  <router-link to="/Scholar">学者</router-link><br/>
+  <router-link to="/Monk">武僧</router-link>
 </template>
     
 <script>
