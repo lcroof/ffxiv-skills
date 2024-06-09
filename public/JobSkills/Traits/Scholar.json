@@ -1,0 +1,215 @@
+[
+    {
+        "isDisabled": false,
+        "name": "技能效果提高",
+        "ndes": "",
+        "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Scholar/Trait_01.png",
+        "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/_3v-EDzckpsEC39oe0t4A8pLJk.png",
+        "tname": "秘术师",
+        "ticon": "",
+        "lvl": "Lv20",
+        "content": "自身与召唤兽，除自动攻击外的技能造成的伤害提高至基本值的1.1倍，恢复技能的恢复量也提高至基本值的1.1倍",
+        "change": ""
+    },
+    {
+        "isDisabled": false,
+        "name": "毒菌精通",
+        "ndes": "",
+        "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Scholar/Trait_02.png",
+        "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/2r8fm3U0Io7Pw1XT1tvnjPthp4.png",
+        "tname": "学者",
+        "ticon": "",
+        "lvl": "Lv26",
+        "content": "毒菌变为猛毒菌",
+        "change": ""
+    },
+    {
+        "isDisabled": false,
+        "name": "技能效果提高II",
+        "ndes": "",
+        "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Scholar/Trait_03.png",
+        "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/_3v-EDzckpsEC39oe0t4A8pLJk.png",
+        "tname": "秘术师",
+        "ticon": "",
+        "lvl": "Lv40",
+        "content": "自身与召唤兽，除自动攻击外的技能造成的伤害提高至基本值的1.3倍，恢复技能的恢复量也提高至基本值的1.3倍",
+        "change": ""
+    },
+    {
+        "isDisabled": false,
+        "name": "炎法精通",
+        "ndes": "通过特职任务获得",
+        "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Scholar/Trait_04.png",
+        "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/2r8fm3U0Io7Pw1XT1tvnjPthp4.png",
+        "tname": "学者",
+        "ticon": "",
+        "lvl": "Lv54",
+        "content": "毁灭变为气炎法<BR>同时，毁坏的威力提高到160，破阵法的威力提高到165",
+        "change": ""
+    },
+    {
+        "isDisabled": false,
+        "name": "炎法精通II",
+        "ndes": "",
+        "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Scholar/Trait_05.png",
+        "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/2r8fm3U0Io7Pw1XT1tvnjPthp4.png",
+        "tname": "学者",
+        "ticon": "",
+        "lvl": "Lv64",
+        "content": "气炎法变为魔炎法<BR>并将毁坏的威力提高到180",
+        "change": ""
+    },
+    {
+        "isDisabled": false,
+        "name": "毒菌精通II",
+        "ndes": "",
+        "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Scholar/Trait_06.png",
+        "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/2r8fm3U0Io7Pw1XT1tvnjPthp4.png",
+        "tname": "学者",
+        "ticon": "",
+        "lvl": "Lv72",
+        "content": "猛毒菌变为蛊毒法",
+        "change": ""
+    },
+    {
+        "isDisabled": false,
+        "name": "炎法精通III",
+        "ndes": "",
+        "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Scholar/Trait_07.png",
+        "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/2r8fm3U0Io7Pw1XT1tvnjPthp4.png",
+        "tname": "学者",
+        "ticon": "",
+        "lvl": "Lv72",
+        "content": "魔炎法变为死炎法<BR>并将毁坏的威力提高到200",
+        "change": ""
+    },
+    {
+        "isDisabled": false,
+        "name": "野战治疗阵效果提高",
+        "ndes": "",
+        "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Scholar/Trait_08.png",
+        "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/2r8fm3U0Io7Pw1XT1tvnjPthp4.png",
+        "tname": "学者",
+        "ticon": "",
+        "lvl": "Lv78",
+        "content": "为野战治疗阵附加区域内的自身和队员体力持续恢复的效果",
+        "change": ""
+    },
+    {
+        "isDisabled": false,
+        "name": "炎法精通IV",
+        "ndes": "",
+        "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Scholar/Trait_82_1.png",
+        "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/2r8fm3U0Io7Pw1XT1tvnjPthp4.png",
+        "tname": "学者",
+        "ticon": "",
+        "lvl": "Lv82",
+        "content": "死炎法变为极炎法<BR>毁坏的威力提高至220",
+        "change": ""
+    },
+    {
+        "isDisabled": false,
+        "name": "破阵法精通",
+        "ndes": "",
+        "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Scholar/Trait_82_2.png",
+        "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/2r8fm3U0Io7Pw1XT1tvnjPthp4.png",
+        "tname": "学者",
+        "ticon": "",
+        "lvl": "Lv82",
+        "content": "破阵法变为裂阵法",
+        "change": ""
+    },
+    {
+        "isDisabled": false,
+        "name": "治疗技能效果提高",
+        "ndes": "",
+        "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Scholar/Trait_85.png",
+        "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/2r8fm3U0Io7Pw1XT1tvnjPthp4.png",
+        "tname": "学者",
+        "ticon": "",
+        "lvl": "Lv85",
+        "content": "部分技能与防护罩的效果提高<BR><BR>医术的恢复力：450<BR>日光的拥抱的恢复力：180<BR>鼓舞激励之策的效果量：抵消相当于治疗量180%的伤害<BR>士气高昂之策的效果量：抵消相当于治疗量160%的伤害<BR>炽天的幕帘的恢复力：180",
+        "change": ""
+    },
+    {
+        "isDisabled": false,
+        "name": "展开战术效果提高",
+        "ndes": "",
+        "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Scholar/Trait_88.png",
+        "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/2r8fm3U0Io7Pw1XT1tvnjPthp4.png",
+        "tname": "学者",
+        "ticon": "",
+        "lvl": "Lv88",
+        "content": "展开战术的复唱时间缩短到90秒",
+        "change": ""
+    },
+    {
+        "isDisabled": false,
+        "name": "连环计效果提高",
+        "ndes": "",
+        "pic": "",
+        "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/2r8fm3U0Io7Pw1XT1tvnjPthp4.png",
+        "tname": "学者",
+        "ticon": "",
+        "lvl": "Lv92",
+        "content": "为自身提供埋伏の毒状态<br>持续时间：30秒<br>效果发动条件：连环计生效时",
+        "change": "新增特性"
+    },
+    {
+        "isDisabled": false,
+        "name": "即刻咏唱效果提高",
+        "ndes": "",
+        "pic": "https://img.picgo.net/2024/06/06/324ac7f0c54e1b527abe0a10e2a57033762fba03f10f0b73.png",
+        "tiurl": "",
+        "tname": "",
+        "ticon": [
+            {
+                "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/V5xx3kfnREBO-2xWbTUW2Csy_Q.png",
+                "tname": "治疗职业"
+            },
+            {
+                "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/8Dnf8Wy9IyxIt21y6lrE5atKt0.png",
+                "tname": "远程魔法职业"
+            }
+        ],
+        "lvl": "Lv94",
+        "content": "即刻咏唱的复唱时间缩短到40秒",
+        "change": "新增特性"
+    },
+    {
+        "isDisabled": false,
+        "name": "技能威力提高",
+        "ndes": "",
+        "pic": "",
+        "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/2r8fm3U0Io7Pw1XT1tvnjPthp4.png",
+        "tname": "学者",
+        "ticon": "",
+        "lvl": "Lv94",
+        "content": "蛊毒法持续伤害威力提高到75<br>极炎法威力提高到310",
+        "change": "新增特性"
+    },
+    {
+        "isDisabled": false,
+        "name": "士气高昂之策精通",
+        "ndes": "",
+        "pic": "",
+        "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/2r8fm3U0Io7Pw1XT1tvnjPthp4.png",
+        "tname": "学者",
+        "ticon": "",
+        "lvl": "Lv96",
+        "content": "士气高昂之策变为挑动",
+        "change": "新增特性"
+    },
+    {
+        "isDisabled": false,
+        "name": "秘策效果提高",
+        "ndes": "",
+        "pic": "",
+        "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/2r8fm3U0Io7Pw1XT1tvnjPthp4.png",
+        "tname": "学者",
+        "ticon": "",
+        "lvl": "Lv98",
+        "content": "秘策复唱时间减少至60秒",
+        "change": "新增特性"
+    }
+]
