@@ -135,7 +135,7 @@
     {
         "isDisabled": false,
         "name": "鼓舞激励之策",
-        "ndes": "通过特职任务获得",
+        "ndes": "",
         "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Scholar/Action_09.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/2r8fm3U0Io7Pw1XT1tvnjPthp4.png",
         "tname": "学者",
@@ -154,7 +154,7 @@
     {
         "isDisabled": false,
         "name": "士气高扬之策",
-        "ndes": "通过特职任务获得",
+        "ndes": "",
         "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Scholar/Action_10.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/2r8fm3U0Io7Pw1XT1tvnjPthp4.png",
         "tname": "学者",
@@ -249,7 +249,7 @@
     {
         "isDisabled": false,
         "name": "生命活性法",
-        "ndes": "通过特职任务获得",
+        "ndes": "",
         "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Scholar/Action_15.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/2r8fm3U0Io7Pw1XT1tvnjPthp4.png",
         "tname": "学者",
@@ -287,7 +287,7 @@
     {
         "isDisabled": false,
         "name": "野战治疗阵",
-        "ndes": "通过特职任务获得",
+        "ndes": "",
         "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Scholar/Action_17.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/2r8fm3U0Io7Pw1XT1tvnjPthp4.png",
         "tname": "学者",
@@ -306,7 +306,7 @@
     {
         "isDisabled": false,
         "name": "不屈不挠之策",
-        "ndes": "通过特职任务获得",
+        "ndes": "",
         "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Scholar/Action_18.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/2r8fm3U0Io7Pw1XT1tvnjPthp4.png",
         "tname": "学者",
@@ -325,7 +325,7 @@
     {
         "isDisabled": false,
         "name": "气炎法",
-        "ndes": "通过特职任务获得",
+        "ndes": "",
         "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Scholar/Action_19.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/2r8fm3U0Io7Pw1XT1tvnjPthp4.png",
         "tname": "学者",
@@ -344,7 +344,7 @@
     {
         "isDisabled": false,
         "name": "展开战术",
-        "ndes": "通过特职任务获得",
+        "ndes": "",
         "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Scholar/Action_20.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/2r8fm3U0Io7Pw1XT1tvnjPthp4.png",
         "tname": "学者",
@@ -363,7 +363,7 @@
     {
         "isDisabled": false,
         "name": "应急战术",
-        "ndes": "通过特职任务获得",
+        "ndes": "",
         "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Scholar/Action_21.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/2r8fm3U0Io7Pw1XT1tvnjPthp4.png",
         "tname": "学者",
@@ -382,7 +382,7 @@
     {
         "isDisabled": false,
         "name": "转化",
-        "ndes": "通过特职任务获得",
+        "ndes": "",
         "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Scholar/Action_22.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/2r8fm3U0Io7Pw1XT1tvnjPthp4.png",
         "tname": "学者",
@@ -452,13 +452,13 @@
         "distant": "25",
         "rangeType": "zero",
         "range": "0",
-        "content": "一定时间内，目标被暴击率提高10%　<br>持续时间：15秒<br>追加效果：使自身处于埋伏の毒状态<br>持续时间：30秒",
-        "change": "新增追加效果和持续时间"
+        "content": "一定时间内，目标被暴击率提高10%　<br>持续时间：20秒<br>追加效果：为自身附加埋伏之毒预备状态<br>持续时间：30秒",
+        "change": "被暴击率提高效果的持续时间从15秒变更至20秒<br/>新增追加效果：为自身附加埋伏之毒预备状态<br/>持续时间：30秒"
     },
     {
         "isDisabled": false,
         "name": "以太契约",
-        "ndes": "通过特职任务获得",
+        "ndes": "",
         "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Scholar/Action_26.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/2r8fm3U0Io7Pw1XT1tvnjPthp4.png",
         "tname": "学者",
@@ -548,7 +548,7 @@
         "rangeType": "zero",
         "range": "0",
         "content": "效果时间内，自身发动的1次鼓舞激励之策、士气高扬之策、不屈不挠之策、深谋远虑之策可以不消耗魔力及以太超流，并且必定暴击　<br>持续时间：15秒",
-        "change": "复唱时间从90秒变成60秒"
+        "change": "复唱时间从90秒变更至60秒"
     },
     {
         "isDisabled": false,
@@ -604,8 +604,8 @@
         "distant": "0",
         "rangeType": "zero",
         "range": "0",
-        "content": "命令炽天使发动慰藉<BR><BR>恢复周围队员的体力<BR>恢复力：250<BR>追加效果：为目标附加能够抵御一定伤害的防护罩<BR>该防护罩能够抵消相当于治疗量100%的伤害<BR>持续时间：30秒<BR>积蓄次数：2<BR>发动条件：炽天使处于同行状态<BR><BR>※该技能无法设置到热键栏",
-        "change": ""
+        "content": "命令炽天使发动慰藉<BR><BR>恢复周围队员的体力<BR>恢复力：250<BR>追加效果：为目标附加能够抵御一定伤害的防护罩<BR>该防护罩能够抵消相当于治疗量100%的伤害<BR>持续时间：30秒<BR>积蓄次数：2<BR>发动条件：炽天使处于同行状态",
+        "change": "删除描述“※该技能无法设置到热键栏”"
     },
     {
         "isDisabled": false,
@@ -623,8 +623,8 @@
         "distant": "25",
         "rangeType": "zero",
         "range": "0",
-        "content": "对目标发动无属性魔法攻击　<br>威力：295",
-        "change": ""
+        "content": "对目标发动无属性魔法攻击　<br>威力：310",
+        "change": "威力从295变更至310"
     },
     {
         "isDisabled": false,
@@ -685,9 +685,9 @@
     },
     {
         "isDisabled": false,
-        "name": "埋伏の毒",
+        "name": "埋伏の毒<br/>埋伏之毒",
         "ndes": "",
-        "pic": "",
+        "pic": "https://img.picgo.net/2024/06/09/15105585ebe5c2ff5.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/2r8fm3U0Io7Pw1XT1tvnjPthp4.png",
         "tname": "学者",
         "ticon": "",
@@ -699,19 +699,19 @@
         "distant": "25",
         "rangeType": "circle",
         "range": "5",
-        "content": "对目标附加无属性持续伤害状态<br>威力：140<br>持续时间：30秒<br>发动条件：自身处于埋伏の毒状态",
+        "content": "对目标及其周围的敌人附加无属性持续伤害状态<br>威力：140<br>持续时间：15秒<br>发动条件：自身处于埋伏之毒预备状态",
         "change": "新增技能"
     },
     {
         "isDisabled": false,
-        "name": "挑动",
+        "name": "意気軒昂の策<br/>意气轩昂之策",
         "ndes": "",
-        "pic": "",
+        "pic": "https://img.picgo.net/2024/06/09/214999402693e7624.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/2r8fm3U0Io7Pw1XT1tvnjPthp4.png",
         "tname": "学者",
         "ticon": "",
         "lvl": "Lv96",
-        "classification": "能力",
+        "classification": "魔法",
         "cast": "2秒",
         "recast": "2.5秒",
         "cost": "魔力1000",
@@ -723,9 +723,9 @@
     },
     {
         "isDisabled": false,
-        "name": "守护天使",
+        "name": "セラフィズム<br/>炽天化身",
         "ndes": "",
-        "pic": "",
+        "pic": "https://img.picgo.net/2024/06/09/36871a9a233116f4b.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/2r8fm3U0Io7Pw1XT1tvnjPthp4.png",
         "tname": "学者",
         "ticon": "",
@@ -737,45 +737,45 @@
         "distant": "0",
         "rangeType": "zero",
         "range": "0",
-        "content": "持续恢复自身及周围50m内的队员的体力<br>恢复力：200<br>追加效果：鼓舞士气之策变为XX，挑动变为XX<br>追加效果：重置应急战术复唱时间并使其复唱时间减为1秒<br>持续时间：20秒<br>该技能无法与转化效果叠加<br>发动条件：自身处于战斗状态且小仙女处于同行状态",
+        "content": "一定时间内，持续恢复自身及周围50m内的队员的体力<br>恢复力：100<br/>追加效果：鼓舞激励之策变为誓词，意气轩昂之策变为盟约<br>同时，重置应急战术复唱时间并使其复唱时间减为1秒<br>持续时间：20秒<br>该技能无法与转化效果叠加<br>发动条件：自身处于战斗状态且小仙女处于同行状态",
         "change": "新增技能"
     },
     {
         "isDisabled": false,
-        "name": "",
+        "name": "マニフェステーション<br/>誓词",
         "ndes": "",
-        "pic": "",
+        "pic": "https://img.picgo.net/2024/06/09/421da0955300915f5.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/2r8fm3U0Io7Pw1XT1tvnjPthp4.png",
         "tname": "学者",
         "ticon": "",
         "lvl": "Lv100",
-        "classification": "能力",
+        "classification": "魔法",
         "cast": "即时",
         "recast": "2.5秒",
         "cost": "魔力1000",
         "distant": "30",
         "rangeType": "zero",
         "range": "0",
-        "content": "",
+        "content": "恢复目标的体力　<br>恢复力：360<BR>追加效果：为目标附加能够抵御一定伤害的防护罩鼓舞<BR>鼓舞效果：抵消相当于治疗量180%的伤害<BR>持续时间：30秒<BR>无法与贤者的部分护盾效果共存<BR>追加效果（暴击时）：为目标附加能够抵御一定伤害的防护罩激励<BR>激励效果：抵消相当于治疗量180%的伤害<BR>持续时间：30秒发动条件：自身处于炽天化身状态<br/><br/>※该技能无法设置到热键栏<br/>满足发动条件时，鼓舞激励之策变化为誓词",
         "change": "新增技能"
     },
     {
         "isDisabled": false,
-        "name": "",
+        "name": "アクセッション<br/>盟约",
         "ndes": "",
-        "pic": "",
+        "pic": "https://img.picgo.net/2024/06/09/56ade11a1001a6bf6.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/2r8fm3U0Io7Pw1XT1tvnjPthp4.png",
         "tname": "学者",
         "ticon": "",
         "lvl": "Lv100",
-        "classification": "能力",
+        "classification": "魔法",
         "cast": "即时",
         "recast": "2.5秒",
         "cost": "魔力1000",
-        "distant": "30",
-        "rangeType": "zero",
-        "range": "0",
-        "content": "",
+        "distant": "0",
+        "rangeType": "circle",
+        "range": "15",
+        "content": "恢复自身及周围队员的体力<br>恢复力：240<br>追加效果：附加能够抵御一定伤害的防护罩<br>该防护罩能够抵消相当于治疗量180%的伤害<br>持续时间：30秒<br>无法与贤者的部分护盾效果共存<br/>发动条件：自身处于炽天化身状态<br/><br/>※该技能无法设置到热键栏<br/>满足发动条件时，意气轩昂之策变化为盟约",
         "change": "新增技能"
     }
 ]
