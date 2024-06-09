@@ -153,7 +153,7 @@
         "ticon": "",
         "lvl": "Lv94",
         "content": "拯救的复唱时间缩短到60秒",
-        "change": ""
+        "change": "新增特性"
     },
     {
         "isDisabled": false,
@@ -185,8 +185,8 @@
         "tname": "贤者",
         "ticon": "",
         "lvl": "Lv94",
-        "content": "部分技能的威力提高<br/>注药III的威力：360",
-        "change": ""
+        "content": "部分技能的威力提高<br/><br/>注药III的威力：360",
+        "change": "新增特性"
     },
     {
         "isDisabled": false,
@@ -198,7 +198,7 @@
         "ticon": "",
         "lvl": "Lv96",
         "content": "均衡预后变为均衡预后II",
-        "change": ""
+        "change": "新增特性"
     },
     {
         "isDisabled": false,
@@ -210,6 +210,6 @@
         "ticon": "",
         "lvl": "Lv98",
         "content": "自生II的追加效果：令目标所受的体力恢复效果提高10%的持续时间延长至15秒",
-        "change": ""
+        "change": "新增特性"
     }
 ]
