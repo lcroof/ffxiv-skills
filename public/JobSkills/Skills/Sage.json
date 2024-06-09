@@ -148,7 +148,7 @@
         "distant": "0",
         "rangeType": "zero",
         "range": "0",
-        "content": "强化特定的攻击及治疗魔法，令其发生变化<BR>持续时间：永久<BR>注药III变为均衡注药III<BR>诊断变为均衡诊断<BR>预后变为均衡预后<BR>变化后的魔法发动后该效果解除<BR>该魔法有单独计算的复唱时间，不受装备和状态的影响",
+        "content": "强化特定的攻击及治疗魔法，令其发生变化<BR>持续时间：永久<BR>注药III变为均衡注药III<BR>诊断变为均衡诊断<BR>预后变为均衡预后II<br>失衡II变为均衡失衡<BR>变化后的魔法发动后该效果解除<BR>该魔法有单独计算的复唱时间，不受装备和状态的影响",
         "change": ""
     },
     {
@@ -729,7 +729,7 @@
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20220223ffjob/sage/G0lQTD01LdCGk5pECSc7fbbmbM.png",
         "tname": "贤者",
         "ticon": "",
-        "lvl": "Lv30",
+        "lvl": "Lv96",
         "classification": "魔法",
         "cast": "即时",
         "recast": "1.5秒",
@@ -749,7 +749,7 @@
         "tname": "贤者",
         "ticon": "",
         "lvl": "Lv100",
-        "classification": "魔法",
+        "classification": "能力",
         "cast": "即时",
         "recast": "180秒",
         "cost": "-",
