@@ -1,0 +1,197 @@
+[
+    {
+        "isDisabled": false,
+        "name": "技能效果提高",
+        "ndes": "",
+        "pic": "",
+        "tiurl": "https://img.picgo.net/2024/06/09/60a619644b906f5bf173f5f7af05a88225eeacc013674b13.png",
+        "tname": "画师",
+        "ticon": "",
+        "lvl": "Lv20",
+        "content": "技能造成的伤害提高至基本值的1.1倍，恢复技能的恢复量也提高至基本值的1.1倍",
+        "change": ""
+    },
+    {
+        "isDisabled": false,
+        "name": "技能效果提高II",
+        "ndes": "",
+        "pic": "",
+        "tiurl": "https://img.picgo.net/2024/06/09/60a619644b906f5bf173f5f7af05a88225eeacc013674b13.png",
+        "tname": "画师",
+        "ticon": "",
+        "lvl": "Lv40",
+        "content": "技能造成的伤害提高至基本值的1.3倍，恢复技能的恢复量也提高至基本值的1.3倍",
+        "change": ""
+    },
+    {
+        "isDisabled": false,
+        "name": "调色板XX",
+        "ndes": "",
+        "pic": "",
+        "tiurl": "https://img.picgo.net/2024/06/09/60a619644b906f5bf173f5f7af05a88225eeacc013674b13.png",
+        "tname": "画师",
+        "ticon": "",
+        "lvl": "Lv60",
+        "content": "调色板XX上升<br>发动条件：发动蓝水或蓝水2时",
+        "change": ""
+    },
+    {
+        "isDisabled": false,
+        "name": "绘画魔法效果提高",
+        "ndes": "",
+        "pic": "",
+        "tiurl": "https://img.picgo.net/2024/06/09/60a619644b906f5bf173f5f7af05a88225eeacc013674b13.png",
+        "tname": "画师",
+        "ticon": "",
+        "lvl": "Lv80",
+        "content": "对自身附加白色颜料状态<br>发动条件：发动蓝水、蓝水2、雷、雷2时",
+        "change": ""
+    },
+    {
+        "isDisabled": false,
+        "name": "绘灵魔法效果提高",
+        "ndes": "",
+        "pic": "",
+        "tiurl": "https://img.picgo.net/2024/06/09/60a619644b906f5bf173f5f7af05a88225eeacc013674b13.png",
+        "tname": "画师",
+        "ticon": "",
+        "lvl": "Lv82",
+        "content": "获得5点XX<br>持续时间：30秒<br>发动条件：发动XXX时",
+        "change": ""
+    },
+    {
+        "isDisabled": false,
+        "name": "",
+        "ndes": "",
+        "pic": "",
+        "tiurl": "https://img.picgo.net/2024/06/09/60a619644b906f5bf173f5f7af05a88225eeacc013674b13.png",
+        "tname": "画师",
+        "ticon": "",
+        "lvl": "Lv84",
+        "content": "提升移动速度<br>持续时间：5秒<br>发动条件：发动XXX时",
+        "change": ""
+    },
+    {
+        "isDisabled": false,
+        "name": "绘灵魔法效果提高II",
+        "ndes": "",
+        "pic": "",
+        "tiurl": "https://img.picgo.net/2024/06/09/60a619644b906f5bf173f5f7af05a88225eeacc013674b13.png",
+        "tname": "画师",
+        "ticon": "",
+        "lvl": "Lv86",
+        "content": "XX发动时XX变更为XX，XX发动时XX变更为XX<br>追加效果：使XXX进入充能状态<br>最大充能数量：2",
+        "change": ""
+    },
+    {
+        "isDisabled": false,
+        "name": "蛋彩画法效果提高",
+        "ndes": "",
+        "pic": "",
+        "tiurl": "https://img.picgo.net/2024/06/09/60a619644b906f5bf173f5f7af05a88225eeacc013674b13.png",
+        "tname": "画师",
+        "ticon": "",
+        "lvl": "Lv88",
+        "content": "XXX可发动<br>发动条件：XX状态中",
+        "change": ""
+    },
+    {
+        "isDisabled": false,
+        "name": "调色板效果提高",
+        "ndes": "",
+        "pic": "",
+        "tiurl": "https://img.picgo.net/2024/06/09/60a619644b906f5bf173f5f7af05a88225eeacc013674b13.png",
+        "tname": "画师",
+        "ticon": "",
+        "lvl": "Lv90",
+        "content": "获得色调反转状态<br>色调反转效果：使一层白色颜料变成黑色颜料<br>发动条件：发动XXX时",
+        "change": ""
+    },
+    {
+        "isDisabled": false,
+        "name": "绘灵魔法效果提高III",
+        "ndes": "",
+        "pic": "",
+        "tiurl": "https://img.picgo.net/2024/06/09/60a619644b906f5bf173f5f7af05a88225eeacc013674b13.png",
+        "tname": "画师",
+        "ticon": "",
+        "lvl": "Lv92",
+        "content": "对自身附加七色光状态<br>持续时间：30秒<br>发动条件：XX准备中，XX效果全消耗",
+        "change": ""
+    },
+    {
+      "isDisabled": false,
+      "name": "即刻咏唱效果提高",
+      "ndes": "",
+      "pic": "https://img.picgo.net/2024/06/06/324ac7f0c54e1b527abe0a10e2a57033762fba03f10f0b73.png",
+      "tiurl": "",
+      "tname": "",
+      "ticon": [
+        {
+          "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/V5xx3kfnREBO-2xWbTUW2Csy_Q.png",
+          "tname": "治疗职业"
+        },
+        {
+          "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/8Dnf8Wy9IyxIt21y6lrE5atKt0.png",
+          "tname": "远程魔法职业"
+        }
+      ],
+      "lvl": "Lv94",
+      "content": "即刻咏唱的复唱时间缩短到40秒",
+      "change": ""
+    },
+    {
+        "isDisabled": false,
+        "name": "技能威力提高",
+        "ndes": "",
+        "pic": "",
+        "tiurl": "https://img.picgo.net/2024/06/09/60a619644b906f5bf173f5f7af05a88225eeacc013674b13.png",
+        "tname": "画师",
+        "ticon": "",
+        "lvl": "Lv94",
+        "content": "",
+        "change": ""
+    },
+    {
+        "isDisabled": false,
+        "name": "绘灵魔法效果提高IV",
+        "ndes": "",
+        "pic": "",
+        "tiurl": "https://img.picgo.net/2024/06/09/60a619644b906f5bf173f5f7af05a88225eeacc013674b13.png",
+        "tname": "画师",
+        "ticon": "",
+        "lvl": "Lv96",
+        "content": "XX充能层数最大增加到3层<br>另外，XX发动后，可发动的技能追加XX和XX",
+        "change": ""
+    },
+    {
+      "isDisabled": false,
+      "name": "昏乱效果提高",
+      "ndes": "",
+      "pic": "https://img.picgo.net/2024/06/06/4210d1810b0254eb2ff37b8564cac05303cc6ccaa2dc9460.png",
+      "tiurl": "",
+      "tname": "",
+      "ticon": [
+        {
+          "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/8Dnf8Wy9IyxIt21y6lrE5atKt0.png",
+          "tname": "远程魔法职业"
+        }
+      ],
+      "lvl": "Lv98",
+      "rangeType": "",
+      "content": "昏乱的持续时间提高到15秒",
+      "change": ""
+    },
+    {
+        "isDisabled": false,
+        "name": "绘灵魔法效果提高V",
+        "ndes": "",
+        "pic": "",
+        "tiurl": "https://img.picgo.net/2024/06/09/60a619644b906f5bf173f5f7af05a88225eeacc013674b13.png",
+        "tname": "画师",
+        "ticon": "",
+        "lvl": "Lv100",
+        "content": "对自身附加XXX状态<br>持续时间：20秒<br>发动条件：发动XXX时",
+        "change": ""
+    }
+]

@@ -43,7 +43,7 @@ const routes = [
         component: JobView
     },
     {
-        path: '/Monk',
+        path: '/Pictomancer',
         component: JobView
     }
 ]
