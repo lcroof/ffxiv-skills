@@ -6,7 +6,7 @@
   <router-link to="/Summoner">召唤师</router-link><br/>
   <router-link to="/Sage">贤者</router-link><br/>
   <router-link to="/Scholar">学者</router-link><br/>
-  <router-link to="/Pictomancer">画师</router-link>
+  <router-link to="/Pictomancer">绘灵法师</router-link>
 </template>
     
 <script>
