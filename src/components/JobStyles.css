@@ -10,6 +10,11 @@
     align-items: center;
 }
 
+* {
+    margin: 0;
+    padding: 0
+}
+
 .pgCont {
     width: 1200px;
     margin: 0 auto;
