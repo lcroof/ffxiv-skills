@@ -509,8 +509,8 @@
         "distant": "25",
         "rangeType": "zero",
         "range": "0",
-        "content": "对目标附加无属性持续伤害状态<BR>威力：70　<br>持续时间：30秒",
-        "change": ""
+        "content": "对目标附加无属性持续伤害状态<BR>威力：75　<br>持续时间：30秒",
+        "change": "持续伤害威力从70变更至75"
     },
     {
         "isDisabled": false,
