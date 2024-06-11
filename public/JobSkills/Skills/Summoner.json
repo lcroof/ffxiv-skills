@@ -1433,7 +1433,7 @@
         "tname": "召唤师",
         "ticon": "",
         "lvl": "Lv100",
-        "classification": "能力1",
+        "classification": "能力1测试",
         "cast": "即时",
         "recast": "20秒",
         "cost": "-",
