@@ -45,6 +45,14 @@ const routes = [
     {
         path: '/Pictomancer',
         component: JobView
+    },
+    {
+        path: '/Whitemage',
+        component: JobView
+    },
+    {
+        path: '/Astrologian',
+        component: JobView
     }
 ]
 
