@@ -339,7 +339,7 @@
         "range": "0",
         "rangeType": "zero",
         "content": "效果时间内，自身发动的1次“崩溃”或“火炎”或“悖论”或“雷系魔法”必定触发“崩溃的追加效果”“爆炎效果提高”“雷系魔法效果提高”<br/>持续时间：30秒<br/>积蓄次数：2",
-        "change": "再见了妈妈今晚我就要远航"
+        "change": "删除技能"
     },
     {
         "isDisabled": false,
@@ -628,7 +628,7 @@
     },
     {
         "isDisabled": false,
-        "name": "Retrace<BR>魔纹回溯",
+        "name": "Retrace<BR>魔纹重置",
         "ndes": false,
         "pic": "https://img.picgo.net/2024/06/06/ffbd6b0b0dad6388dabd8f5316b9af5e034645b447b73208.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/7JuT00VSwaFqTfcTYUCUnGPFQE.png",
@@ -642,7 +642,7 @@
         "distant": "0",
         "range": "3",
         "rangeType": "zero",
-        "content": "重新放置自身的黑魔纹<br/>发动条件：黑魔纹效果",
+        "content": "在自身脚下重新放置黑魔纹<br/>发动条件：黑魔纹效果",
         "change": "新增技能"
     },
     {
