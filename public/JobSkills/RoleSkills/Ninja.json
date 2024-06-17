@@ -1,131 +1,131 @@
-  [
-    {
-      "isDisabled": false,
-      "name": "内丹",
-      "ndes": "",
-      "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/2pih1KRjQsYAb_j4w7GkRFyglk.png",
-      "tiurl": "",
-      "tname": "",
-      "ticon": [
-        { "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/9muqitiUXEK0W3qnM33Nb7sATk.png", "tname": "近战职业" },
-        { "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/oWWxUIO2KagIEhDXy0541MRD7M.png", "tname": "远程物理职业" }
-      ],
-      "lvl": "Lv8",
-      "classification": "能力",
-      "cast": "即时",
-      "recast": "120秒",
-      "cost": "-",
-      "distant": "0",
-      "range": "0",
-      "rangeType": "zero",
-      "content": "恢复自身体力<br>恢复力：800",
-      "change": "恢复力从500提高至800"
-    },
-    {
-      "isDisabled": false,
-      "name": "扫腿",
-      "ndes": "",
-      "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/h-Vwg7qPNp0rAE9sbya2c9SGC4.png",
-      "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/9muqitiUXEK0W3qnM33Nb7sATk.png",
-      "tname": "近战职业",
-      "ticon": [
-        { "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/9muqitiUXEK0W3qnM33Nb7sATk.png", "tname": "近战职业" }
-      ],
-      "lvl": "Lv10",
-      "classification": "能力",
-      "cast": "即时",
-      "recast": "40秒",
-      "cost": "-",
-      "distant": "3",
-      "range": "0",
-      "rangeType": "zero",
-      "content": "令目标陷入眩晕状态　持续时间：3秒",
-      "change": ""
-    },
-    {
-      "isDisabled": false,
-      "name": "浴血",
-      "ndes": "",
-      "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/-V15O-XUiGmZcZZepHWlHSHngQ.png",
-      "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/9muqitiUXEK0W3qnM33Nb7sATk.png",
-      "tname": "近战职业",
-      "ticon": [
-        { "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/9muqitiUXEK0W3qnM33Nb7sATk.png", "tname": "近战职业" }
-      ],
-      "lvl": "Lv12",
-      "classification": "能力",
-      "cast": "即时",
-      "recast": "90秒",
-      "cost": "-",
-      "distant": "0",
-      "range": "0",
-      "rangeType": "zero",
-      "content": "一定时间内，将自身物理攻击所造成伤害的一部分转化为自身的体力<BR>持续时间：20秒",
-      "change": ""
-    },
-    {
-      "isDisabled": false,
-      "name": "牵制",
-      "ndes": "",
-      "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/QZtAkrjZrFAcpoQbZ4PawsdbH4.png",
-      "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/9muqitiUXEK0W3qnM33Nb7sATk.png",
-      "tname": "近战职业",
-      "ticon": [
-        { "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/9muqitiUXEK0W3qnM33Nb7sATk.png", "tname": "近战职业" }
-      ],
-      "lvl": "Lv22",
-      "classification": "能力",
-      "cast": "即时",
-      "recast": "90秒",
-      "cost": "-",
-      "distant": "10",
-      "range": "0",
-      "rangeType": "zero",
-      "content": "一定时间内，令目标的力量与灵巧降低10%<BR>持续时间：15秒",
-      "change": "持续时间从10秒提高到15秒"
-    },
-    {
-      "isDisabled": false,
-      "name": "亲疏自行",
-      "ndes": "",
-      "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/6Y_LOLWQWJSjGvQYoaGNhNaP-I.png",
-      "tiurl": "",
-      "tname": "",
-      "ticon": [
-        { "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/rFrCBcRe9YrmPvb4fZkuFksSLw.png", "tname": "防护职业" },
-        { "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/9muqitiUXEK0W3qnM33Nb7sATk.png", "tname": "近战职业" },
-        { "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/oWWxUIO2KagIEhDXy0541MRD7M.png", "tname": "远程物理职业" }
-      ],
-      "lvl": "Lv32",
-      "classification": "能力",
-      "cast": "即时",
-      "recast": "120秒",
-      "cost": "-",
-      "distant": "0",
-      "range": "0",
-      "rangeType": "zero",
-      "content": "为自身张开一个防护罩，一定时间内令除特定攻击之外其他所有击退与吸引效果失效　持续时间：6秒<BR>防护罩追加效果（受到物理攻击时，发动几率100%）：攻击者减速20%　持续时间：15秒",
-      "change": ""
-    },
-    {
-      "isDisabled": false,
-      "name": "真北",
-      "ndes": "",
-      "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/XZP5ljS8oyG6Fc82vyjrpY36Uk.png",
-      "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/9muqitiUXEK0W3qnM33Nb7sATk.png",
-      "tname": "近战职业",
-      "ticon": [
-        { "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/9muqitiUXEK0W3qnM33Nb7sATk.png", "tname": "近战职业" }
-      ],
-      "lvl": "Lv50",
-      "classification": "能力",
-      "cast": "即时",
-      "recast": "45秒",
-      "cost": "-",
-      "distant": "0",
-      "range": "0",
-      "rangeType": "zero",
-      "content": "一定时间内无视技能的方向要求　持续时间：10秒<BR>积蓄次数：2",
-      "change": ""
-    }
-  ]
+[
+  {
+    "isDisabled": false,
+    "name": "内丹",
+    "ndes": "",
+    "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/2pih1KRjQsYAb_j4w7GkRFyglk.png",
+    "tiurl": "",
+    "tname": "",
+    "ticon": [
+      { "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/9muqitiUXEK0W3qnM33Nb7sATk.png", "tname": "近战职业" },
+      { "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/oWWxUIO2KagIEhDXy0541MRD7M.png", "tname": "远程物理职业" }
+    ],
+    "lvl": "lv8",
+    "classification": "能力",
+    "cast": "即时",
+    "recast": "120秒",
+    "cost": "-",
+    "distant": "0",
+    "range": "0",
+    "rangeType": "zero",
+    "content": "恢复自身体力<br>恢复力：800",
+    "change": "恢复力从500变更为800。"
+  },
+  {
+    "isDisabled": false,
+    "name": "扫腿",
+    "ndes": "",
+    "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/h-Vwg7qPNp0rAE9sbya2c9SGC4.png",
+    "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/9muqitiUXEK0W3qnM33Nb7sATk.png",
+    "tname": "近战职业",
+    "ticon": [
+      { "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/9muqitiUXEK0W3qnM33Nb7sATk.png", "tname": "近战职业" }
+    ],
+    "lvl": "Lv10",
+    "classification": "能力",
+    "cast": "即时",
+    "recast": "40秒",
+    "cost": "-",
+    "distant": "3",
+    "range": "0",
+    "rangeType": "zero",
+    "content": "令目标陷入眩晕状态　持续时间：3秒",
+    "change": ""
+  },
+  {
+    "isDisabled": false,
+    "name": "浴血",
+    "ndes": "",
+    "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/-V15O-XUiGmZcZZepHWlHSHngQ.png",
+    "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/9muqitiUXEK0W3qnM33Nb7sATk.png",
+    "tname": "近战职业",
+    "ticon": [
+      { "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/9muqitiUXEK0W3qnM33Nb7sATk.png", "tname": "近战职业" }
+    ],
+    "lvl": "Lv12",
+    "classification": "能力",
+    "cast": "即时",
+    "recast": "90秒",
+    "cost": "-",
+    "distant": "0",
+    "range": "0",
+    "rangeType": "zero",
+    "content": "一定时间内，将自身物理攻击所造成伤害的一部分转化为自身的体力<BR>持续时间：20秒",
+    "change": ""
+  },
+  {
+    "isDisabled": false,
+    "name": "牵制",
+    "ndes": "",
+    "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/QZtAkrjZrFAcpoQbZ4PawsdbH4.png",
+    "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/9muqitiUXEK0W3qnM33Nb7sATk.png",
+    "tname": "近战职业",
+    "ticon": [
+      { "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/9muqitiUXEK0W3qnM33Nb7sATk.png", "tname": "近战职业" }
+    ],
+    "lvl": "Lv22",
+    "classification": "能力",
+    "cast": "即时",
+    "recast": "90秒",
+    "cost": "-",
+    "distant": "10",
+    "range": "0",
+    "rangeType": "zero",
+    "content": "一定时间内，令目标物理攻击造成的伤害降低10%，魔法攻击造成的伤害降低5%<BR>持续时间：15秒",
+    "change": "持续时间从10秒变更为15秒。"
+  },
+  {
+    "isDisabled": false,
+    "name": "亲疏自行",
+    "ndes": "",
+    "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/6Y_LOLWQWJSjGvQYoaGNhNaP-I.png",
+    "tiurl": "",
+    "tname": "",
+    "ticon": [
+      { "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/rFrCBcRe9YrmPvb4fZkuFksSLw.png", "tname": "防护职业" },
+      { "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/9muqitiUXEK0W3qnM33Nb7sATk.png", "tname": "近战职业" },
+      { "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/oWWxUIO2KagIEhDXy0541MRD7M.png", "tname": "远程物理职业" }
+    ],
+    "lvl": "Lv32",
+    "classification": "能力",
+    "cast": "即时",
+    "recast": "120秒",
+    "cost": "-",
+    "distant": "0",
+    "range": "0",
+    "rangeType": "zero",
+    "content": "为自身张开一个防护罩，一定时间内令除特定攻击之外其他所有击退与吸引效果失效　持续时间：6秒<BR>防护罩追加效果（受到物理攻击时，发动几率100%）：攻击者减速20%　持续时间：15秒",
+    "change": ""
+  },
+  {
+    "isDisabled": false,
+    "name": "真北",
+    "ndes": "",
+    "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/XZP5ljS8oyG6Fc82vyjrpY36Uk.png",
+    "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/9muqitiUXEK0W3qnM33Nb7sATk.png",
+    "tname": "近战职业",
+    "ticon": [
+      { "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/9muqitiUXEK0W3qnM33Nb7sATk.png", "tname": "近战职业" }
+    ],
+    "lvl": "Lv50",
+    "classification": "能力",
+    "cast": "即时",
+    "recast": "45秒",
+    "cost": "-",
+    "distant": "0",
+    "range": "0",
+    "rangeType": "zero",
+    "content": "一定时间内无视技能的方向要求　持续时间：10秒<BR>积蓄次数：2",
+    "change": ""
+  }
+]
