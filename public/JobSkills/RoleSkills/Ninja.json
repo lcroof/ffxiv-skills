@@ -19,7 +19,7 @@
     "range": "0",
     "rangeType": "zero",
     "content": "恢复自身体力<br>恢复力：800",
-    "change": "恢复力从500变更为800。"
+    "change": "恢复力从500变更至800。"
   },
   {
     "isDisabled": false,
@@ -82,7 +82,7 @@
     "range": "0",
     "rangeType": "zero",
     "content": "一定时间内，令目标物理攻击造成的伤害降低10%，魔法攻击造成的伤害降低5%<BR>持续时间：15秒",
-    "change": "持续时间从10秒变更为15秒。"
+    "change": "持续时间从10秒变更至15秒。"
   },
   {
     "isDisabled": false,
