@@ -1312,7 +1312,7 @@
     },
     {
         "isDisabled": false,
-        "name": "Necrotize<br>坏死",
+        "name": "Necrotize<br>溃烂新星",
         "ndes": "",
         "pic": "https://img.picgo.net/2024/06/08/Necrotizeeed4a7b8efbc9c7b.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/ZwJFxv3XnfqB5N6tKbgXKnj6BU.png",
@@ -1369,7 +1369,7 @@
     },
     {
         "isDisabled": false,
-        "name": "Summon Solar Bahamut<br>召唤光龙神巴哈姆特",
+        "name": "Summon Solar Bahamut<br>光龙神召唤",
         "ndes": "",
         "pic": "https://img.picgo.net/2024/06/08/SummonSolarBahamut8662c7cc14dfbc78.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/ZwJFxv3XnfqB5N6tKbgXKnj6BU.png",
@@ -1383,7 +1383,7 @@
         "distant": "25",
         "range": "0",
         "rangeType": "zero",
-        "content": "以一名敌人为目标<br>为自身附加光龙附体状态，令光龙神巴哈姆特显现<br>显现时间：15秒<br>光龙神巴哈姆特会对召唤师的攻击目标发动光龙波<br>追加效果：获得明亮灵光状态<br>持续时间：30秒<br>追加效果：毁荡变为灵极脉冲，三重灾祸变为灵极核爆<br>追加效果：为自身附加红宝石的奥秘、黄宝石的奥秘、绿宝石的奥秘状态<br>该技能发动后，令目标对自身仇恨提高<br>发动条件：宝石兽处于同行状态<br>亚灵神巴哈姆特显现时，之前召唤出的宝石兽会被暂时回收，并在显现时间结束后再次出现<br><br>※当满足发动条件时龙神召唤替换成光龙神召唤<br>※该技能无法设置到热键栏",
+        "content": "以一名敌人为目标<br>为自身附加光龙附体状态，令光龙神巴哈姆特显现<br>显现时间：15秒<br>光龙神巴哈姆特会对召唤师的攻击目标发动光龙波<br>追加效果：灵光阳能预备<br>持续时间：30秒<br>追加效果：毁荡变为灵极脉冲，三重灾祸变为灵极核爆<br>追加效果：为自身附加红宝石的奥秘、黄宝石的奥秘、绿宝石的奥秘状态<br>该技能发动后，令目标对自身仇恨提高<br>发动条件：宝石兽处于同行状态<br>光龙神巴哈姆特显现时，之前召唤出的宝石兽会被暂时回收，并在显现时间结束后再次出现<br>该魔法有单独计算的复唱时间<br><br>※当满足发动条件时龙神召唤替换成光龙神召唤<br>※该技能无法设置到热键栏",
         "change": "新增技能"
     },
     {
@@ -1402,7 +1402,7 @@
         "distant": "25",
         "range": "0",
         "rangeType": "zero",
-        "content": "对目标发动无属性魔法攻击<br>威力：600<br>发动条件：光龙附体状态中<br>※当满足发动条件时毁灭替换成灵极脉冲<br>※该技能无法设置到热键栏",
+        "content": "对目标发动无属性魔法攻击<br>威力：600<br>发动条件：光龙附体状态中<br>※当满足发动条件时毁荡替换成灵极脉冲<br>※该技能无法设置到热键栏",
         "change": "新增技能"
     },
     {
@@ -1478,7 +1478,7 @@
         "distant": "25",
         "range": "0",
         "rangeType": "zero",
-        "content": "对目标发动无属性魔法攻击<br>威力：200<br>发动条件：光龙神被召唤状态中<br>※该技能无法设置到热键栏",
+        "content": "对目标发动无属性魔法攻击<br>威力：200<br>发动条件：光龙神显现中<br>※该技能无法设置到热键栏",
         "change": "新增技能"
     },
     {
@@ -1497,7 +1497,7 @@
         "distant": "50",
         "range": "5",
         "rangeType": "circle",
-        "content": "对目标及其周围的敌人发动无属性范围魔法攻击<br>攻击复数敌人时，对目标之外的敌人威力降低60%<br>威力：1600<br>发动条件：光龙神被召唤状态中<br>※该技能无法设置到热键栏",
+        "content": "对目标及其周围的敌人发动无属性范围魔法攻击<br>攻击复数敌人时，对目标之外的敌人威力降低60%<br>威力：1600<br>发动条件：光龙神显现中<br>※该技能无法设置到热键栏",
         "change": "新增技能"
     }    
 ]
