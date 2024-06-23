@@ -311,7 +311,7 @@
     },
     {
         "isDisabled": false,
-        "name": "Arcane Mastery<br>魔法精通",
+        "name": "Arcane Mastery<br>技能威力提高",
         "ndes": "",
         "pic": "https://img.picgo.net/2024/06/08/ArcaneMastery0ad28a2d038c2e24.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/ZwJFxv3XnfqB5N6tKbgXKnj6BU.png",
@@ -332,7 +332,7 @@
         "ticon": "",
         "lvl": "Lv96",
         "rangeType": "zero",
-        "content": "使用灼热之光后获得灼热火花预备",
+        "content": "对自身附加灼热火花预备<br>效果时间：30秒<br>发动条件：灼热之光",
         "change": "新增特性"
     },
     {
@@ -360,7 +360,7 @@
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/ZwJFxv3XnfqB5N6tKbgXKnj6BU.png",
         "tname": "召唤师",
         "ticon": "",
-        "lvl": "Lv96",
+        "lvl": "Lv100",
         "content": "亚灵神巴哈姆特、亚灵神不死鸟和光龙神巴哈姆特交替显现",
         "change": "新增特性"
     }
