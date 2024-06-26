@@ -212,8 +212,8 @@
 		"tname": "黑魔法师",
 		"ticon": "",
 		"lvl": "Lv84",
-		"content": "魔泉的复唱时间缩短到120秒",
-		"change": ""
+		"content": "魔泉的复唱时间缩短到100秒",
+		"change": "复唱时间缩短从120秒变更至100秒"
 	},
 	{
 		"isDisabled": false,
