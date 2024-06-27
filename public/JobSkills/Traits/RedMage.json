@@ -129,7 +129,7 @@
     "ticon": "",
     "lvl": "Lv84",
     "content": "震荡变为激荡<br>部分技能的威力提高<br><br>魔回刺的威力：280<br> 赤震雷的威力：140<br> 赤烈风的威力：140<br> 赤火炎的威力：340<br> 赤飞石的威力：340<br> 魔交击斩的威力：150<br> 魔连攻的威力：130<br>冲击的威力：210<br> 魔续斩的威力：340",
-    "change": "效果从“将震荡的威力提高到320”变更至“震荡变为激荡”"
+    "change": "新增“震荡变为激荡”<br>删除“将震荡的威力:320”"
   },
   {
     "isDisabled": false,
@@ -159,7 +159,7 @@
     "isDisabled": false,
     "name": "鼓励效果提高",
     "ndes": "",
-    "pic": "https://img.picgo.net/2024/06/07/45f94d85283732f512fec8c1711b1c39df51410acf2900ae.th.png",
+    "pic": "https://lds-img.finalfantasyxiv.com/d/9fc6fde931036592d442e3d56e3c0d033f463e11.png",
     "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/NRnqJxzRtbDKR1ZHzxazWBBR2Y.png",
     "tname": "赤魔法师",
     "ticon": "",
@@ -192,7 +192,7 @@
     "isDisabled": false,
     "name": "技能威力提高",
     "ndes": "",
-    "pic": "https://img.picgo.net/2024/06/07/ae6d5c72bdf38c89dac03d9bcf9fa65b800264f71c5feb62.th.png",
+    "pic": "https://lds-img.finalfantasyxiv.com/d/faebcc03aa187f6f45319b41b7336431d1722fc4.png",
     "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/NRnqJxzRtbDKR1ZHzxazWBBR2Y.png",
     "tname": "赤魔法师",
     "ticon": "",
@@ -204,7 +204,7 @@
     "isDisabled": false,
     "name": "促进效果提高II",
     "ndes": "",
-    "pic": "https://img.picgo.net/2024/06/07/24892bc5f2d7bd0c3.th.png",
+    "pic": "https://lds-img.finalfantasyxiv.com/d/f88ff137a14d846648c1a350b6927826b0e0c316.png",
     "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/NRnqJxzRtbDKR1ZHzxazWBBR2Y.png",
     "tname": "赤魔法师",
     "ticon": "",
@@ -234,12 +234,12 @@
     "isDisabled": false,
     "name": "魔元化效果提高III",
     "ndes": "",
-    "pic": "https://img.picgo.net/2024/06/07/3fad088d6879f9ed3.th.png",
+    "pic": "https://lds-img.finalfantasyxiv.com/d/562ae4c055cc5991095f721e986f8ae703ac75f9.png",
     "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/NRnqJxzRtbDKR1ZHzxazWBBR2Y.png",
     "tname": "赤魔法师",
     "ticon": "",
     "lvl": "Lv100",
-    "content": "对自身附加灰化预备状态<br>效果时间：30秒<br>发动条件：消耗全部魔元化状态<br>该状态附加后魔元化变为灰化",
+    "content": "对自身附加璀璨预备状态<br>效果时间：30秒<br>发动条件：消耗全部魔元化状态<br>该状态附加后魔元化变为璀璨",
     "change": "新增特性"
   }
 ]
