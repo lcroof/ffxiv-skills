@@ -1,0 +1,30 @@
+[
+    {
+        "isDisabled": false,
+        "name": "即刻咏唱效果提高",
+        "ndes": "",
+        "pic": "https://lds-img.finalfantasyxiv.com/d/0948538a89b748ec2d1f2c6c8ad2afe383a740d3.png",
+        "tiurl": "",
+        "tname": "",
+        "ticon": [
+            {
+                "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/V5xx3kfnREBO-2xWbTUW2Csy_Q.png",
+                "tname": "治疗职业"
+            },
+            {
+                "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/8Dnf8Wy9IyxIt21y6lrE5atKt0.png",
+                "tname": "远程魔法职业"
+            }
+        ],
+        "lvl": "Lv94",
+        "classification": "",
+        "cast": "",
+        "recast": "",
+        "cost": "",
+        "distant": "",
+        "range": "",
+        "rangeType": "",
+        "content": "即刻咏唱的复唱时间缩短到40秒",
+        "change": "新增特性"
+    }
+]

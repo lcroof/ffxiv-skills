@@ -157,27 +157,6 @@
     },
     {
         "isDisabled": false,
-        "name": "即刻咏唱效果提高",
-        "ndes": "",
-        "pic": "https://img.picgo.net/2024/06/06/324ac7f0c54e1b527abe0a10e2a57033762fba03f10f0b73.png",
-        "tiurl": "",
-        "tname": "",
-        "ticon": [
-            {
-                "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/V5xx3kfnREBO-2xWbTUW2Csy_Q.png",
-                "tname": "治疗职业"
-            },
-            {
-                "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/8Dnf8Wy9IyxIt21y6lrE5atKt0.png",
-                "tname": "远程魔法职业"
-            }
-        ],
-        "lvl": "Lv94",
-        "content": "即刻咏唱的复唱时间缩短到40秒",
-        "change": "新增特性"
-    },
-    {
-        "isDisabled": false,
         "name": "技能威力提高",
         "ndes": "",
         "pic": "https://img.picgo.net/2024/06/09/2e059ccb39848ff95.png",

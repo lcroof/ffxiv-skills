@@ -172,34 +172,6 @@
     },
     {
       "isDisabled": false,
-      "name": "内丹效果提高",
-      "ndes": "",
-      "pic": "https://img.picgo.net/2024/06/09/101fab122884f026c8.png",
-      "tiurl": "",
-      "tname": "",
-      "ticon": [
-        {
-            "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/9muqitiUXEK0W3qnM33Nb7sATk.png",
-            "tname": "近战职业"
-        },
-        {
-            "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/oWWxUIO2KagIEhDXy0541MRD7M.png",
-            "tname": "远程物理职业"
-        }
-    ],
-      "lvl": "Lv94",
-      "classification": "",
-      "cast": "",
-      "recast": "",
-      "cost": "",
-      "distant": "",
-      "range": "",
-      "rangeType": "zero",
-      "content": "内丹的恢复力提高到800",
-      "change": ""
-    },
-    {
-      "isDisabled": false,
       "name": "祖灵之魂效果提高",
       "ndes": "",
       "pic": "https://img.picgo.net/2024/06/09/11583439cf7b1f042e.png",
@@ -215,34 +187,6 @@
       "range": "",
       "rangeType": "zero",
       "content": "灵力的最大档数增加到五档<br/>此外，能够实行祖灵大蛇牙<br/>发动条件：祖灵降临状态下",
-      "change": ""
-    },
-    {
-      "isDisabled": false,
-      "name": "牵制效果提高",
-      "ndes": "",
-      "pic": "https://img.picgo.net/2024/06/09/12d57582582ee0bf6d.png",
-      "tiurl": "",
-      "tname": "",
-      "ticon": [
-            {
-                "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/9muqitiUXEK0W3qnM33Nb7sATk.png",
-                "tname": "近战职业"
-            },
-            {
-                "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/oWWxUIO2KagIEhDXy0541MRD7M.png",
-                "tname": "远程物理职业"
-            }
-        ],
-      "lvl": "Lv98",
-      "classification": "",
-      "cast": "",
-      "recast": "",
-      "cost": "",
-      "distant": "",
-      "range": "",
-      "rangeType": "zero",
-      "content": "牵制的持续时间延长到15秒",
       "change": ""
     },
     {
