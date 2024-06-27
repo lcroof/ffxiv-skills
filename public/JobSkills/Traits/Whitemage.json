@@ -190,5 +190,85 @@
         "lvl": "Lv88",
         "content": "神祝祷变为积蓄技能<BR>积蓄次数：2",
         "change": ""
+    },
+    {
+        "isDisabled": false,
+        "name": "神速咏唱效果提高",
+        "ndes": "",
+        "pic": "",
+        "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/Na619RGtVtbEvNn1vyFoSlvZ84.png",
+        "tname": "白魔法师",
+        "lvl": "Lv92",
+        "content": "对自身附加3档闪爆预备状态<br>发动条件：神速咏唱",
+        "change": "新增特性"
+    },
+    {
+        "isDisabled": false,
+        "name": "即刻咏唱效果提高",
+        "ndes": "",
+        "pic": "https://img.picgo.net/2024/06/06/324ac7f0c54e1b527abe0a10e2a57033762fba03f10f0b73.png",
+        "tiurl": "",
+        "tname": "",
+        "ticon": [
+            {
+                "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/V5xx3kfnREBO-2xWbTUW2Csy_Q.png",
+                "tname": "治疗职业"
+            },
+            {
+                "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/8Dnf8Wy9IyxIt21y6lrE5atKt0.png",
+                "tname": "远程魔法职业"
+            }
+        ],
+        "lvl": "Lv94",
+        "content": "即刻咏唱的复唱时间缩短到40秒",
+        "change": "新增特性"
+    },
+    {
+        "isDisabled": false,
+        "name": "技能威力提高",
+        "ndes": "",
+        "pic": "https://img.picgo.net/2024/06/09/2e059ccb39848ff95.png",
+        "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/Na619RGtVtbEvNn1vyFoSlvZ84.png",
+        "tname": "白魔法师",
+        "ticon": "",
+        "lvl": "Lv94",
+        "content": "部分技能的威力提高<br/><br/>天辉的威力：70<br>天辉持续伤害的威力：70<br>苦难之心的威力：1320<br>闪耀的威力：330",
+        "change": "新增特性"
+    },
+    {
+        "isDisabled": false,
+        "name": "医济精通",
+        "ndes": "",
+        "pic": "",
+        "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/Na619RGtVtbEvNn1vyFoSlvZ84.png",
+        "tname": "白魔法师",
+        "ticon": "",
+        "lvl": "Lv96",
+        "content": "医济变为医沐",
+        "change": "新增特性"
+    },
+    {
+        "isDisabled": false,
+        "name": "神明效果提高",
+        "ndes": "",
+        "pic": "",
+        "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/Na619RGtVtbEvNn1vyFoSlvZ84.png",
+        "tname": "白魔法师",
+        "ticon": "",
+        "lvl": "Lv98",
+        "content": "神名变为积蓄技能<BR>积蓄次数：2",
+        "change": "新增特性"
+    },
+    {
+        "isDisabled": false,
+        "name": "节制效果提高",
+        "ndes": "",
+        "pic": "",
+        "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/Na619RGtVtbEvNn1vyFoSlvZ84.png",
+        "tname": "白魔法师",
+        "ticon": "",
+        "lvl": "Lv100",
+        "content": "对自身附加神爱抚预备状态<br>持续时间：30秒<br>发动条件：节制",
+        "change": "新增特性"
     }
 ]
