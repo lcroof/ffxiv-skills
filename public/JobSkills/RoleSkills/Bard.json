@@ -82,7 +82,7 @@
         "recast": "5秒",
         "cost": "-",
         "distant": "0",
-        "rangeType": "",
+        "rangeType": "circle",
         "range": "30",
         "content": "提高自身和周围队员的移动速度<BR>进入战斗状态后效果消失，并且战斗状态下也无法重新生效<BR>持续时间：30秒",
         "type": "",
