@@ -2,23 +2,37 @@
 
 ### 安装环境
 ## 安装git
+```
 https://git-scm.com/download/win
 无脑下一步
+```
 
 ## 安装node.js
+```
 https://nodejs.org/zh-cn/download/prebuilt-installer
 选择预构建安装程序，使用Windows 64位 v18.20.3(LTS) 版本下载安装
+```
 
 ## 安装vscode
 什么你还不会百度安装vscode？
 
+## 下载本项目
+```
+打开cmd，进入一个好文件夹下面
+输入git clone https://gitee.com/lcroof/ffxiv-skills.git
+```
+
 ## 配置git和vscode
+```
 先去gitee注册一个帐号
 git config --global user.name "你的帐号名"
 git config --global user.email "你的邮箱地址"
+```
 
 ## vscode无法执行命令解决方案
+```
 管理员身份运行PowerShell,输入Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned,然后输入Y确认
+```
 
 ### 安装方式
 ```
