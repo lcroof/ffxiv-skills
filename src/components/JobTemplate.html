@@ -337,73 +337,6 @@
                             </div>
                         </div>
 
-                        <!-- <div class="subTabNum">
-                            <div class="roopBox roopBox3">
-                                <h3 id="subTitle_3" class="job__sub_title">职能特性 <span
-                                        class="js__jobguide_new_or_update hide" style="display: inline;"> </span></h3>
-                                <div class="job_txt">
-                                    职能特性是根据职业和特职的区别所习得的各种特性。
-                                </div>
-                                <div class="job_table">
-                                    <div class="job_list job_tab_tit">
-                                        <div class="job_item item3_0">
-                                            <span>技能名称</span>
-                                        </div>
-                                        <div class="job_item item3_1">
-                                            <span>习得<br />条件</span>
-                                        </div>
-                                        <div class="job_item item3_2">
-                                            <span>效果</span>
-                                        </div>
-                                        <div class="job_item item3_3">
-                                            <span>变更内容</span>
-                                        </div>
-                                    </div>
-                                    <div class="job_tbody">
-                                        <div class="job_list_type" v-for="item in roleTraits">
-                                            <div class="job_tlist">
-                                                <div class="job_titem item3_0">
-                                                    <div class="skill_icon">
-                                                        <img :src="item.pic" width="40" height="40" alt=""
-                                                            :style="{'filter': item.isDisabled ? 'grayscale(100%)' : ''}">
-                                                    </div>
-                                                    <p class="skill_txt"><strong v-if="item.isDisabled !== 'true'">
-                                                            <div class="skill_txt" v-html=[item.name]></div>
-                                                            <div class="des" v-if="item.ndes">通过特职任务获得</div>
-                                                        </strong></p>
-                                                </div>
-                                                <div class="job_titem item3_1">
-                                                    <div class="waper_icon">
-                                                        <div class="oneHas">
-                                                            <div class="item" tabindex="0"
-                                                                v-for="itemIcon in item.ticon">
-                                                                <img :src="itemIcon.url" width="32" height="32"
-                                                                    class="js__tooltip" />
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <p>{{item.lvl}}</p>
-                                                </div>
-                                                <div class="job_titem item3_2">
-                                                    <div class="job_des">
-                                                        <div class="content" v-html=[item.content]>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="job_titem item3_3">
-                                                    <div class="job_des">
-                                                        <div class="content" v-html=[item.change]>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <p class="job__notes">{{headers.footer4}}</p>
-                            </div>
-                        </div> -->
-
                         <div class="subTabNum">
                             <div class="roopBox roopBox3">
                                 <h3 id="subTitle_2" class="job__sub_title">特性 <span
@@ -474,6 +407,73 @@
                                     </div>
                                 </div>
                                 <p class="job__notes">{{headers.footer3}}</p>
+                            </div>
+                        </div>
+
+                        <div class="subTabNum">
+                            <div class="roopBox roopBox3">
+                                <h3 id="subTitle_3" class="job__sub_title">职能特性 <span
+                                        class="js__jobguide_new_or_update hide" style="display: inline;"> </span></h3>
+                                <div class="job_txt">
+                                    职能特性是根据职业和特职的区别所习得的各种特性。
+                                </div>
+                                <div class="job_table">
+                                    <div class="job_list job_tab_tit">
+                                        <div class="job_item item3_0">
+                                            <span>技能名称</span>
+                                        </div>
+                                        <div class="job_item item3_1">
+                                            <span>习得<br />条件</span>
+                                        </div>
+                                        <div class="job_item item3_2">
+                                            <span>效果</span>
+                                        </div>
+                                        <div class="job_item item3_3">
+                                            <span>变更内容</span>
+                                        </div>
+                                    </div>
+                                    <div class="job_tbody">
+                                        <div class="job_list_type" v-for="item in roleTraits">
+                                            <div class="job_tlist">
+                                                <div class="job_titem item3_0">
+                                                    <div class="skill_icon">
+                                                        <img :src="item.pic" width="40" height="40" alt=""
+                                                            :style="{'filter': item.isDisabled ? 'grayscale(100%)' : ''}">
+                                                    </div>
+                                                    <p class="skill_txt"><strong v-if="item.isDisabled !== 'true'">
+                                                            <div class="skill_txt" v-html=[item.name]></div>
+                                                            <div class="des" v-if="item.ndes">通过特职任务获得</div>
+                                                        </strong></p>
+                                                </div>
+                                                <div class="job_titem item3_1">
+                                                    <div class="waper_icon">
+                                                        <div class="oneHas">
+                                                            <div class="item" tabindex="0"
+                                                                v-for="itemIcon in item.ticon">
+                                                                <img :src="itemIcon.url" width="32" height="32"
+                                                                    class="js__tooltip" />
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <p>{{item.lvl}}</p>
+                                                </div>
+                                                <div class="job_titem item3_2">
+                                                    <div class="job_des">
+                                                        <div class="content" v-html=[item.content]>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="job_titem item3_3">
+                                                    <div class="job_des">
+                                                        <div class="content" v-html=[item.change]>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <p class="job__notes">{{headers.footer4}}</p>
                             </div>
                         </div>
                     </div>
