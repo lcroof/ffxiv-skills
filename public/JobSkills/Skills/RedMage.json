@@ -302,8 +302,8 @@
     "distant": "8",
     "rangeType": "sector",
     "range": "8",
-    "content": "向目标所在方向发出扇形范围物理攻击　<br>威力：60<BR>平衡量谱中黑魔元与白魔元都在20点以上时，该技能变为魔划圆斩",
-    "change":""
+    "content": "向目标所在方向发出扇形范围物理攻击　<br>威力：60<BR>平衡量谱中黑魔元与白魔元都在20点以上时，该技能变为魔划圆斩·一式",
+    "change":"效果从“平衡量谱中黑魔元与白魔元都在20点以上时，该技能变为魔划圆斩”变更至“平衡量谱中黑魔元与白魔元都在20点以上时，该技能变为魔划圆斩·一式”"
   },
   {
     "name": "赤治疗",
@@ -542,7 +542,7 @@
   {
     "name": "Jolt III<br>激荡",
     "ndes": "",
-    "pic": "https://img.picgo.net/2024/06/07/35080b2183dfd80e8ac4e3cadef51f2ebe78a6929ec16883.png",
+    "pic": "https://lds-img.finalfantasyxiv.com/d/f3be0e80366bd72a864a87e41eadd964f07a5f57.png",
     "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/NRnqJxzRtbDKR1ZHzxazWBBR2Y.png",
     "tname": "赤魔法师",
     "ticon": "",
@@ -596,7 +596,7 @@
   {
     "name": "Vice of Thorns<br>荆棘绞剑",
     "ndes": "",
-    "pic": "https://img.picgo.net/2024/06/07/50d9ab50f86435573c9ff045d6c3225d1c26ea92ea3c63c3.png",
+    "pic": "https://lds-img.finalfantasyxiv.com/d/23de2734d998406aa25f526147ebbea7f1012d67.png",
     "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/NRnqJxzRtbDKR1ZHzxazWBBR2Y.png",
     "tname": "赤魔法师",
     "ticon": "",
@@ -614,7 +614,7 @@
   {
     "name": "Grand Impact<br>贵族冲击",
     "ndes": "",
-    "pic": "https://img.picgo.net/2024/06/07/63b79fd6936c8bd4698a9a658773f3c5036d6577d9952373.png",
+    "pic": "https://lds-img.finalfantasyxiv.com/d/5be2009c3bc4bd918ee899e0c6edc953571e93a3.png",
     "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/NRnqJxzRtbDKR1ZHzxazWBBR2Y.png",
     "tname": "赤魔法师",
     "ticon": "",
@@ -632,7 +632,7 @@
   {
     "name": "Prefulgence<br>璀璨",
     "ndes": "",
-    "pic": "https://img.picgo.net/2024/06/07/966cc276dfac3302f3c1220ae2200ca36952fa0aef3cf611.png",
+    "pic": "https://lds-img.finalfantasyxiv.com/d/f3988ae5cc17fcf0b655c5820f0c25ef2ac72b43.png",
     "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/NRnqJxzRtbDKR1ZHzxazWBBR2Y.png",
     "tname": "赤魔法师",
     "ticon": "",
@@ -722,7 +722,7 @@
   {
     "name": "Moulinet Deux<br>魔划圆斩·二式",
     "ndes": "",
-    "pic": "https://img.picgo.net/2024/06/07/2b489f4737959da6e.png",
+    "pic": "https://lds-img.finalfantasyxiv.com/d/e5dfc01b5048f6bef58d504d6e6f633004ad8fc7.png",
     "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/NRnqJxzRtbDKR1ZHzxazWBBR2Y.png",
     "tname": "赤魔法师",
     "ticon": "",
@@ -740,7 +740,7 @@
   {
     "name": "Moulinet Trois<br>魔划圆斩·三式",
     "ndes": "",
-    "pic": "https://img.picgo.net/2024/06/07/3069cd6d2bde2e67d.png",
+    "pic": "https://lds-img.finalfantasyxiv.com/d/0f1ad21893a66c8f4b9253821fee9044ba1b4464.png",
     "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/NRnqJxzRtbDKR1ZHzxazWBBR2Y.png",
     "tname": "赤魔法师",
     "ticon": "",
