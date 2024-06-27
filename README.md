@@ -35,6 +35,12 @@ pnpm run serve
 
 默认地址为http://localhost:8080/
 ```
+### 开发注意事项
+请自己新建一个gitee帐号
+帐号或者邮箱名发给作者，作者会视情况发放开发者权限
+获取开发者权限后新建一个分支，之后就在这个分支上修改和提交
+在开始新修改之前，请在终端中输入git pull origin master对本地代码进行合并
+完成所有修改后请提交Pull Request，然后指定专人审核测试
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
