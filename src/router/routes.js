@@ -61,6 +61,10 @@ const routes = [
     {
         path: '/Machinist',
         component: JobView
+    },
+    {
+        path: '/Dancer',
+        component: JobView
     }
 ]
 
