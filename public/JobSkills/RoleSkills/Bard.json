@@ -1,0 +1,137 @@
+[
+    {
+		"isDisabled": false,
+        "name": "伤腿",
+        "ndes": "",
+        "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Bard/Physical Ranged DPS Role Action_01.png",
+        "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/oWWxUIO2KagIEhDXy0541MRD7M.png",
+        "tname": "远程物理职业",
+        "ticon": [
+            {"url":"https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/oWWxUIO2KagIEhDXy0541MRD7M.png","tname": "远程物理职业"}
+        ],
+        "lvl": "Lv6",
+        "classification": "能力",
+        "cast": "即时",
+        "recast": "30秒",
+        "cost": "-",
+        "distant": "25",
+        "rangeType": "",
+        "range": "0",
+        "content": "令目标陷入40%加重状态　<br>持续时间：10秒",
+        "type": "",
+        "change": ""
+    },
+    {
+		"isDisabled": false,
+        "name": "内丹",
+        "ndes": "",
+        "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Bard/Physical Ranged DPS Role Action_02.png",
+        "tiurl": "",
+        "tname": "",
+        "ticon": [
+                    {"url":"https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/9muqitiUXEK0W3qnM33Nb7sATk.png","tname": "近战职业"},
+                    {"url":"https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/oWWxUIO2KagIEhDXy0541MRD7M.png","tname": "远程物理职业"}
+                ],
+        "lvl": "Lv8",
+        "classification": "能力",
+        "cast": "即时",
+        "recast": "120秒",
+        "cost": "-",
+        "distant": "0",
+        "rangeType": "",
+        "range": "0",
+        "content": "恢复自身体力　恢复力：800",
+        "type": "",
+        "change": "恢复力从500变更为800"
+    },
+    {
+		"isDisabled": false,
+        "name": "伤足",
+        "ndes": "",
+        "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Bard/Physical Ranged DPS Role Action_03.png",
+        "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/oWWxUIO2KagIEhDXy0541MRD7M.png",
+        "tname": "远程物理职业",
+        "ticon": [
+            {"url":"https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/oWWxUIO2KagIEhDXy0541MRD7M.png","tname": "远程物理职业"}
+        ],
+        "lvl": "Lv10",
+        "classification": "能力",
+        "cast": "即时",
+        "recast": "30秒",
+        "cost": "-",
+        "distant": "25",
+        "rangeType": "",
+        "range": "0",
+        "content": "对目标造成止步效果　<br>持续时间：10秒<BR>发动之后会停止自动攻击",
+        "type": "",
+        "change": ""
+    },
+    {
+		"isDisabled": false,
+        "name": "速行",
+        "ndes": "",
+        "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Bard/Physical Ranged DPS Role Action_04.png",
+        "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/oWWxUIO2KagIEhDXy0541MRD7M.png",
+        "tname": "远程物理职业",
+        "ticon": [
+            {"url":"https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/oWWxUIO2KagIEhDXy0541MRD7M.png","tname": "远程物理职业"}
+        ],
+        "lvl": "Lv20",
+        "classification": "能力",
+        "cast": "即时",
+        "recast": "5秒",
+        "cost": "-",
+        "distant": "0",
+        "rangeType": "circle",
+        "range": "30",
+        "content": "提高自身和周围队员的移动速度<BR>进入战斗状态后效果消失，并且战斗状态下也无法重新生效<BR>持续时间：30秒",
+        "type": "",
+        "change": ""
+    },
+    {
+		"isDisabled": false,
+        "name": "伤头",
+        "ndes": "",
+        "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Bard/Physical Ranged DPS Role Action_05.png",
+        "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/oWWxUIO2KagIEhDXy0541MRD7M.png",
+        "tname": "远程物理职业",
+        "ticon": [
+            {"url":"https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/oWWxUIO2KagIEhDXy0541MRD7M.png","tname": "远程物理职业"}
+        ],
+        "lvl": "Lv24",
+        "classification": "能力",
+        "cast": "即时",
+        "recast": "30秒",
+        "cost": "-",
+        "distant": "25",
+        "rangeType": "",
+        "range": "0",
+        "content": "中断目标的技能咏唱",
+        "type": "",
+        "change": ""
+    },
+    {
+		"isDisabled": false,
+        "name": "亲疏自行",
+        "ndes": "",
+        "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Bard/Physical Ranged DPS Role Action_06.png",
+        "tiurl": "",
+        "tname": "",
+        "ticon": [
+                    {"url":"https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/rFrCBcRe9YrmPvb4fZkuFksSLw.png","tname": "防护职业"},
+                    {"url":"https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/9muqitiUXEK0W3qnM33Nb7sATk.png","tname": "近战职业"},
+                    {"url":"https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/oWWxUIO2KagIEhDXy0541MRD7M.png","tname": "远程物理职业"}
+                ],
+        "lvl": "Lv32",
+        "classification": "能力",
+        "cast": "即时",
+        "recast": "120秒",
+        "cost": "-",
+        "distant": "0",
+        "rangeType": "",
+        "range": "0",
+        "content": "为自身张开一个防护罩，一定时间内令除特定攻击之外其他所有击退与吸引效果失效　<br>持续时间：6秒<BR>防护罩追加效果（受到物理攻击时，发动几率100%）：攻击者减速20%　<br>持续时间：15秒",
+        "type": "",
+        "change": ""
+    }                     
+ ]

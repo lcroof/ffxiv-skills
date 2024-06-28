@@ -7,6 +7,9 @@
   <router-link to="/Summoner">召唤师</router-link><br/>
   <router-link to="/Pictomancer">绘灵法师</router-link><br/>
   <br>
+  <router-link to="/Bard">吟游诗人</router-link><br/>
+  <router-link to="/Machinist">机工</router-link><br/>
+  <br>
   <router-link to="/Sage">贤者</router-link><br/>
   <router-link to="/Scholar">学者</router-link><br/>  
   <router-link to="/Whitemage">白魔法师</router-link><br/>
