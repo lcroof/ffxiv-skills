@@ -57,6 +57,10 @@ const routes = [
     {
         path: '/Bard',
         component: JobView
+    },
+    {
+        path: '/Machinist',
+        component: JobView
     }
 ]
 
