@@ -53,6 +53,18 @@ const routes = [
     {
         path: '/Astrologian',
         component: JobView
+    },
+    {
+        path: '/Bard',
+        component: JobView
+    },
+    {
+        path: '/Machinist',
+        component: JobView
+    },
+    {
+        path: '/Dancer',
+        component: JobView
     }
 ]
 
