@@ -1,54 +1,54 @@
 [
+   {
+       "isDisabled": false,
+       "name": "即刻咏唱效果提高",
+       "ndes": "",
+       "pic": "https://lds-img.finalfantasyxiv.com/d/0948538a89b748ec2d1f2c6c8ad2afe383a740d3.png",
+       "tiurl": "",
+       "tname": "",
+       "ticon": [
+          {
+             "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/V5xx3kfnREBO-2xWbTUW2Csy_Q.png",
+             "tname": "治疗职业"
+          },
+          {
+             "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/8Dnf8Wy9IyxIt21y6lrE5atKt0.png",
+             "tname": "远程魔法职业"
+          }
+       ],
+       "lvl": "Lv94",
+       "classification": "",
+       "cast": "",
+       "recast": "",
+       "cost": "",
+       "distant": "",
+       "range": "",
+       "rangeType": "",
+       "content": "即刻咏唱的复唱时间缩短到40秒",
+       "change": "新增特性"
+    },
     {
-        "isDisabled": false,
-        "name": "Enhanced Swiftcast<br>即刻咏唱效果提高",
-        "ndes": "",
-        "pic": "https://img.picgo.net/2024/06/08/Swiftcast3431b0b390acb7d9.png",
-        "tiurl": "",
-        "tname": "",
-        "ticon": [
-           {
-              "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/V5xx3kfnREBO-2xWbTUW2Csy_Q.png",
-              "tname": "治疗职业"
-           },
-           {
-              "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/8Dnf8Wy9IyxIt21y6lrE5atKt0.png",
-              "tname": "远程魔法职业"
-           }
-        ],
-        "lvl": "Lv94",
-        "classification": "",
-        "cast": "",
-        "recast": "",
-        "cost": "",
-        "distant": "",
-        "range": "",
-        "rangeType": "",
-        "content": "即刻咏唱的复唱时间缩短到40秒",
-        "change": "新增特性"
-     },
-     {
-        "isDisabled": false,
-        "name": "Enhanced Addle<br>昏乱效果提高",
-        "ndes": "",
-        "pic": "https://img.picgo.net/2024/06/08/Addleb750c11706ddcc50.png",
-        "tiurl": "",
-        "tname": "",
-        "ticon": [
-           {
-              "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/8Dnf8Wy9IyxIt21y6lrE5atKt0.png",
-              "tname": "远程魔法职业"
-           }
-        ],
-        "lvl": "Lv98",
-        "classification": "能力",
-        "cast": "即时",
-        "recast": "40秒",
-        "cost": "-",
-        "distant": "0",
-        "range": "0",
-        "rangeType": "zero",
-        "content": "昏乱的持续时间延长到15秒",
-        "change": "新增特性"
-     }
+       "isDisabled": false,
+       "name": "昏乱效果提高",
+       "ndes": "",
+       "pic": "https://lds-img.finalfantasyxiv.com/d/590a381c0421f33d428c1dd51293c715a1a53ee7.png",
+       "tiurl": "",
+       "tname": "",
+       "ticon": [
+          {
+             "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/8Dnf8Wy9IyxIt21y6lrE5atKt0.png",
+             "tname": "远程魔法职业"
+          }
+       ],
+       "lvl": "Lv98",
+       "classification": "能力",
+       "cast": "即时",
+       "recast": "40秒",
+       "cost": "-",
+       "distant": "0",
+       "range": "0",
+       "rangeType": "zero",
+       "content": "昏乱的持续时间延长到15秒",
+       "change": "新增特性"
+    }
 ]

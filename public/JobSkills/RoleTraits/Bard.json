@@ -1,0 +1,26 @@
+[
+
+    {
+		"isDisabled": false,
+        "name": "内丹效果提高",
+        "ndes": "",
+        "pic": "https://lds-img.finalfantasyxiv.com/d/dccd320d548ebfe264816b020f67211d2a310bb9.png",
+        "tiurl": "",
+        "tname": "",
+        "ticon": [
+                    {"url":"https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/9muqitiUXEK0W3qnM33Nb7sATk.png","tname": "近战职业"},
+                    {"url":"https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/oWWxUIO2KagIEhDXy0541MRD7M.png","tname": "远程物理职业"}
+                ],
+        "lvl": "Lv94",
+        "classification": "能力",
+        "cast": "即时",
+        "recast": "120秒",
+        "cost": "-",
+        "distant": "0",
+        "rangeType": "zero",
+        "range": "0",
+        "content": "内丹的恢复力提高到800",
+        "type": "",
+        "change": "新增特性"
+    }
+]

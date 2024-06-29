@@ -279,89 +279,51 @@
         "isDisabled": false,
         "name": "Enhanced Fester<br>溃烂爆发效果提高",
         "ndes": "",
-        "pic": "https://img.picgo.net/2024/06/08/Fester0675419d4ca3c24d.png",
+        "pic": "https://lds-img.finalfantasyxiv.com/d/53facd8b25710db47632a36af5234c873d2e0fb9.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/ZwJFxv3XnfqB5N6tKbgXKnj6BU.png",
         "tname": "召唤师",
         "ticon": "",
         "lvl": "Lv92",
         "rangeType": "zero",
-        "content": "溃烂爆发变成坏死",
+        "content": "溃烂爆发变为溃烂新星",
         "change": "新增特性"
     },
     {
         "isDisabled": false,
-        "name": "Enhanced Swiftcast<br>即刻咏唱效果提高",
+        "name": "Arcane Mastery<br>技能威力提高",
         "ndes": "",
-        "pic": "https://img.picgo.net/2024/06/06/324ac7f0c54e1b527abe0a10e2a57033762fba03f10f0b73.png",
-        "tiurl": "",
-        "tname": "",
-        "ticon": [
-            {
-                "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/V5xx3kfnREBO-2xWbTUW2Csy_Q.png",
-                "tname": "治疗职业"
-            },
-            {
-                "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/8Dnf8Wy9IyxIt21y6lrE5atKt0.png",
-                "tname": "远程魔法职业"
-            }
-        ],
-        "lvl": "Lv94",
-        "content": "即刻咏唱的复唱时间缩短到40秒",
-        "change": "新增特性"
-    },
-    {
-        "isDisabled": false,
-        "name": "Arcane Mastery<br>魔法精通",
-        "ndes": "",
-        "pic": "https://img.picgo.net/2024/06/08/ArcaneMastery0ad28a2d038c2e24.png",
+        "pic": "https://lds-img.finalfantasyxiv.com/d/faebcc03aa187f6f45319b41b7336431d1722fc4.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/ZwJFxv3XnfqB5N6tKbgXKnj6BU.png",
         "tname": "召唤师",
         "ticon": "",
         "lvl": "Lv94",
         "rangeType": "zero",
-        "content": "以下技能威力提高<br><br>毁荡的威力：360<br>星极脉冲的威力：500<br>毁绝的威力：490<br>红宝石之仪的威力：580<br>黄宝石之仪的威力：380<br>绿宝石之仪的威力：270<br>灵泉之炎的威力：620<br>深红旋风的威力：490<br>深红强袭的威力：490<br>山崩的威力：170<br>螺旋气流的威力：490<br>地狱之火炎的威力：860<br>大地之怒的威力：860<br>大气爆发的威力：860",
+        "content": "以下技能威力提高<br><br>毁荡的威力：360<br>星极脉冲的威力：500<br>毁绝的威力：490<br>红宝石之仪的威力：540<br>黄宝石之仪的威力：340<br>绿宝石之仪的威力：240<br>灵泉之炎的威力：580<br>深红旋风的威力：490<br>深红强袭的威力：490<br>山崩的威力：160<br>螺旋气流的威力：490<br>地狱之火炎的威力：800<br>大地之怒的威力：800<br>大气爆发的威力：800",
         "change": "新增特性"
     },
     {
         "isDisabled": false,
         "name": "Enhanced Searing Light<br>灼热之光效果提高",
         "ndes": "",
-        "pic": "https://img.picgo.net/2024/06/08/SearingLight1d0b3b1e5f4c1ce1.png",
+        "pic": "https://lds-img.finalfantasyxiv.com/d/449b3c71c516f6bef021c30b88e2fa442cfb8b6b.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/ZwJFxv3XnfqB5N6tKbgXKnj6BU.png",
         "tname": "召唤师",
         "ticon": "",
         "lvl": "Lv96",
         "rangeType": "zero",
-        "content": "使用灼热之光后获得红宝石闪光状态",
-        "change": "新增特性"
-    },
-    {
-        "isDisabled": false,
-        "name": "Enhanced Addle<br>昏乱效果提高",
-        "ndes": "",
-        "pic": "https://img.picgo.net/2024/06/06/4210d1810b0254eb2ff37b8564cac05303cc6ccaa2dc9460.png",
-        "tiurl": "",
-        "tname": "",
-        "ticon": [
-            {
-                "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/8Dnf8Wy9IyxIt21y6lrE5atKt0.png",
-                "tname": "远程魔法职业"
-            }
-        ],
-        "lvl": "Lv98",
-        "content": "昏乱的持续时间提高到15秒",
+        "content": "对自身附加灼热火花预备<br>效果时间：30秒<br>发动条件：灼热之光",
         "change": "新增特性"
     },
     {
         "isDisabled": false,
         "name": "Enhanced<br>Summon Bahamut II<br>龙神召唤效果提高II",
         "ndes": "",
-        "pic": "https://img.picgo.net/2024/06/08/SummonBahamutII92552759cb942624.png",
+        "pic": "https://lds-img.finalfantasyxiv.com/d/6a8260bfa47331ec8f85dd4a445b793acdcbc468.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/ZwJFxv3XnfqB5N6tKbgXKnj6BU.png",
         "tname": "召唤师",
         "ticon": "",
-        "lvl": "Lv96",
-        "content": "除了亚灵神巴哈姆特和亚灵神不死鸟外，允许召唤光龙神巴哈姆特",
+        "lvl": "Lv100",
+        "content": "亚灵神巴哈姆特、亚灵神不死鸟和光龙神巴哈姆特交替显现",
         "change": "新增特性"
     }
 ]

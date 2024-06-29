@@ -181,13 +181,13 @@
         "lvl": "Lv30",
         "classification": "能力",
         "cast": "即时",
-        "recast": "120秒",
+        "recast": "100秒",
         "cost": "-",
         "distant": "0",
         "range": "0",
         "rangeType": "zero",
         "content": "恢复全部魔力<br/>追加效果：星极火最大档数<br/>持续时间：15秒<br/>追加效果：闪雷系魔法预备状态<br/>持续时间：30秒<br/>追加效果：3档灵极心<br/>灵极心效果：抵消星极火状态中发动火系魔法增加的魔力消耗<br/>追加效果：悖论状态<br/>发动条件：星极火状态中",
-        "change": "效果从“恢复最大魔力的30%”变更为“恢复全部魔力<br/>追加效果：星极火最大档数<br/>持续时间：15秒<br/>追加效果：闪雷系魔法预备状态<br/>持续时间：30秒<br/>追加效果：3档灵极心<br/>灵极心效果：抵消星极火状态中发动火系魔法增加的魔力消耗<br/>追加效果：悖论状态<br/>发动条件：星极火状态中”"
+        "change": "复唱时间从120秒变更至100秒<br/>效果从“恢复最大魔力的30%”变更为“恢复全部魔力<br/>追加效果：星极火最大档数<br/>持续时间：15秒<br/>追加效果：闪雷系魔法预备状态<br/>持续时间：30秒<br/>追加效果：3档灵极心<br/>灵极心效果：抵消星极火状态中发动火系魔法增加的魔力消耗<br/>追加效果：悖论状态<br/>发动条件：星极火状态中”"
     },
     {
         "isDisabled": false,
@@ -339,7 +339,7 @@
         "range": "0",
         "rangeType": "zero",
         "content": "效果时间内，自身发动的1次“崩溃”或“火炎”或“悖论”或“雷系魔法”必定触发“崩溃的追加效果”“爆炎效果提高”“雷系魔法效果提高”<br/>持续时间：30秒<br/>积蓄次数：2",
-        "change": "再见了妈妈今晚我就要远航"
+        "change": "删除技能"
     },
     {
         "isDisabled": false,
@@ -592,7 +592,7 @@
         "isDisabled": false,
         "name": "High Thunder <BR>高闪雷",
         "ndes": false,
-        "pic": "https://img.picgo.net/2024/06/06/d936ac386f5d9a008f65ddc6899bbd20cc7052a26d85619b.png",
+        "pic": "https://lds-img.finalfantasyxiv.com/d/1babd2b0f9ad34451ac3ac29230b2239db95065b.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/7JuT00VSwaFqTfcTYUCUnGPFQE.png",
         "tname": "黑魔法师",
         "ticon": "",
@@ -604,14 +604,14 @@
         "distant": "25",
         "range": "0",
         "rangeType": "zero",
-        "content": "对目标发动雷属性魔法攻击　<br/>威力：200<br/>追加效果：雷属性持续伤害<br/>威力：50　<br/>持续时间：30秒<br/>自身对目标附加的雷系魔法持续伤害效果同时只能存在一种<br/>发动条件：闪雷系魔法预备状态中<br/>闪雷系魔法预备状态是自身进入星极火或灵极冰状态时，及将自身的状态转变为相反的属性时，会被赋予的状态",
+        "content": "对目标发动雷属性魔法攻击　<br/>威力：200<br/>追加效果：雷属性持续伤害<br/>威力：55　<br/>持续时间：30秒<br/>自身对目标附加的雷系魔法持续伤害效果同时只能存在一种<br/>发动条件：闪雷系魔法预备状态中<br/>闪雷系魔法预备状态是自身进入星极火或灵极冰状态时，及将自身的状态转变为相反的属性时，会被赋予的状态",
         "change": "新增技能"
     },
     {
         "isDisabled": false,
         "name": "High Thunder II<BR>高震雷",
         "ndes": false,
-        "pic": "https://img.picgo.net/2024/06/06/e3b4a51287f7c3076ae73d4915d63a359d8367cf846ec24b.png",
+        "pic": "https://lds-img.finalfantasyxiv.com/d/51a70145dcf0d8136ff82ce50713529f1cebaf84.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/7JuT00VSwaFqTfcTYUCUnGPFQE.png",
         "tname": "黑魔法师",
         "ticon": "",
@@ -628,9 +628,9 @@
     },
     {
         "isDisabled": false,
-        "name": "Retrace<BR>魔纹回溯",
+        "name": "Retrace<BR>魔纹重置",
         "ndes": false,
-        "pic": "https://img.picgo.net/2024/06/06/ffbd6b0b0dad6388dabd8f5316b9af5e034645b447b73208.png",
+        "pic": "https://lds-img.finalfantasyxiv.com/d/44666e4299c0eded8c4af12edb67c7c9f718bda5.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/7JuT00VSwaFqTfcTYUCUnGPFQE.png",
         "tname": "黑魔法师",
         "ticon": "",
@@ -642,14 +642,14 @@
         "distant": "0",
         "range": "3",
         "rangeType": "zero",
-        "content": "重新放置自身的黑魔纹<br/>发动条件：黑魔纹效果",
+        "content": "在自身脚下重新放置黑魔纹<br/>发动条件：黑魔纹效果",
         "change": "新增技能"
     },
     {
         "isDisabled": false,
         "name": "Flare Star<BR>耀星",
         "ndes": false,
-        "pic": "https://img.picgo.net/2024/06/06/a674839b2bd288e163c11055fe1c4cfa58b6b94574ad7b6a.png",
+        "pic": "https://lds-img.finalfantasyxiv.com/d/1bf799ec68187691dceb2adb9dc0ea1259f03dd1.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/7JuT00VSwaFqTfcTYUCUnGPFQE.png",
         "tname": "黑魔法师",
         "ticon": "",
@@ -661,7 +661,7 @@
         "distant": "25",
         "range": "5",
         "rangeType": "circle",
-        "content": "对目标及其周围的敌人发动火属性范围魔法攻击　<br/>威力：350<br/>攻击复数敌人时，对目标之外的敌人威力降低60%<br/>发动条件：自身星极魂状态最大档数",
+        "content": "对目标及其周围的敌人发动火属性范围魔法攻击　<br/>威力：400<br/>攻击复数敌人时，对目标之外的敌人威力降低65%<br/>发动条件：自身星极魂状态最大档数",
         "change": "新增技能"
     }
 ]

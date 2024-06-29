@@ -190,5 +190,64 @@
         "lvl": "Lv88",
         "content": "神祝祷变为积蓄技能<BR>积蓄次数：2",
         "change": ""
+    },
+    {
+        "isDisabled": false,
+        "name": "神速咏唱效果提高",
+        "ndes": "",
+        "pic": "https://lds-img.finalfantasyxiv.com/d/522d1367f418f9d9ab9497cb7aac3fd75d75ef16.png",
+        "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/Na619RGtVtbEvNn1vyFoSlvZ84.png",
+        "tname": "白魔法师",
+        "lvl": "Lv92",
+        "content": "对自身附加3档闪爆预备状态<br>持续时间：30秒<br>发动条件：神速咏唱",
+        "change": "新增特性"
+    },
+    {
+        "isDisabled": false,
+        "name": "技能威力提高",
+        "ndes": "",
+        "pic": "https://lds-img.finalfantasyxiv.com/d/faebcc03aa187f6f45319b41b7336431d1722fc4.png",
+        "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/Na619RGtVtbEvNn1vyFoSlvZ84.png",
+        "tname": "白魔法师",
+        "ticon": "",
+        "lvl": "Lv94",
+        "content": "部分技能的威力提高<br/><br/>天辉的威力：70<br>天辉持续伤害的威力：70<br>苦难之心的威力：1320<br>闪耀的威力：330",
+        "change": "新增特性"
+    },
+    {
+        "isDisabled": false,
+        "name": "医济精通",
+        "ndes": "",
+        "pic": "https://lds-img.finalfantasyxiv.com/d/6e19d26c224d8df136427dc9d65b2b8adcda20d7.png",
+        "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/Na619RGtVtbEvNn1vyFoSlvZ84.png",
+        "tname": "白魔法师",
+        "ticon": "",
+        "lvl": "Lv96",
+        "content": "医济变为医沐",
+        "change": "新增特性"
+    },
+    {
+        "isDisabled": false,
+        "name": "神明效果提高",
+        "ndes": "",
+        "pic": "https://lds-img.finalfantasyxiv.com/d/2c8d74105960fc4db1162f4bfc05b258cc43adb0.png",
+        "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/Na619RGtVtbEvNn1vyFoSlvZ84.png",
+        "tname": "白魔法师",
+        "ticon": "",
+        "lvl": "Lv98",
+        "content": "神名变为积蓄技能<BR>积蓄次数：2",
+        "change": "新增特性"
+    },
+    {
+        "isDisabled": false,
+        "name": "节制效果提高",
+        "ndes": "",
+        "pic": "https://lds-img.finalfantasyxiv.com/d/1617b594d0846dfcbc4a7c258e89bdc2fb10c168.png",
+        "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/Na619RGtVtbEvNn1vyFoSlvZ84.png",
+        "tname": "白魔法师",
+        "ticon": "",
+        "lvl": "Lv100",
+        "content": "对自身附加神爱抚预备状态<br>持续时间：30秒<br>发动条件：节制",
+        "change": "新增特性"
     }
 ]

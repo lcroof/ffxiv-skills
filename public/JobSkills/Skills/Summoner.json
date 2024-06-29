@@ -567,7 +567,7 @@
         "range": "0",
         "rangeType": "zero",
         "content": "对目标发动无属性魔法攻击　<br>威力：360",
-        "change": "威力从310变更为360"
+        "change": "威力从310变更至360"
     },
     {
         "isDisabled": false,
@@ -662,7 +662,7 @@
         "range": "0",
         "rangeType": "zero",
         "content": "对目标发动无属性魔法攻击　<br>威力：500<br>发动条件：龙神附体状态中<br><br>※该技能无法设置到热键栏",
-        "change": "威力从440变更为500"
+        "change": "威力从440变更至500"
     },
     {
         "isDisabled": false,
@@ -699,8 +699,8 @@
         "distant": "0",
         "range": "0",
         "rangeType": "zero",
-        "content": "发动部分技能后，该技能发生变化<br>发动龙神召唤时：该技能变为死星核爆<br>发动不死鸟召唤时：该技能变为苏生之炎<br>发动火神召唤II时：该技能变为深红旋风<br>发动黄宝石之仪及黄宝石灾变时：该技能变为山崩<br>发动风神召唤II时：该技能变为螺旋气流",
-        "change": ""
+        "content": "发动部分技能后，该技能发生变化<br>发动龙神召唤时：该技能变为死星核爆<br>发动不死鸟召唤时：该技能变为苏生之炎<br>发动火神召唤II时：该技能变为深红旋风<br>发动黄宝石之仪及黄宝石灾变时：该技能变为山崩<br>发动风神召唤II时：该技能变为螺旋气流<br>发动光龙召唤时：该技能变为太阳耀斑",
+        "change": "新增“发动光龙召唤时：该技能变为太阳耀斑”"
     },
     {
         "isDisabled": false,
@@ -738,7 +738,7 @@
         "range": "5",
         "rangeType": "circle",
         "content": "对目标及其周围的敌人发动无属性范围魔法攻击<br>威力：490<br>攻击复数敌人时，对目标之外的敌人威力降低60%<br>发动条件：毁绝预备状态中",
-        "change": "威力从430变更为490"
+        "change": "威力从430变更至490"
     },
     {
         "isDisabled": false,
@@ -756,8 +756,8 @@
         "distant": "0",        
         "range": "30",
         "rangeType": "circle",
-        "content": "一定时间内，自身与周围队员发动攻击造成的伤害提高5%<br>持续时间：20秒<br>追加效果：获得红宝石闪光状态<br>持续时间：30s",
-        "change": "・伤害提高从3%变更为5%<br>・持续时间从30s变更为20s"
+        "content": "一定时间内，自身与周围队员发动攻击造成的伤害提高5%<br>持续时间：20秒<br>追加效果：获得灼热火花预备<br>持续时间：30秒",
+        "change": "伤害提高从3%变更至5%<br>灼热之光持续时间从30秒变更至20秒"
     },
     {
         "isDisabled": false,
@@ -851,8 +851,8 @@
         "distant": "25",
         "range": "0",
         "rangeType": "zero",
-        "content": "对目标发动火属性魔法攻击　<br>威力：580<br>发动条件：火属性以太<br><br>※该技能无法设置到热键栏",
-        "change": "威力从510变更为580"
+        "content": "对目标发动火属性魔法攻击　<br>威力：540<br>发动条件：火属性以太<br><br>※该技能无法设置到热键栏",
+        "change": "威力从510变更至540"
     },
     {
         "isDisabled": false,
@@ -870,8 +870,8 @@
         "distant": "25",
         "range": "0",
         "rangeType": "zero",
-        "content": "对目标发动土属性魔法攻击　<br>威力：380<br>追加效果：山崩预备<br>持续时间：永久<br>发动其他召唤技能会导致该效果消失<br>发动条件：土属性以太<br><br>※该技能无法设置到热键栏",
-        "change": "威力从330变更为380"
+        "content": "对目标发动土属性魔法攻击　<br>威力：340<br>追加效果：山崩预备<br>持续时间：永久<br>发动其他召唤技能会导致该效果消失<br>发动条件：土属性以太<br><br>※该技能无法设置到热键栏",
+        "change": "威力从330变更至340"
     },
     {
         "isDisabled": false,
@@ -889,8 +889,8 @@
         "distant": "25",
         "range": "0",
         "rangeType": "zero",
-        "content": "对目标发动风属性魔法攻击　<br>威力：270<br>发动条件：风属性以太<br><br>※该技能无法设置到热键栏",
-        "change": "威力从230变更为270"
+        "content": "对目标发动风属性魔法攻击　<br>威力：240<br>发动条件：风属性以太<br><br>※该技能无法设置到热键栏",
+        "change": "威力从230变更至240"
     },
     {
         "isDisabled": false,
@@ -984,8 +984,8 @@
         "distant": "25",
         "range": "0",
         "rangeType": "zero",
-        "content": "对目标发动火属性魔法攻击　<br>威力：620<br>发动条件：不死鸟附体状态中<br><br>※该技能无法设置到热键栏",
-        "change": "威力从540变更为620"
+        "content": "对目标发动火属性魔法攻击　<br>威力：580<br>发动条件：不死鸟附体状态中<br><br>※该技能无法设置到热键栏",
+        "change": "威力从540变更至580"
     },
     {
         "isDisabled": false,
@@ -1194,7 +1194,7 @@
         "range": "5",
         "rangeType": "circle",
         "content": "冲向目标并对目标及其周围的敌人发动火属性范围魔法攻击<br>攻击复数敌人时，对目标之外的敌人威力降低65%<br>威力：490<br>发动条件：深红旋风预备状态中<br>止步状态下无法发动<br>该技能发动后变为深红强袭<br><br>※该技能无法设置到热键栏",
-        "change": "威力从430变更为490"
+        "change": "威力从430变更至490"
     },
     {
         "isDisabled": false,
@@ -1213,7 +1213,7 @@
         "range": "5",
         "rangeType": "circle",
         "content": "对目标及其周围的敌人发动火属性范围魔法攻击<br>攻击复数敌人时，对目标之外的敌人威力降低65%<br>威力：490<br>连击条件：深红旋风<br><br>※该技能无法设置到热键栏",
-        "change": "威力从430变更为490"
+        "change": "威力从430变更至490"
     },
     {
         "isDisabled": false,
@@ -1231,8 +1231,8 @@
         "distant": "25",
         "range": "5",
         "rangeType": "circle",
-        "content": "对目标及其周围的敌人发动土属性范围魔法攻击<br>攻击复数敌人时，对目标之外的敌人威力降低70%<br>威力：170<br>发动条件：山崩预备状态中<br><br>※该技能无法设置到热键栏",
-        "change": "威力从150变更为170"
+        "content": "对目标及其周围的敌人发动土属性范围魔法攻击<br>攻击复数敌人时，对目标之外的敌人威力降低70%<br>威力：160<br>发动条件：山崩预备状态中<br><br>※该技能无法设置到热键栏",
+        "change": "威力从150变更至160"
     },
     {
         "isDisabled": false,
@@ -1251,7 +1251,7 @@
         "range": "5",
         "rangeType": "circle",
         "content": "对目标及其周围的敌人发动风属性范围魔法攻击<br>攻击复数敌人时，对目标之外的敌人威力降低65%<br>威力：490<br>追加效果：以目标为中心产生伤害区域<br>威力：30　<br>持续时间：15秒<br>发动条件：螺旋气流预备状态中<br><br>※该技能无法设置到热键栏",
-        "change": "威力从430变更为490"
+        "change": "威力从430变更至490"
     },
     {
         "isDisabled": false,
@@ -1269,8 +1269,8 @@
         "distant": "25",
         "range": "0",
         "rangeType": "zero",
-        "content": "召唤红宝石伊弗利特并命其发动地狱之火炎<br><br>令红宝石伊弗利特对目标及其周围5米以内的敌人发动火属性范围魔法攻击<br>攻击复数敌人时，对目标之外的敌人威力降低60%<br>威力：860<br>追加效果：为自身附加2档火属性以太状态<br>持续时间：30秒<br>火属性以太效果：宝石耀及宝石辉变为火属性魔法<br>追加效果：深红旋风预备<br>持续时间：永久<br>发动其他召唤技能会导致该效果消失<br>发动条件：宝石兽处于同行状态且红宝石的奥秘状态中",
-        "change": "威力从750变更为860"
+        "content": "召唤红宝石伊弗利特并命其发动地狱之火炎<br><br>令红宝石伊弗利特对目标及其周围5米以内的敌人发动火属性范围魔法攻击<br>攻击复数敌人时，对目标之外的敌人威力降低60%<br>威力：800<br>追加效果：为自身附加2档火属性以太状态<br>持续时间：30秒<br>火属性以太效果：宝石耀及宝石辉变为火属性魔法<br>追加效果：深红旋风预备<br>持续时间：永久<br>发动其他召唤技能会导致该效果消失<br>发动条件：宝石兽处于同行状态且红宝石的奥秘状态中",
+        "change": "威力从750变更至800"
     },
     {
         "isDisabled": false,
@@ -1288,8 +1288,8 @@
         "distant": "25",
         "range": "0",
         "rangeType": "zero",
-        "content": "召唤黄宝石泰坦并命其发动大地之怒<br><br>令黄宝石泰坦对目标及其周围5米以内的敌人发动土属性范围魔法攻击<br>攻击复数敌人时，对目标之外的敌人威力降低60%<br>威力：860<br>追加效果：为自身附加4档土属性以太状态<br>持续时间：30秒<br>土属性以太效果：宝石耀及宝石辉变为土属性魔法<br>发动条件：宝石兽处于同行状态且黄宝石的奥秘状态中",
-        "change": "威力从750变更为860"
+        "content": "召唤黄宝石泰坦并命其发动大地之怒<br><br>令黄宝石泰坦对目标及其周围5米以内的敌人发动土属性范围魔法攻击<br>攻击复数敌人时，对目标之外的敌人威力降低60%<br>威力：800<br>追加效果：为自身附加4档土属性以太状态<br>持续时间：30秒<br>土属性以太效果：宝石耀及宝石辉变为土属性魔法<br>发动条件：宝石兽处于同行状态且黄宝石的奥秘状态中",
+        "change": "威力从750变更至800"
     },
     {
         "isDisabled": false,
@@ -1307,71 +1307,71 @@
         "distant": "25",
         "range": "0",
         "rangeType": "zero",
-        "content": "召唤绿宝石迦楼罗并命其发动大气爆发<br><br>令绿宝石迦楼罗对目标及其周围5米以内的敌人发动风属性范围魔法攻击<br>攻击复数敌人时，对目标之外的敌人威力降低60%<br>威力：860<br>追加效果：为自身附加4档风属性以太状态<br>持续时间：30秒<br>风属性以太效果：宝石耀及宝石辉变为风属性魔法<br>追加效果：螺旋气流预备<br>持续时间：永久<br>发动其他召唤技能会导致该效果消失<br>发动条件：宝石兽处于同行状态且绿宝石的奥秘状态中",
-        "change": "威力从750变更为860"
+        "content": "召唤绿宝石迦楼罗并命其发动大气爆发<br><br>令绿宝石迦楼罗对目标及其周围5米以内的敌人发动风属性范围魔法攻击<br>攻击复数敌人时，对目标之外的敌人威力降低60%<br>威力：800<br>追加效果：为自身附加4档风属性以太状态<br>持续时间：30秒<br>风属性以太效果：宝石耀及宝石辉变为风属性魔法<br>追加效果：螺旋气流预备<br>持续时间：永久<br>发动其他召唤技能会导致该效果消失<br>发动条件：宝石兽处于同行状态且绿宝石的奥秘状态中",
+        "change": "威力从750变更至800"
     },
     {
         "isDisabled": false,
-        "name": "Necrotize<br>坏死",
+        "name": "Necrotize<br>溃烂新星",
         "ndes": "",
-        "pic": "https://img.picgo.net/2024/06/08/Necrotizeeed4a7b8efbc9c7b.png",
+        "pic": "https://lds-img.finalfantasyxiv.com/d/f224b169e6f0f4b35b361e5c6666293e09a1f0ac.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/ZwJFxv3XnfqB5N6tKbgXKnj6BU.png",
         "tname": "召唤师",
         "ticon": "",
         "lvl": "Lv92",
-        "classification": "魔法",
+        "classification": "能力",
         "cast": "即时",
         "recast": "1秒",
         "cost": "-",
         "distant": "25",
         "range": "0",
         "rangeType": "zero",
-        "content": "对目标敌人发动无属性范围魔法攻击<br>威力：440<br>发动条件：以太超流",
+        "content": "对目标发动无属性魔法攻击<br>威力：420<br>发动条件：以太超流",
         "change": "新增技能"
     },
     {
         "isDisabled": false,
-        "name": "Searing Flash<br>灼热闪耀",
+        "name": "Searing Flash<br>灼热火花",
         "ndes": "",
-        "pic": "https://img.picgo.net/2024/06/08/SearingFlash785de6aa15291800.png",
+        "pic": "https://lds-img.finalfantasyxiv.com/d/b1edfc3a4d1b47e1df840e26e0969529070fed58.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/ZwJFxv3XnfqB5N6tKbgXKnj6BU.png",
         "tname": "召唤师",
         "ticon": "",
         "lvl": "Lv96",
-        "classification": "魔法",
+        "classification": "能力",
         "cast": "即时",
         "recast": "1秒",
         "cost": "-",
         "distant": "25",
         "range": "5",
         "rangeType": "circle",
-        "content": "对目标及其周围敌人发动无属性范围魔法攻击<br>威力：600<br>发动条件：红宝石闪光状态中",
+        "content": "对目标及其周围敌人发动无属性范围魔法攻击<br>威力：600<br>发动条件：灼热火花预备状态中",
         "change": "新增技能"
     },
     {
         "isDisabled": false,
-        "name": "Lux Solaris<br>灵光",
+        "name": "Lux Solaris<br>灵光阳能",
         "ndes": "",
-        "pic": "https://img.picgo.net/2024/06/08/LuxSolaris43bcc0fc2815f23c.png",
+        "pic": "https://lds-img.finalfantasyxiv.com/d/38e51b1e903bd0b7bc685ec95c2ac105779bbc8c.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/ZwJFxv3XnfqB5N6tKbgXKnj6BU.png",
         "tname": "召唤师",
         "ticon": "",
         "lvl": "Lv100",
-        "classification": "魔法",
+        "classification": "能力",
         "cast": "即时",
         "recast": "60秒",
         "cost": "-",
         "distant": "15",
         "range": "0",
         "rangeType": "zero",
-        "content": "恢复自己与周围队员的体力<br>威力：500<br>发动条件：灿烂的灵光状态中",
+        "content": "恢复自己与周围队员的体力<br>威力：500<br>发动条件：灵光阳能预备状态中",
         "change": "新增技能"
     },
     {
         "isDisabled": false,
-        "name": "Summon Solar Bahamut<br>召唤光龙神巴哈姆特",
+        "name": "Summon Solar Bahamut<br>光龙召唤",
         "ndes": "",
-        "pic": "https://img.picgo.net/2024/06/08/SummonSolarBahamut8662c7cc14dfbc78.png",
+        "pic": "https://lds-img.finalfantasyxiv.com/d/8b65e3df95387470664286d1e2a0f71dd29b8f77.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/ZwJFxv3XnfqB5N6tKbgXKnj6BU.png",
         "tname": "召唤师",
         "ticon": "",
@@ -1383,14 +1383,14 @@
         "distant": "25",
         "range": "0",
         "rangeType": "zero",
-        "content": "以一名敌人为目标<br>为自身附加光龙附体状态，令光龙神巴哈姆特显现<br>显现时间：15秒<br>光龙神巴哈姆特会对召唤师的攻击目标发动光龙波<br>追加效果：获得灿烂的灵光状态<br>持续时间：30秒<br>追加效果：毁荡变为灵极脉冲，三重灾祸变为灵极核爆<br>追加效果：为自身附加红宝石的奥秘、黄宝石的奥秘、绿宝石的奥秘状态<br>该技能发动后，令目标对自身仇恨提高<br>发动条件：宝石兽处于同行状态<br>亚灵神巴哈姆特显现时，之前召唤出的宝石兽会被暂时回收，并在显现时间结束后再次出现<br><br>※当满足发动条件时龙神召唤替换成光龙神召唤<br>※该技能无法设置到热键栏",
+        "content": "以一名敌人为目标<br>为自身附加光龙附体状态，令光龙神巴哈姆特显现<br>显现时间：15秒<br>光龙神巴哈姆特会对召唤师的攻击目标发动光龙波<br>追加效果：灵光阳能预备<br>持续时间：30秒<br>追加效果：毁荡变为灵极脉冲，三重灾祸变为灵极核爆<br>追加效果：为自身附加红宝石的奥秘、黄宝石的奥秘、绿宝石的奥秘状态<br>该技能发动后，令目标对自身仇恨提高<br>发动条件：宝石兽处于同行状态<br>光龙神巴哈姆特显现时，之前召唤出的宝石兽会被暂时回收，并在显现时间结束后再次出现<br>该魔法有单独计算的复唱时间<br><br>※当满足发动条件时龙神召唤变为光龙召唤<br>※该技能无法设置到热键栏",
         "change": "新增技能"
     },
     {
         "isDisabled": false,
         "name": "Umbral Impulse<br>灵极脉冲",
         "ndes": "",
-        "pic": "https://img.picgo.net/2024/06/08/UmbralImpulse96ceffa648507e5e.png",
+        "pic": "https://lds-img.finalfantasyxiv.com/d/097755a6dc321ca146451fbb0e5c42dca4d9dd02.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/ZwJFxv3XnfqB5N6tKbgXKnj6BU.png",
         "tname": "召唤师",
         "ticon": "",
@@ -1402,14 +1402,14 @@
         "distant": "25",
         "range": "0",
         "rangeType": "zero",
-        "content": "对目标发动无属性魔法攻击<br>威力：600<br>发动条件：光龙附体状态中<br>※当满足发动条件时毁灭替换成灵极脉冲<br>※该技能无法设置到热键栏",
+        "content": "对目标发动无属性魔法攻击<br>威力：600<br>发动条件：光龙附体状态中<br>※当满足发动条件时毁荡变为灵极脉冲<br>※该技能无法设置到热键栏",
         "change": "新增技能"
     },
     {
         "isDisabled": false,
         "name": "Umbral Flare<br>灵极核爆",
         "ndes": "",
-        "pic": "https://img.picgo.net/2024/06/08/UmbralFlarec4b13120fe6448a9.png",
+        "pic": "https://lds-img.finalfantasyxiv.com/d/e20b0b341a670598c6af9548925d4da35c2e4365.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/ZwJFxv3XnfqB5N6tKbgXKnj6BU.png",
         "tname": "召唤师",
         "ticon": "",
@@ -1421,52 +1421,52 @@
         "distant": "25",
         "range": "8",
         "rangeType": "circle",
-        "content": "对目标及其周围的敌人发动无属性范围魔法攻击<br>威力：280<br>发动条件：光龙附体状态中<br>※当满足发动条件时三重灾祸替换成灵极核爆<br>※该技能无法设置到热键栏",
+        "content": "对目标及其周围的敌人发动无属性范围魔法攻击<br>威力：280<br>发动条件：光龙附体状态中<br>※当满足发动条件时三重灾祸变为灵极核爆<br>※该技能无法设置到热键栏",
         "change": "新增技能"
     },
     {
         "isDisabled": false,
         "name": "Sunflare<br>太阳耀斑",
         "ndes": "",
-        "pic": "https://img.picgo.net/2024/06/08/Sunflare3f4e1b72236f6349.png",
+        "pic": "https://lds-img.finalfantasyxiv.com/d/ea98821592c274277d2472f4eb33e014c66a751f.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/ZwJFxv3XnfqB5N6tKbgXKnj6BU.png",
         "tname": "召唤师",
         "ticon": "",
         "lvl": "Lv100",
-        "classification": "能力1测试",
+        "classification": "能力",
         "cast": "即时",
         "recast": "20秒",
         "cost": "-",
         "distant": "25",
         "range": "5",
         "rangeType": "circle",
-        "content": "对目标及其周围的敌人发动无属性范围魔法攻击<br>攻击复数敌人时，对目标之外的敌人威力降低60%<br>威力：700<br>发动条件：光龙附体状态中<br>※当满足发动条件时星极超流替换成太阳耀斑<br>※该技能无法设置到热键栏",
+        "content": "对目标及其周围的敌人发动无属性范围魔法攻击<br>攻击复数敌人时，对目标之外的敌人威力降低60%<br>威力：600<br>发动条件：光龙附体状态中<br>※当满足发动条件时星极超流变为太阳耀斑<br>※该技能无法设置到热键栏",
         "change": "新增技能"
     },
     {
         "isDisabled": false,
-        "name": "Enkindle Solar Bahamut<br>光龙神迸发",
+        "name": "Enkindle Solar Bahamut<br>光龙迸发",
         "ndes": "",
-        "pic": "https://img.picgo.net/2024/06/08/EnkindleSolarBahamutf3e07ab0c44e014b.png",
+        "pic": "https://lds-img.finalfantasyxiv.com/d/4deaaa9815c4b1bd5fc52e76019d9192342568b9.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/ZwJFxv3XnfqB5N6tKbgXKnj6BU.png",
         "tname": "召唤师",
         "ticon": "",
         "lvl": "Lv100",
-        "classification": "能力2测试",
+        "classification": "能力",
         "cast": "即时",
         "recast": "20秒",
         "cost": "-",
         "distant": "25",
         "range": "0",
         "rangeType": "zero",
-        "content": "命令显现的光龙神巴哈姆特发动众生离绝<br>攻击复数敌人时，对目标之外的敌人威力降低60%<br>威力：1600<br>发动条件：光龙附体状态中<br>※当满足发动条件时龙神迸发替换成龙光龙神迸发<br>※该技能无法设置到热键栏",
+        "content": "命令显现的光龙神巴哈姆特发动众生离绝<br>威力：1400<br>攻击复数敌人时，对目标之外的敌人威力降低60%<br>发动条件：光龙附体状态中<br>※当满足发动条件时龙神迸发变为光龙迸发<br>※该技能无法设置到热键栏",
         "change": "新增技能"
     },
     {
         "isDisabled": false,
         "name": "Luxwave<br>光龙波",
         "ndes": "",
-        "pic": "https://img.picgo.net/2024/06/08/Luxwavebabb35ff6528018b.png",
+        "pic": "https://lds-img.finalfantasyxiv.com/d/7ea77f0af91e55be0b619e4dc72e20c5ba56f516.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/ZwJFxv3XnfqB5N6tKbgXKnj6BU.png",
         "tname": "召唤师",
         "ticon": "",
@@ -1478,26 +1478,26 @@
         "distant": "25",
         "range": "0",
         "rangeType": "zero",
-        "content": "对目标发动无属性魔法攻击<br>威力：200<br>发动条件：光龙神被召唤状态中<br>※该技能无法设置到热键栏",
+        "content": "对目标发动无属性魔法攻击<br>威力：160<br>发动条件：光龙神巴哈姆特显现中<br>※该技能无法设置到热键栏",
         "change": "新增技能"
     },
     {
         "isDisabled": false,
         "name": "Exodus<br>众生离绝",
         "ndes": "",
-        "pic": "https://img.picgo.net/2024/06/08/Exodus6a8e3975de0627b4.png",
+        "pic": "https://lds-img.finalfantasyxiv.com/d/97f91c1009d19698ee6e2e3272b974a4c0dd62ff.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/ZwJFxv3XnfqB5N6tKbgXKnj6BU.png",
         "tname": "召唤师",
         "ticon": "",
         "lvl": "Lv100",
-        "classification": "魔法",
+        "classification": "能力",
         "cast": "即时",
         "recast": "20秒",
         "cost": "-",
         "distant": "50",
         "range": "5",
         "rangeType": "circle",
-        "content": "对目标及其周围的敌人发动无属性范围魔法攻击<br>攻击复数敌人时，对目标之外的敌人威力降低60%<br>威力：1600<br>发动条件：光龙神被召唤状态中<br>※该技能无法设置到热键栏",
+        "content": "对目标及其周围的敌人发动无属性范围魔法攻击<br>威力：1400<br>攻击复数敌人时，对目标之外的敌人威力降低60%<br>发动条件：光龙神巴哈姆特显现中<br>※该技能无法设置到热键栏",
         "change": "新增技能"
     }    
 ]

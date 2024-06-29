@@ -8,7 +8,7 @@
 		"tname": "咒术师",
 		"ticon": "",
 		"lvl": "Lv1",
-		"content": "发动部分魔法后，对自身附加灵极火或星极冰状态<BR>最大档数：1　<br>持续时间：15秒<BR>星极火效果：火属性魔法威力提升40%<br>咏唱火属性魔法时魔力消耗提高至2倍，也不会随时间恢复魔力<br>咏唱冰属性魔法将不消耗魔力<br>冰属性魔法威力降低10%<br><br>灵极冰效果：咏唱冰属性魔法时将不消耗魔力<br>冰属性魔法命中时恢复2500魔力<br>咏唱火属性魔法将不消耗魔力<br>火属性魔法威力降低10%",
+		"content": "发动部分魔法后，对自身附加灵极火或星极冰状态<BR>最大档数：1　<br>持续时间：15秒<BR><BR>星极火效果：火属性魔法威力提升40%<br>咏唱火属性魔法时魔力消耗提高至2倍，也不会随时间恢复魔力<br>咏唱冰属性魔法将不消耗魔力<br>冰属性魔法威力降低10%<br><br>灵极冰效果：咏唱冰属性魔法时将不消耗魔力<br>冰属性魔法命中时恢复2500魔力<br>咏唱火属性魔法将不消耗魔力<br>火属性魔法威力降低10%",
 		"change": "效果从“当自身的星极火或灵极冰达到最高档数时，相反属性的魔法将不消耗魔力<br>但不适用于核爆”变更至“星极火效果：火属性魔法威力提升40%<br>咏唱火属性魔法时魔力消耗提高至2倍，也不会随时间恢复魔力<br>咏唱冰属性魔法将不消耗魔力<br>冰属性魔法威力降低10%<br><br>灵极冰效果：咏唱冰属性魔法时将不消耗魔力<br>冰属性魔法命中时恢复2500魔力<br>咏唱火属性魔法将不消耗魔力<br>火属性魔法威力降低10%”"
 	},
 	{
@@ -111,7 +111,7 @@
 		"isDisabled": false,
 		"name": "灵极心",
 		"ndes": "",
-		"pic": "https://img.picgo.net/2024/06/06/630f4a1cde0c5062a3f8c3524f09b4ccb10a614efa86a2c8.png",
+		"pic": "https://lds-img.finalfantasyxiv.com/d/e6f9a67222832fe27c7a6f3998ed0ab39aaddf1c.png",
 		"tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/7JuT00VSwaFqTfcTYUCUnGPFQE.png",
 		"tname": "黑魔法师",
 		"ticon": "",
@@ -212,8 +212,8 @@
 		"tname": "黑魔法师",
 		"ticon": "",
 		"lvl": "Lv84",
-		"content": "魔泉的复唱时间缩短到120秒",
-		"change": ""
+		"content": "魔泉的复唱时间缩短到100秒",
+		"change": "复唱时间缩短从120秒变更至100秒"
 	},
 	{
 		"isDisabled": false,
@@ -255,7 +255,7 @@
 		"isDisabled": false,
 		"name": "闪雷精通III",
 		"ndes": "",
-		"pic": "https://img.picgo.net/2024/06/06/35119d444dfcaa7f9.png",
+		"pic": "https://lds-img.finalfantasyxiv.com/d/eebc32855d2ca394cf748076ef0b9cacbec2e32f.png",
 		"tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/7JuT00VSwaFqTfcTYUCUnGPFQE.png",
 		"tname": "黑魔法师",
 		"ticon": "",
@@ -265,42 +265,21 @@
 	},
 	{
 		"isDisabled": false,
-		"name": "即刻咏唱效果提高",
-		"ndes": "",
-		"pic": "https://img.picgo.net/2024/06/06/324ac7f0c54e1b527abe0a10e2a57033762fba03f10f0b73.png",
-		"tiurl": "",
-		"tname": "",
-		"ticon": [
-			{
-				"url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/V5xx3kfnREBO-2xWbTUW2Csy_Q.png",
-				"tname": "治疗职业"
-			},
-			{
-				"url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/8Dnf8Wy9IyxIt21y6lrE5atKt0.png",
-				"tname": "远程魔法职业"
-			}
-		],
-		"lvl": "Lv94",
-		"content": "即刻咏唱的复唱时间缩短到40秒",
-		"change": "新增特性"
-	},
-	{
-		"isDisabled": false,
 		"name": "黑魔纹效果提高",
 		"ndes": "",
-		"pic": "https://img.picgo.net/2024/06/06/c7b90e49edc59f87f8708982f8c3e4969c977800a4196503.png",
+		"pic": "https://lds-img.finalfantasyxiv.com/d/972846e749d8f5230fd758f2fd861e2120063279.png",
 		"tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/7JuT00VSwaFqTfcTYUCUnGPFQE.png",
 		"tname": "黑魔法师",
 		"ticon": "",
 		"lvl": "Lv96",
-		"content": "可以发动魔纹回溯<br>发动条件：黑魔纹效果",
+		"content": "可以发动魔纹回溯<br>发动条件：黑魔纹效果中",
 		"change": "新增特性"
 	},
 	{
 		"isDisabled": false,
 		"name": "天语效果提高IV",
 		"ndes": "",
-		"pic": "https://img.picgo.net/2024/06/06/45aafeebb4ff5a833.png",
+		"pic": "https://lds-img.finalfantasyxiv.com/d/56e64c6a8875472651cd1280bcdb3d879c7aabdf.png",
 		"tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/7JuT00VSwaFqTfcTYUCUnGPFQE.png",
 		"tname": "黑魔法师",
 		"ticon": "",
@@ -312,7 +291,7 @@
 		"isDisabled": false,
 		"name": "通晓效果提高II",
 		"ndes": "",
-		"pic": "https://img.picgo.net/2024/06/06/2487cb25f2081facd.png",
+		"pic": "https://lds-img.finalfantasyxiv.com/d/cd30af36c468ebc29ca7b8eba0a922a05dc6adf8.png",
 		"tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/7JuT00VSwaFqTfcTYUCUnGPFQE.png",
 		"tname": "黑魔法师",
 		"ticon": "",
@@ -322,27 +301,9 @@
 	},
 	{
 		"isDisabled": false,
-		"name": "昏乱效果提高",
-		"ndes": "",
-		"pic": "https://img.picgo.net/2024/06/06/4210d1810b0254eb2ff37b8564cac05303cc6ccaa2dc9460.png",
-		"tiurl": "",
-		"tname": "",
-		"ticon": [
-			{
-				"url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/8Dnf8Wy9IyxIt21y6lrE5atKt0.png",
-				"tname": "远程魔法职业"
-			}
-		],
-		"lvl": "Lv98",
-		"rangeType": "",
-		"content": "昏乱的持续时间提高到15秒",
-		"change": "新增特性"
-	},
-	{
-		"isDisabled": false,
 		"name": "星极魂效果提高",
 		"ndes": "",
-		"pic": "https://img.picgo.net/2024/06/06/435b799a3a6f7b3ec2c35f276fbeb1ca5779a8f71110e7f1.png",
+		"pic": "https://lds-img.finalfantasyxiv.com/d/72fc6ff01df8c8581add7a77a3c64f969f854083.png",
 		"tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/7JuT00VSwaFqTfcTYUCUnGPFQE.png",
 		"tname": "黑魔法师",
 		"ticon": "",
