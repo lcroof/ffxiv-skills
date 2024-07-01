@@ -155,7 +155,7 @@
         "distant": "25",
         "rangeType": "circle",
         "range": "5",
-        "content": "向目标所在方向发出扇形范围物理攻击　<br>威力：140<br>纷乱箭状态中威力：220<br>发动条件：鹰眼状态中",
+        "content": "对目标及其周围敌人发动物理攻击　<br>威力：140<br>纷乱箭状态中威力：220<br>发动条件：鹰眼状态中",
         "type": "",
         "change": "新增技能"
     },
@@ -290,7 +290,7 @@
         "lvl": "Lv50",
         "classification": "能力",
         "cast": "即时",
-        "recast": "180秒",
+        "recast": "120秒",
         "cost": "-",
         "distant": "0",
         "rangeType": "circle",
