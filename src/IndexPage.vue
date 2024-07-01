@@ -1,6 +1,7 @@
 <template>
   <router-link to="/Ninja">忍者</router-link><br/>
   <router-link to="/Viper">Viper</router-link><br/>
+  <router-link to="/Samurai">武士</router-link><br/>
   <br>
   <router-link to="/BlackMage">黑魔法师</router-link><br/>
   <router-link to="/RedMage">赤魔法师</router-link><br/>  
