@@ -83,7 +83,7 @@
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/Ra2GV79gVQhy6SwCrU19boTghc.png",
         "tname": "武士",
         "ticon": "",
-        "lvl": "Lv88",
+        "lvl": "Lv76",
         "classification": "",
         "cast": "",
         "recast": "",
@@ -93,7 +93,7 @@
         "range": "",
         "content": "追加效果：燕返预备<br>持续时间：30秒<br>发动条件：明镜止水发动时<br>明镜止水变为积蓄技能<BR>积蓄次数：2",
         "type": "",
-        "change": "习得等级由“88”变更为“76”<br>“追加效果：燕返预备<br>持续时间：30秒<br>追加效果：天道<br>持续时间：30秒”追加"
+        "change": "习得等级由“88”变更为“76”<br>“追加效果：燕返预备<br>持续时间：30秒”追加"
     },  
     {
         "name": "风月风花效果提高",
@@ -269,7 +269,7 @@
     {
         "name": "明镜止水效果提高II",
         "ndes": "",
-        "pic": "https://lds-img.finalfantasyxiv.com/d/b6efd3bb5cbe5bad60fee0cb0e2dc1e44a352ec5.png",
+        "pic": "https://lds-img.finalfantasyxiv.com/d/114c9dbe00b13a2221cad88744b8c10f5ee6a724.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/Ra2GV79gVQhy6SwCrU19boTghc.png",
         "tname": "武士",
         "ticon": "",
