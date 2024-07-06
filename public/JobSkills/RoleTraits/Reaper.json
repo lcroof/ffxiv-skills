@@ -1,0 +1,54 @@
+[
+    {
+       "isDisabled": false,
+       "name": "内丹效果提高",
+       "ndes": "",
+       "pic": "https://lds-img.finalfantasyxiv.com/d/dccd320d548ebfe264816b020f67211d2a310bb9.png",
+       "tiurl": "",
+       "tname": "",
+       "ticon": [
+          {
+             "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/9muqitiUXEK0W3qnM33Nb7sATk.png",
+             "tname": "近战职业"
+          },
+          {
+             "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/oWWxUIO2KagIEhDXy0541MRD7M.png",
+             "tname": "远程物理职业"
+          }
+       ],
+       "lvl": "Lv94",
+       "classification": "",
+       "cast": "",
+       "recast": "",
+       "cost": "",
+       "distant": "",
+       "range": "",
+       "rangeType": "",
+       "content": "恢复力从500变更至800",
+       "change": "新增特性"
+    },
+    {
+       "isDisabled": false,
+       "name": "牵制效果提高",
+       "ndes": "",
+       "pic": "https://lds-img.finalfantasyxiv.com/d/dda2a9e930cb141e91f00c4f2eda5fd5e1678e07.png",
+       "tiurl": "",
+       "tname": "",
+       "ticon": [
+          {
+             "url": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/9muqitiUXEK0W3qnM33Nb7sATk.png",
+             "tname": "近战职业"
+          }
+       ],
+       "lvl": "Lv98",
+       "classification": "能力",
+       "cast": "即时",
+       "recast": "40秒",
+       "cost": "-",
+       "distant": "0",
+       "range": "0",
+       "rangeType": "zero",
+       "content": "牵制的持续时间从10秒变更至15秒。",
+       "change": "新增特性"
+    }
+ ]
