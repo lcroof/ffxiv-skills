@@ -1,0 +1,77 @@
+<div class="views">
+  <div class="viewCont">
+    <div class="page pageIndex">
+      <div class="jobguide__content">
+        <p class="jobguide__text">
+          最终幻想XIV中，特定“职业”熟悉到一定程度后可以开放对应的“特职”，从而可修得各种各样的技能。<br>各职业的技能/特性，如何按照正确顺序发动连击效果以及「职业量谱」，请详见下述。
+        </p>
+        <div class="jobguide__index__joblink">
+          <div class="jobguide__index__joblink--tank">
+            <h2 class="clearfix"><img
+                src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/rFrCBcRe9YrmPvb4fZkuFksSLw.png"
+                width="32" height="32" alt="">防护职业</h2>
+            <div class="jobguide__index__joblink--tank__body">
+              <p class="js__tile_text" style="height: 42px;">HP厚实、防御力优秀，小队中的重要防御角色。<br>擅长吸引敌人的注意力，保护友军。</p>
+              <ul v-for="item in tankJobs">
+                <li ><router-link :to="item.jobEngName"><img :src="item.jobPic" width="48"
+                      height="48" alt="">{{item.jobName}}
+                </router-link></li>
+              </ul>
+            </div>
+          </div>
+          <div class="jobguide__index__joblink--healer">
+            <h2 class="clearfix"><img
+                src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/V5xx3kfnREBO-2xWbTUW2Csy_Q.png"
+                width="32" height="32" alt="">治疗职业</h2>
+            <div class="jobguide__index__joblink--healer__body">
+              <p class="js__tile_text" style="height: 42px;">用魔法回复受伤友军的治疗角色。<br>减轻友军收到的伤害、解除状态异常，进行复活等。</p>
+              <ul v-for="item in healerJobs">
+                <li ><router-link :to="item.jobEngName"><img :src="item.jobPic" width="48"
+                      height="48" alt="">{{item.jobName}}
+                </router-link></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="jobguide__index__joblink--dps">
+          <h2 class="clearfix"><img
+              src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/laSrEkvlK_7NNbNZ3JErTqzaR8.png"
+              width="32" height="32" alt="">进攻职业</h2>
+          <div class="jobguide__index__joblink--dps__body">
+            <div class="jobguide__index__joblink--dps__inner">
+              <h3 class="clearfix top"><img
+                  src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/9muqitiUXEK0W3qnM33Nb7sATk.png"
+                  width="32" height="32" alt="">近战职业</h3>
+              <p>靠近敌人、以连击为主的近战攻击角色。<br>通过站位能不断地使出强力的攻击。</p>
+              <ul v-for="item in meeleJobs">
+                <li ><router-link :to="item.jobEngName"><img :src="item.jobPic" width="48"
+                      height="48" alt="">{{item.jobName}}
+                </router-link></li>
+              </ul>
+            </div>
+            <div class="jobguide__index__joblink--dps__inner">
+              <h3 class="clearfix top"><img
+                  src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/oWWxUIO2KagIEhDXy0541MRD7M.png"
+                  width="32" height="32" alt="">远程物理职业</h3>
+              <p>用远程武器攻击的攻击角色。<br>能够给与持续的伤害，擅长支援友军。</p>
+              <ul v-for="item in physicalRangedJobs">
+                <li ><router-link :to="item.jobEngName"><img :src="item.jobPic" width="48"
+                      height="48" alt="">{{item.jobName}}
+                </router-link></li>
+              </ul>
+              <h3 class="clearfix"><img
+                  src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/8Dnf8Wy9IyxIt21y6lrE5atKt0.png"
+                  width="32" height="32" alt="">远程魔法职业</h3>
+              <p>用魔法攻击的攻击角色。<br>虽然咏唱时会限制移动，但是瞬间可以给与颇高的伤害。</p>
+              <ul v-for="item in magicalRangedJobs">
+                <li ><router-link :to="item.jobEngName"><img :src="item.jobPic" width="48"
+                      height="48" alt="">{{item.jobName}}
+                </router-link></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

@@ -4,10 +4,10 @@
             <div class="bannerBox">
                 <div class="bannrCont" :class="[jobClassType]">
                     <div class="job__header__inner">
-                        <h1 class="job__header__jobname"><img :src="headers.headerBackgroudPic" width="480" height="72"
-                                alt="">
-                            <span class="job__header__jobname__role"><img :src="headers.jobAttackTypePic" width="32"
-                                    height="32" alt="">{{headers.jobAttackType}}</span>
+                        <h1 class="job__header__jobname"><a :href="headers.jobTransJapan"><img :src="headers.headerBackgroudPic" width="480" height="72"
+                                alt=""></a>
+                            <span class="job__header__jobname__role"><a :href="headers.jobTransEng"><img :src="headers.jobAttackTypePic" width="32"
+                                    height="32" alt=""></a>{{headers.jobAttackType}}</span>
                         </h1>
                     </div>
                 </div>
@@ -57,7 +57,10 @@
                                         </div>
                                     </div>
                                     <div class="job_tbody" v-for="item in skills">
-                                        <div class="job_list_type">
+                                        <div class="job_list_head update" v-if="item.change">
+                                            <img src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/eNWFv1eRmj7IKcqk9ossQ9PFwQ.png" width="62" height="16" alt=""/>
+                                        </div>
+                                        <div :class="item.change ? 'job_tlist update': 'job_list_type'">
                                             <div class="job_tlist">
                                                 <div class="job_titem item8_0">
                                                     <div class="skill_icon">
@@ -162,8 +165,11 @@
                                             <span>变更内容</span>
                                         </div>
                                     </div>
-                                    <div class="job_tbody">
-                                        <div class="job_list_type" v-for="item in specialSkills">
+                                    <div class="job_tbody" v-for="item in specialSkills">
+                                        <div class="job_list_head update" v-if="item.change">
+                                            <img src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/eNWFv1eRmj7IKcqk9ossQ9PFwQ.png" width="62" height="16" alt=""/>
+                                        </div>
+                                        <div :class="item.change ? 'job_tlist update': 'job_list_type'">
                                             <div class="job_tlist">
                                                 <div class="job_titem item8_0">
                                                     <div class="skill_icon">
@@ -268,8 +274,11 @@
                                             <span>变更内容</span>
                                         </div>
                                     </div>
-                                    <div class="job_tbody">
-                                        <div class="job_list_type" v-for="item in roleSkills">
+                                    <div class="job_tbody" v-for="item in roleSkills">
+                                        <div class="job_list_head update" v-if="item.change">
+                                            <img src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/eNWFv1eRmj7IKcqk9ossQ9PFwQ.png" width="62" height="16" alt=""/>
+                                        </div>
+                                        <div :class="item.change ? 'job_tlist update': 'job_list_type'">
                                             <div class="job_tlist">
                                                 <div class="job_titem item8_0">
                                                     <div class="skill_icon">
@@ -359,8 +368,11 @@
                                             <span>变更内容</span>
                                         </div>
                                     </div>
-                                    <div class="job_tbody">
-                                        <div class="job_list_type" v-for="item in traits">
+                                    <div class="job_tbody" v-for="item in traits">
+                                        <div class="job_list_head update" v-if="item.change">
+                                            <img src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/eNWFv1eRmj7IKcqk9ossQ9PFwQ.png" width="62" height="16" alt=""/>
+                                        </div>
+                                        <div :class="item.change ? 'job_tlist update': 'job_list_type'">
                                             <div class="job_tlist">
                                                 <div class="job_titem item3_0">
                                                     <div class="skill_icon">
@@ -432,8 +444,11 @@
                                             <span>变更内容</span>
                                         </div>
                                     </div>
-                                    <div class="job_tbody">
-                                        <div class="job_list_type" v-for="item in roleTraits">
+                                    <div class="job_tbody" v-for="item in roleTraits">
+                                        <div class="job_list_head update" v-if="item.change">
+                                            <img src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/eNWFv1eRmj7IKcqk9ossQ9PFwQ.png" width="62" height="16" alt=""/>
+                                        </div>
+                                        <div :class="item.change ? 'job_tlist update': 'job_list_type'">
                                             <div class="job_tlist">
                                                 <div class="job_titem item3_0">
                                                     <div class="skill_icon">
@@ -481,8 +496,4 @@
             </div>
         </div>
     </div>
-</div>
-<br /><br />
-<div>
-    <a :href="headers.jobTransJapen">日文翻译</a> &nbsp; <a :href="headers.jobTransEng">英文翻译</a>
 </div>

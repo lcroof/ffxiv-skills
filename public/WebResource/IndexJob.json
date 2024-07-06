@@ -1,0 +1,128 @@
+[
+    {
+        "jobType": "tank",
+        "jobPic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/NUXU4h6iXzF8HS4BxHKYf7vOa0.png",
+        "jobName": "骑士（剑术师）",
+        "jobEngName": "/Paladin"
+    },
+    {
+        "jobType": "tank",
+        "jobPic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/U3f8Q98TbAeGvg_vXiHGOaa2d4.png",
+        "jobName": "战士（斧术师）",
+        "jobEngName": "/Warrior"
+    },
+    {
+        "jobType": "tank",
+        "jobPic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/5JT3hJnBNPZSLAijAF9u7zrueQ.png",
+        "jobName": "暗黑骑士",
+        "jobEngName": "/DarkKnight"
+    },
+    {
+        "jobType": "tank",
+        "jobPic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/fc5PYpEFGrg4qPYDq_YBbCy1X0.png",
+        "jobName": "绝枪战士",
+        "jobEngName": "/Gunbreaker"
+    },
+    {
+        "jobType": "healer",
+        "jobPic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/Na619RGtVtbEvNn1vyFoSlvZ84.png",
+        "jobName": "白魔法师（幻术师）",
+        "jobEngName": "/WhiteMage"
+    },
+    {
+        "jobType": "healer",
+        "jobPic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/2r8fm3U0Io7Pw1XT1tvnjPthp4.png",
+        "jobName": "学者（秘术师）",
+        "jobEngName": "/Scholar"
+    },
+    {
+        "jobType": "healer",
+        "jobPic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/g7JY4S1D-9S26VarEuIkPGIrFM.png",
+        "jobName": "占星术士",
+        "jobEngName": "/Astrologian"
+    },
+    {
+        "jobType": "healer",
+        "jobPic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20220223ffjob/sage/G0lQTD01LdCGk5pECSc7fbbmbM.png",
+        "jobName": "贤者",
+        "jobEngName": "/Sage"
+    },
+    {
+        "jobType": "meele",
+        "jobPic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/Ce_VQB6VPPJKTGJwxf3h5iujp4.png",
+        "jobName": "武僧（格斗家）",
+        "jobEngName": "/Monk"
+    },
+    {
+        "jobType": "meele",
+        "jobPic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/zWRkXGJIJhN7WHGGv1gVscRxmA.png",
+        "jobName": "龙骑士（枪术师）",
+        "jobEngName": "/Dragoon"
+    },
+    {
+        "jobType": "meele",
+        "jobPic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/EXvdQYvr1Rn4En8AKssbVwwcac.png",
+        "jobName": "忍者（双剑师）",
+        "jobEngName": "/Ninja"
+    },
+    {
+        "jobType": "meele",
+        "jobPic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/Ra2GV79gVQhy6SwCrU19boTghc.png",
+        "jobName": "武士",
+        "jobEngName": "/Samurai"
+    },
+    {
+        "jobType": "meele",
+        "jobPic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20220223ffjob/reaper/y8GHAXX4qhY7D-yqnCqtEPkjoo.png",
+        "jobName": "钐镰客",
+        "jobEngName": "/Reaper"
+    },
+    {
+        "jobType": "physicalRanged",
+        "jobPic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/d7BM1x8OZRZU-9fTk-D7g1t2oc.png",
+        "jobName": "吟游诗人（弓箭手）",
+        "jobEngName": "/Bard"
+    },
+    {
+        "jobType": "physicalRanged",
+        "jobPic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/oHLJxTt_OLDK_eQkRTBVNwwxeE.png",
+        "jobName": "机工士",
+        "jobEngName": "/Machinist"
+    },
+    {
+        "jobType": "physicalRanged",
+        "jobPic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/ZzzbixB1HHW9FaxNXdfY7Y7lvw.png",
+        "jobName": "舞者",
+        "jobEngName": "/Dancer"
+    },
+    {
+        "jobType": "magicalRanged",
+        "jobPic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/7JuT00VSwaFqTfcTYUCUnGPFQE.png",
+        "jobName": "黑魔法师（咒术师）",
+        "jobEngName": "/BlackMage"
+    },
+    {
+        "jobType": "magicalRanged",
+        "jobPic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/ZwJFxv3XnfqB5N6tKbgXKnj6BU.png",
+        "jobName": "召唤师（秘术师）",
+        "jobEngName": "/Summoner"
+    },
+    {
+        "jobType": "magicalRanged",
+        "jobPic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/NRnqJxzRtbDKR1ZHzxazWBBR2Y.png",
+        "jobName": "赤魔法师",
+        "jobEngName": "/RedMage"
+    },
+    {
+        "jobType": "meele",
+        "jobPic": "https://lds-img.finalfantasyxiv.com/promo/h/p/sS2MK2LmSHGjziXHE6DIOw7_4U.png",
+        "jobName": "蝰蛇剑士",
+        "jobEngName": "/Viper"
+    },
+    {
+        "jobType": "magicalRanged",
+        "jobPic": "https://lds-img.finalfantasyxiv.com/promo/h/e/t0iiQ-ja8O8YNZaVimL5Qb6Tnw.png",
+        "jobName": "绘灵法师",
+        "jobEngName": "/Pictomancer"
+    }
+]

@@ -1,5 +1,5 @@
-import JobView from '../components/JobView.vue'
-import index from '../IndexPage.vue'
+import JobView from '../components/Job/JobView.vue'
+import index from '../components/Index/IndexPage.vue'
 
 const routes = [
     {
@@ -11,11 +11,31 @@ const routes = [
         component: index
     },
     {
-        path: '/BlackMage',
+        path: '/Paladin',
         component: JobView
     },
     {
-        path: '/RedMage',
+        path: '/Warrior',
+        component: JobView
+    },
+    {
+        path: '/DarkKnight',
+        component: JobView
+    },
+    {
+        path: '/Gunbreaker',
+        component: JobView
+    },
+    {
+        path: '/Monk',
+        component: JobView
+    },
+    {
+        path: '/Dragoon',
+        component: JobView
+    },
+    {
+        path: '/Reaper',
         component: JobView
     },
     {
@@ -24,10 +44,6 @@ const routes = [
     },
     {
         path: '/Viper',
-        component: JobView
-    },
-    {
-        path: '/Summoner',
         component: JobView
     },
     {
@@ -43,11 +59,7 @@ const routes = [
         component: JobView
     },
     {
-        path: '/Pictomancer',
-        component: JobView
-    },
-    {
-        path: '/Whitemage',
+        path: '/WhiteMage',
         component: JobView
     },
     {
@@ -64,6 +76,22 @@ const routes = [
     },
     {
         path: '/Dancer',
+        component: JobView
+    },
+    {
+        path: '/BlackMage',
+        component: JobView
+    },
+    {
+        path: '/RedMage',
+        component: JobView
+    },
+    {
+        path: '/Summoner',
+        component: JobView
+    },
+    {
+        path: '/Pictomancer',
         component: JobView
     }
 ]
