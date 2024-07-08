@@ -50,7 +50,7 @@
         "rangeType": "zero",
         "content": "毁灭变为毁坏",
         "type": "",
-        "changeCont": "修得等级从“54”变更为“30”。<br>效果更新。"
+        "change": ""
     },
     {
         "isDisabled": false,
@@ -168,7 +168,7 @@
         "rangeType": "zero",
         "content": "龙神附体变为龙神召唤",
         "type": "",
-        "changeCont": "效果更新。"
+        "change": ""
     },
     {
         "isDisabled": false,
@@ -234,7 +234,7 @@
         "rangeType": "zero",
         "content": "毁荡、红宝石之仪、黄宝石之仪、绿宝石之仪的威力提高<BR><BR>毁荡的威力：310<BR>红宝石之仪的威力：510<BR>黄宝石之仪的威力：330<BR>绿宝石之仪的威力：230",
         "type": "",
-        "changeCont": "红宝石之仪的威力提高从450变更为510。"
+        "change": ""
     },
     {
         "isDisabled": false,

@@ -3,6 +3,13 @@
         "circle": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/fxM1grTWkjBM28iusm62Gpsp0A.png",
         "zero": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/bp6MGINkQrmc56o57kb0tsoeJk.png",
         "line": "https://static.web.sdo.com/jijiamobile/pic/ff14/20220223ffjob/sage/_08SnQEaLvSIdYVBCfq51qmc68.png",
-        "sector": "https://static.web.sdo.com/jijiamobile/pic/ff14/20220223ffjob/a5c_l_0ZpkmqQvwvFezHgNBi8c.png"
+        "sector": "https://static.web.sdo.com/jijiamobile/pic/ff14/20220223ffjob/a5c_l_0ZpkmqQvwvFezHgNBi8c.png",
+        "updateImg": "https://lds-img.finalfantasyxiv.com/promo/h/e/eNWFv1eRmj7IKcqk9ossQ9PFwQ.png",
+        "updateHeadCss": "job_list_head update",
+        "updateListCss": "job_tlist update",
+        "newImg": "https://lds-img.finalfantasyxiv.com/promo/h/6/SmMAPbi5GjCBMUT1XG9w0WZYeo.png",
+        "newHeadCss": "job_list_head new",
+        "newListCss": "job_tlist new",
+        "normalListCss": "job_list_type"
     }
 ]

@@ -57,20 +57,20 @@
                                         </div>
                                     </div>
                                     <div class="job_tbody" v-for="item in skills">
-                                        <div class="job_list_head update" v-if="item.change">
-                                            <img src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/eNWFv1eRmj7IKcqk9ossQ9PFwQ.png" width="62" height="16" alt=""/>
+                                        <div :class="getSkillsHeaderCss(item.change)" v-if="item.change">
+                                            <img :src="getSkillsCssImg(item.change)" width="62" height="16" alt=""/>
                                         </div>
-                                        <div :class="item.change ? 'job_tlist update': 'job_list_type'">
+                                        <div :class="getSkillsListCss(item.change)">
                                             <div class="job_tlist">
                                                 <div class="job_titem item8_0">
                                                     <div class="skill_icon">
                                                         <img :src="item.pic" width="40" height="40" alt=""
-                                                            :style="{'filter': item.isDisabled ? 'grayscale(100%)' : ''}">
+                                                            :style="{'filter': /删除技能|删除特性/.test(item.change) ? 'grayscale(100%)' : ''}">
                                                     </div>
                                                     <p class="skill_txt">
-                                                        <strong v-if="item.isDisabled === 'true'"><s class="skill_txt"
+                                                        <strong v-if="/删除技能|删除特性/.test(item.change)"><s class="skill_txt"
                                                                 v-html=[item.name]></s></strong>
-                                                        <strong v-if="item.isDisabled !== 'true'">
+                                                        <strong v-if="!/删除技能|删除特性/.test(item.change)">
                                                             <div class="skill_txt" v-html=[item.name]></div>
                                                             <div class="des" v-if="item.ndes">通过特职任务获得</div>
                                                         </strong>
@@ -166,20 +166,24 @@
                                         </div>
                                     </div>
                                     <div class="job_tbody" v-for="item in specialSkills">
-                                        <div class="job_list_head update" v-if="item.change">
-                                            <img src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/eNWFv1eRmj7IKcqk9ossQ9PFwQ.png" width="62" height="16" alt=""/>
+                                        <div :class="getSkillsHeaderCss(item.change)" v-if="item.change">
+                                            <img :src="getSkillsCssImg(item.change)" width="62" height="16" alt=""/>
                                         </div>
-                                        <div :class="item.change ? 'job_tlist update': 'job_list_type'">
+                                        <div :class="getSkillsListCss(item.change)">
                                             <div class="job_tlist">
                                                 <div class="job_titem item8_0">
                                                     <div class="skill_icon">
                                                         <img :src="item.pic" width="40" height="40" alt=""
-                                                            :style="{'filter': item.isDisabled ? 'grayscale(100%)' : ''}">
+                                                            :style="{'filter': /删除技能|删除特性/.test(item.change) ? 'grayscale(100%)' : ''}">
                                                     </div>
-                                                    <p class="skill_txt"><strong v-if="item.isDisabled !== 'true'">
+                                                    <p class="skill_txt">
+                                                        <strong v-if="/删除技能|删除特性/.test(item.change)"><s class="skill_txt"
+                                                                v-html=[item.name]></s></strong>
+                                                        <strong v-if="!/删除技能|删除特性/.test(item.change)">
                                                             <div class="skill_txt" v-html=[item.name]></div>
                                                             <div class="des" v-if="item.ndes">通过特职任务获得</div>
-                                                        </strong> </p>
+                                                        </strong>
+                                                    </p>
                                                 </div>
                                                 <div class="job_titem item8_1">
                                                     <div class="waper_icon">
@@ -275,20 +279,24 @@
                                         </div>
                                     </div>
                                     <div class="job_tbody" v-for="item in roleSkills">
-                                        <div class="job_list_head update" v-if="item.change">
-                                            <img src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/eNWFv1eRmj7IKcqk9ossQ9PFwQ.png" width="62" height="16" alt=""/>
+                                        <div :class="getSkillsHeaderCss(item.change)" v-if="item.change">
+                                            <img :src="getSkillsCssImg(item.change)" width="62" height="16" alt=""/>
                                         </div>
-                                        <div :class="item.change ? 'job_tlist update': 'job_list_type'">
+                                        <div :class="getSkillsListCss(item.change)">
                                             <div class="job_tlist">
                                                 <div class="job_titem item8_0">
                                                     <div class="skill_icon">
                                                         <img :src="item.pic" width="40" height="40" alt=""
-                                                            :style="{'filter': item.isDisabled ? 'grayscale(100%)' : ''}">
+                                                            :style="{'filter': /删除技能|删除特性/.test(item.change) ? 'grayscale(100%)' : ''}">
                                                     </div>
-                                                    <p class="skill_txt"><strong v-if="item.isDisabled !== 'true'">
+                                                    <p class="skill_txt">
+                                                        <strong v-if="/删除技能|删除特性/.test(item.change)"><s class="skill_txt"
+                                                                v-html=[item.name]></s></strong>
+                                                        <strong v-if="!/删除技能|删除特性/.test(item.change)">
                                                             <div class="skill_txt" v-html=[item.name]></div>
                                                             <div class="des" v-if="item.ndes">通过特职任务获得</div>
-                                                        </strong></p>
+                                                        </strong>
+                                                    </p>
                                                 </div>
                                                 <div class="job_titem item8_1">
                                                     <div class="waper_icon">
@@ -369,20 +377,24 @@
                                         </div>
                                     </div>
                                     <div class="job_tbody" v-for="item in traits">
-                                        <div class="job_list_head update" v-if="item.change">
-                                            <img src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/eNWFv1eRmj7IKcqk9ossQ9PFwQ.png" width="62" height="16" alt=""/>
+                                        <div :class="getSkillsHeaderCss(item.change)" v-if="item.change">
+                                            <img :src="getSkillsCssImg(item.change)" width="62" height="16" alt=""/>
                                         </div>
-                                        <div :class="item.change ? 'job_tlist update': 'job_list_type'">
+                                        <div :class="getSkillsListCss(item.change)">
                                             <div class="job_tlist">
                                                 <div class="job_titem item3_0">
                                                     <div class="skill_icon">
                                                         <img :src="item.pic" width="40" height="40" alt=""
-                                                            :style="{'filter': item.isDisabled ? 'grayscale(100%)' : ''}">
+                                                            :style="{'filter': /删除技能|删除特性/.test(item.change) ? 'grayscale(100%)' : ''}">
                                                     </div>
-                                                    <p class="skill_txt"><strong v-if="item.isDisabled !== 'true'">
+                                                    <p class="skill_txt">
+                                                        <strong v-if="/删除技能|删除特性/.test(item.change)"><s class="skill_txt"
+                                                                v-html=[item.name]></s></strong>
+                                                        <strong v-if="!/删除技能|删除特性/.test(item.change)">
                                                             <div class="skill_txt" v-html=[item.name]></div>
                                                             <div class="des" v-if="item.ndes">通过特职任务获得</div>
-                                                        </strong></p>
+                                                        </strong>
+                                                    </p>
                                                 </div>
                                                 <div class="job_titem item3_1">
                                                     <div class="waper_icon">
@@ -445,20 +457,24 @@
                                         </div>
                                     </div>
                                     <div class="job_tbody" v-for="item in roleTraits">
-                                        <div class="job_list_head update" v-if="item.change">
-                                            <img src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/eNWFv1eRmj7IKcqk9ossQ9PFwQ.png" width="62" height="16" alt=""/>
+                                        <div :class="getSkillsHeaderCss(item.change)" v-if="item.change">
+                                            <img :src="getSkillsCssImg(item.change)" width="62" height="16" alt=""/>
                                         </div>
-                                        <div :class="item.change ? 'job_tlist update': 'job_list_type'">
+                                        <div :class="getSkillsListCss(item.change)">
                                             <div class="job_tlist">
                                                 <div class="job_titem item3_0">
                                                     <div class="skill_icon">
                                                         <img :src="item.pic" width="40" height="40" alt=""
-                                                            :style="{'filter': item.isDisabled ? 'grayscale(100%)' : ''}">
+                                                            :style="{'filter': /删除技能|删除特性/.test(item.change) ? 'grayscale(100%)' : ''}">
                                                     </div>
-                                                    <p class="skill_txt"><strong v-if="item.isDisabled !== 'true'">
+                                                    <p class="skill_txt">
+                                                        <strong v-if="/删除技能|删除特性/.test(item.change)"><s class="skill_txt"
+                                                                v-html=[item.name]></s></strong>
+                                                        <strong v-if="!/删除技能|删除特性/.test(item.change)">
                                                             <div class="skill_txt" v-html=[item.name]></div>
                                                             <div class="des" v-if="item.ndes">通过特职任务获得</div>
-                                                        </strong></p>
+                                                        </strong>
+                                                    </p>
                                                 </div>
                                                 <div class="job_titem item3_1">
                                                     <div class="waper_icon">

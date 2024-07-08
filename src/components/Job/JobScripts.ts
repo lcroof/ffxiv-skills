@@ -17,6 +17,35 @@ export default {
                 return this.globalAttributes.line
             }
         },
+        getSkillsHeaderCss(changeContent) {
+            let regNew = RegExp('新增技能|新增特性',"gm")
+            if (regNew.test(changeContent)) {
+                return this.globalAttributes.newHeadCss
+            } else {
+                return this.globalAttributes.updateHeadCss
+            }
+        },
+        getSkillsListCss(changeContent) {
+            if (changeContent.length > 0) {
+                let regNew = RegExp('新增技能|新增特性',"gm")
+                if (regNew.test(changeContent)) {
+                    return this.globalAttributes.newListCss
+                } else {
+                    return this.globalAttributes.updateListCss
+                }
+            } else {
+                return this.globalAttributes.normalListCss
+            }
+            
+        },
+        getSkillsCssImg(changeContent) {
+            let regNew = RegExp('新增技能|新增特性',"gm")
+            if (regNew.test(changeContent)) {
+                return this.globalAttributes.newImg
+            } else {
+                return this.globalAttributes.updateImg
+            }
+        }
     },    
     setup() {
         const skills = ref(null);
