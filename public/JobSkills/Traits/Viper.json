@@ -53,8 +53,8 @@
       "distant": "",
       "range": "",
       "rangeType": "zero",
-      "content": "部分技能的威力提高<BR><BR>牙剑咬创的威力：200<BR>牙剑惨毒的威力：140<BR>牙剑猛袭的威力：260<BR>牙剑疾速的威力：260",
-      "change": ""
+      "content": "部分技能的威力提高<BR><BR>牙剑咬创的威力：200<BR>牙剑穿裂的威力：200<BR>牙剑猛袭的威力：300<BR>牙剑疾速的威力：300",
+      "change": "威力更改"
     },
     {
       "isDisabled": false,
@@ -110,7 +110,7 @@
       "distant": "",
       "range": "",
       "rangeType": "zero",
-      "content": "可获得飞蛇之魂<br/>发动条件：蛇剑惨毒或大蛇惨毒命中时",
+      "content": "可获得飞蛇之魂<br/>发动条件：蛇剑强碎或大蛇强碎命中时",
       "change": ""
     },
     {
@@ -148,8 +148,8 @@
       "distant": "",
       "range": "",
       "rangeType": "zero",
-      "content": "部分技能的威力提高<BR><BR>牙剑侧击的威力：300<BR>牙剑侧裂的威力：300<BR>牙剑背击的威力：300<BR>牙剑背裂的威力：300",
-      "change": ""
+      "content": "部分技能的威力提高<BR><BR>牙剑侧击的威力：340<BR>牙剑侧裂的威力：340<BR>牙剑背击的威力：340<BR>牙剑背裂的威力：340",
+      "change": "威力更改"
     },
     {
       "isDisabled": false,
@@ -205,7 +205,7 @@
       "distant": "",
       "range": "",
       "rangeType": "zero",
-      "content": "能够发动飞蛇连尾击和飞蛇乱尾击<br/>发动条件：飞蛇之尾发动后",
+      "content": "能够发动飞蛇连尾击和飞蛇乱尾击<br/>发动条件：飞蛇之尾命中时",
       "change": ""
     },
     {
