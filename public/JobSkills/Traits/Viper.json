@@ -54,7 +54,7 @@
       "range": "",
       "rangeType": "zero",
       "content": "部分技能的威力提高<BR><BR>牙剑咬创的威力：200<BR>牙剑穿裂的威力：200<BR>牙剑猛袭的威力：300<BR>牙剑疾速的威力：300",
-      "change": "威力更改"
+      "change": "7.05威力更改"
     },
     {
       "isDisabled": false,
@@ -149,7 +149,7 @@
       "range": "",
       "rangeType": "zero",
       "content": "部分技能的威力提高<BR><BR>牙剑侧击的威力：340<BR>牙剑侧裂的威力：340<BR>牙剑背击的威力：340<BR>牙剑背裂的威力：340",
-      "change": "威力更改"
+      "change": "7.05威力更改"
     },
     {
       "isDisabled": false,
