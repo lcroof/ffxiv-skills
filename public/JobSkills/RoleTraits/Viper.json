@@ -25,7 +25,7 @@
       "range": "",
       "rangeType": "",
       "content": "恢复力从500变更至800",
-      "change": "新增特性"
+      "change": "7.0新增特性"
    },
    {
       "isDisabled": false,
@@ -49,6 +49,6 @@
       "range": "0",
       "rangeType": "zero",
       "content": "牵制的持续时间从10秒变更至15秒。",
-      "change": "新增特性"
+      "change": "7.0新增特性"
    }
 ]
