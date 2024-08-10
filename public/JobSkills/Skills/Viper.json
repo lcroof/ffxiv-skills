@@ -1,7 +1,7 @@
 [
   {
     "isDisabled": false,
-    "name": "壱の牙【咬創】<br/>牙剑咬创",
+    "name": "壱の牙【咬創】<br>牙剑咬创",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/4c17f1a64284635f1483f205f9aea15be9bd1a16.png",
     "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -20,7 +20,7 @@
   },
   {
     "isDisabled": false,
-    "name": "弐の牙【猛襲】<br/>牙剑猛袭",
+    "name": "弐の牙【猛襲】<br>牙剑猛袭",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/3b2aea9fa0be73f01aeb45b7eff15fd344776af0.png",
     "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -34,12 +34,12 @@
     "distant": "3",
     "range": "0",
     "rangeType": "zero",
-    "content": "对目标发动物理攻击。<br>威力：300<br/>追加效果：为自身附加猛袭状态<br/>效果时间：40秒<br/>猛袭效果：自身发动攻击造成的伤害提高10%<br/>发动条件：牙剑咬创或牙剑穿裂命中时<br/><br/>※该技能无法设置到热键栏。<br/>满足发动条件时，牙剑咬创变化为牙剑猛袭。",
+    "content": "对目标发动物理攻击。<br>威力：300<br>追加效果：为自身附加猛袭状态<br>效果时间：40秒<br>猛袭效果：自身发动攻击造成的伤害提高10%<br>发动条件：牙剑咬创或牙剑穿裂命中时<br><br>※该技能无法设置到热键栏。<br>满足发动条件时，牙剑咬创变化为牙剑猛袭。",
     "change": "威力从260变更为300"
   },
   {
     "isDisabled": false,
-    "name": "壱の牙【穿裂】<br/>牙剑穿裂",
+    "name": "壱の牙【穿裂】<br>牙剑穿裂",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/0763edc3238365b4076dba5d28b8f5c68be1d3de.png",
     "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -58,7 +58,7 @@
   },
   {
     "isDisabled": false,
-    "name": "飛蛇の牙<br/>飞蛇之牙",
+    "name": "飛蛇の牙<br>飞蛇之牙",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/251a98740164ae526be0e23bf9477abb8e28fe94.png",
     "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -77,7 +77,7 @@
   },
   {
     "isDisabled": false,
-    "name": "弐の牙【疾速】<br/>牙剑疾速",
+    "name": "弐の牙【疾速】<br>牙剑疾速",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/75a4621d0d002a4b18c59acfdfb097424ff88a5b.png",
     "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -91,12 +91,12 @@
     "distant": "3",
     "range": "0",
     "rangeType": "zero",
-    "content": "对目标发动物理攻击。<br>威力：300<br/>追加效果：为自身附加疾速状态<br/>效果时间：40秒<br/>疾速效果：自身的自动攻击间隔、战技与魔法的咏唱及复唱时间缩短15%<br/>发动条件：牙剑咬创或牙剑穿裂命中时<br/><br/>※该技能无法设置到热键栏。<br/>满足发动条件时，牙剑穿裂变化为牙剑疾速。",
+    "content": "对目标发动物理攻击。<br>威力：300<br>追加效果：为自身附加疾速状态<br>效果时间：40秒<br>疾速效果：自身的自动攻击间隔、战技与魔法的咏唱及复唱时间缩短15%<br>发动条件：牙剑咬创或牙剑穿裂命中时<br><br>※该技能无法设置到热键栏。<br>满足发动条件时，牙剑穿裂变化为牙剑疾速。",
     "change": "威力从260变更为300"
   },
   {
     "isDisabled": false,
-    "name": "壱の大牙【咬創】<br/>大牙咬创",
+    "name": "壱の大牙【咬創】<br>大牙咬创",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/8b9f63b988cfb7be43914b31ff5551ee41c99ffa.png",
     "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -115,7 +115,7 @@
   },
    {
     "isDisabled": false,
-    "name": "参の牙【側撃】<br/>牙剑侧击",
+    "name": "参の牙【側撃】<br>牙剑侧击",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/05bf152b3b5ac3ed319b5cdcbbdca1db4006cd96.png",
     "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -129,12 +129,12 @@
     "distant": "3",
     "range": "0",
     "rangeType": "zero",
-    "content": "对目标发动物理攻击。<br>威力：340<br/>侧面攻击时威力：400<br/>锐牙侧击状态存在时威力提升100<br/>追加效果：为自身附加锐牙背击状态<br/>效果时间：60秒<br/>锐牙背击效果：牙剑背击的威力提升100<br/>其它的锐牙与大锐牙效果不会同时生效<br>追加效果：获得10点灵能<br/>发动条件：牙剑猛袭命中时<br/><br/>※该技能无法设置到热键栏。<br/>满足发动条件时，牙剑猛袭变化为牙剑侧击。",
+    "content": "对目标发动物理攻击。<br>威力：340<br>侧面攻击时威力：400<br>锐牙侧击状态存在时威力提升100<br>追加效果：为自身附加锐牙背击状态<br>效果时间：60秒<br>锐牙背击效果：牙剑背击的威力提升100<br>其它的锐牙与大锐牙效果不会同时生效<br>追加效果：获得10点灵能<br>发动条件：牙剑猛袭命中时<br><br>※该技能无法设置到热键栏。<br>满足发动条件时，牙剑猛袭变化为牙剑侧击。",
     "change": "威力从300变更为340<br>侧面攻击时威力从360变更为400<br>持续时间从40秒变更为60秒"
   },
   {
     "isDisabled": false,
-    "name": "参の牙【側裂】<br/>牙剑侧裂",
+    "name": "参の牙【側裂】<br>牙剑侧裂",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/24777f7ac5f5169f3ebf6b656d7cedf54d57e9a6.png",
     "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -148,12 +148,12 @@
     "distant": "3",
     "range": "0",
     "rangeType": "zero",
-    "content": "对目标发动物理攻击。<br>威力：340<br/>侧面攻击时威力：400<br/>锐牙侧裂状态存在时威力提升100<br/>追加效果：为自身附加锐牙背裂状态<br/>效果时间：60秒<br/>锐牙背裂效果：牙剑背裂的威力提升100<br/>其它的锐牙与大锐牙效果不会同时生效<br>追加效果：获得10点灵能<br/>发动条件：牙剑猛袭命中时<br/><br/>※该技能无法设置到热键栏。<br/>满足发动条件时，牙剑疾速变化为牙剑侧裂。",
+    "content": "对目标发动物理攻击。<br>威力：340<br>侧面攻击时威力：400<br>锐牙侧裂状态存在时威力提升100<br>追加效果：为自身附加锐牙背裂状态<br>效果时间：60秒<br>锐牙背裂效果：牙剑背裂的威力提升100<br>其它的锐牙与大锐牙效果不会同时生效<br>追加效果：获得10点灵能<br>发动条件：牙剑猛袭命中时<br><br>※该技能无法设置到热键栏。<br>满足发动条件时，牙剑疾速变化为牙剑侧裂。",
     "change": "威力从300变更为340<br>侧面攻击时威力从360变更为400<br>持续时间从40秒变更为60秒"
   },
   {
     "isDisabled": false,
-    "name": "参の牙【背撃】<br/>牙剑背击",
+    "name": "参の牙【背撃】<br>牙剑背击",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/c0524362f22ecb3fe78015685d2385c1cfbbe811.png",
     "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -167,12 +167,12 @@
     "distant": "3",
     "range": "0",
     "rangeType": "zero",
-    "content": "对目标发动物理攻击。<br>威力：340<br/>背面攻击时威力：400<br/>锐牙背击状态存在时威力提升100<br/>追加效果：为自身附加锐牙侧裂状态<br/>效果时间：60秒<br/>锐牙侧裂效果：牙剑侧裂的威力提升100<br/>其它的锐牙与大锐牙效果不会同时生效<br>追加效果：获得10点灵能<br/>发动条件：牙剑疾速命中时<br/><br/>※该技能无法设置到热键栏。<br/>满足发动条件时，牙剑猛袭变化为牙剑背击。",
+    "content": "对目标发动物理攻击。<br>威力：340<br>背面攻击时威力：400<br>锐牙背击状态存在时威力提升100<br>追加效果：为自身附加锐牙侧裂状态<br>效果时间：60秒<br>锐牙侧裂效果：牙剑侧裂的威力提升100<br>其它的锐牙与大锐牙效果不会同时生效<br>追加效果：获得10点灵能<br>发动条件：牙剑疾速命中时<br><br>※该技能无法设置到热键栏。<br>满足发动条件时，牙剑猛袭变化为牙剑背击。",
     "change": "威力从300变更为340<br>背面攻击时威力从360变更为400<br>持续时间从40秒变更为60秒"
   },
   {
     "isDisabled": false,
-    "name": "参の牙【背裂】<br/>牙剑背裂",
+    "name": "参の牙【背裂】<br>牙剑背裂",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/2ca132552615abcd4f962ec2b32eb8b0ef6ccd50.png",
     "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -186,12 +186,12 @@
     "distant": "3",
     "range": "0",
     "rangeType": "zero",
-    "content": "对目标发动物理攻击。<br>威力：340<br/>背面攻击时威力：400<br/>锐牙背裂状态存在时威力提升100<br/>追加效果：为自身附加锐牙侧击状态<br/>效果时间：60秒<br/>锐牙侧击效果：牙剑侧击的威力提升100<br/>其它的锐牙与大锐牙效果不会同时生效<br>追加效果：获得10点灵能<br/>发动条件：牙剑疾速命中时<br/><br/>※该技能无法设置到热键栏。<br/>满足发动条件时，牙剑疾速变化为牙剑背裂。",
+    "content": "对目标发动物理攻击。<br>威力：340<br>背面攻击时威力：400<br>锐牙背裂状态存在时威力提升100<br>追加效果：为自身附加锐牙侧击状态<br>效果时间：60秒<br>锐牙侧击效果：牙剑侧击的威力提升100<br>其它的锐牙与大锐牙效果不会同时生效<br>追加效果：获得10点灵能<br>发动条件：牙剑疾速命中时<br><br>※该技能无法设置到热键栏。<br>满足发动条件时，牙剑疾速变化为牙剑背裂。",
     "change": "威力从300变更为340<br>背面攻击时威力从360变更为400<br>持续时间从40秒变更为60秒"
   },
   {
     "isDisabled": false,
-    "name": "壱の大牙【穿裂】<br/>大牙穿裂",
+    "name": "壱の大牙【穿裂】<br>大牙穿裂",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/d5b0fd312dbb29775aba54246dc487805eb045e7.png",
     "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -210,7 +210,7 @@
   },
   {
     "isDisabled": false,
-    "name": "蛇行<br/>蛇行",
+    "name": "蛇行<br>蛇行",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/7ebdd1c17d9bfe7e52641396ee2c0ff944aea319.png",
     "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -224,12 +224,12 @@
     "distant": "20",
     "range": "0",
     "rangeType": "zero",
-    "content": "指定一名敌人或队员为目标，自身快速移动到目标身边<br/>积蓄次数：3<br/>止步状态下无法发动",
+    "content": "指定一名敌人或队员为目标，自身快速移动到目标身边<br>积蓄次数：3<br>止步状态下无法发动",
     "change": ""
   },
   {
     "isDisabled": false,
-    "name": "弐の大牙【猛襲】<br/>大牙猛袭",
+    "name": "弐の大牙【猛襲】<br>大牙猛袭",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/2117aa184918197d460d34352b715a239d27af1d.png",
     "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -243,12 +243,12 @@
     "distant": "0",
     "range": "5",
     "rangeType": "circle",
-    "content": "对自身周围的敌人发动范围物理攻击。<br>威力：130<br/>追加效果：为自身附加猛袭状态<br/>效果时间：40秒<br/>猛袭效果：自身发动攻击造成的伤害提高10%<br/>发动条件：大牙咬创或大牙穿裂命中时<br/><br/>※该技能无法设置到热键栏。<br/>满足发动条件时，大牙咬创变化为大牙猛袭。",
+    "content": "对自身周围的敌人发动范围物理攻击。<br>威力：130<br>追加效果：为自身附加猛袭状态<br>效果时间：40秒<br>猛袭效果：自身发动攻击造成的伤害提高10%<br>发动条件：大牙咬创或大牙穿裂命中时<br><br>※该技能无法设置到热键栏。<br>满足发动条件时，大牙咬创变化为大牙猛袭。",
     "change": "威力从120变更为130"
   },
   {
     "isDisabled": false,
-    "name": "弐の大牙【疾速】<br/>大牙疾速",
+    "name": "弐の大牙【疾速】<br>大牙疾速",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/c45c309beb82894d97fdb3a01afe3673cc1ec5b0.png",
     "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -262,12 +262,12 @@
     "distant": "0",
     "range": "5",
     "rangeType": "circle",
-    "content": "对自身周围的敌人发动范围物理攻击。<br>威力：130<br/>追加效果：为自身附加疾速状态<br/>效果时间：40秒<br/>疾速效果：自身的自动攻击间隔、战技与魔法的咏唱及复唱时间缩短15%<br/>发动条件：牙剑咬创或牙剑猛袭命中时<br/><br/>※该技能无法设置到热键栏。<br/>满足发动条件时，大牙穿裂变化为大牙疾速。",
+    "content": "对自身周围的敌人发动范围物理攻击。<br>威力：130<br>追加效果：为自身附加疾速状态<br>效果时间：40秒<br>疾速效果：自身的自动攻击间隔、战技与魔法的咏唱及复唱时间缩短15%<br>发动条件：牙剑咬创或牙剑猛袭命中时<br><br>※该技能无法设置到热键栏。<br>满足发动条件时，大牙穿裂变化为大牙疾速。",
     "change": "威力从120变更为130"
   },
   {
     "isDisabled": false,
-    "name": "参の大牙【乱撃】<br/>大牙乱击",
+    "name": "参の大牙【乱撃】<br>大牙乱击",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/a7c0917ef2eebad0e74ffceccb472348016fcb79.png",
     "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -281,12 +281,12 @@
     "distant": "0",
     "range": "5",
     "rangeType": "circle",
-    "content": "对自身周围的敌人发动范围物理攻击。<br>威力：140<br/>大锐牙乱击状态存在时威力提升20<br/>追加效果：为自身附加大锐牙乱裂状态<br/>持续时间：60秒<br/>大锐牙【乱裂】效果：大牙乱裂的威力提升20<br>其它的锐牙与大锐牙效果不会同时生效<br/>追加效果：获得10点灵能<br/>发动条件：大牙猛袭或大牙疾速命中时<br/><br/>※该技能无法设置到热键栏。<br/>满足发动条件时，大牙猛袭变化为大牙乱击。",
+    "content": "对自身周围的敌人发动范围物理攻击。<br>威力：140<br>大锐牙乱击状态存在时威力提升20<br>追加效果：为自身附加大锐牙乱裂状态<br>持续时间：60秒<br>大锐牙【乱裂】效果：大牙乱裂的威力提升20<br>其它的锐牙与大锐牙效果不会同时生效<br>追加效果：获得10点灵能<br>发动条件：大牙猛袭或大牙疾速命中时<br><br>※该技能无法设置到热键栏。<br>满足发动条件时，大牙猛袭变化为大牙乱击。",
     "change": "持续时间从40秒变更为60秒"
   },
   {
     "isDisabled": false,
-    "name": "参の大牙【乱裂】<br/>大牙乱裂",
+    "name": "参の大牙【乱裂】<br>大牙乱裂",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/6715225127c0d7b81affb5d8cbdbb81dbaac8744.png",
     "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -300,12 +300,12 @@
     "distant": "0",
     "range": "5",
     "rangeType": "circle",
-    "content": "对自身周围的敌人发动范围物理攻击。  威力：140<br/>大锐牙乱裂状态存在时威力提升20<br/>追加效果：为自身附加大锐牙乱击状态<br/>持续时间：60秒<br/>大锐牙【乱击】效果：大牙乱击的威力提升20<br>其它的锐牙与大锐牙效果不会同时生效<br/>追加效果：获得10点灵能<br/>发动条件：大牙猛袭或大牙疾速命中时<br/><br/>※该技能无法设置到热键栏。<br/>满足发动条件时，大牙疾速变化为大牙乱裂。",
+    "content": "对自身周围的敌人发动范围物理攻击。  威力：140<br>大锐牙乱裂状态存在时威力提升20<br>追加效果：为自身附加大锐牙乱击状态<br>持续时间：60秒<br>大锐牙【乱击】效果：大牙乱击的威力提升20<br>其它的锐牙与大锐牙效果不会同时生效<br>追加效果：获得10点灵能<br>发动条件：大牙猛袭或大牙疾速命中时<br><br>※该技能无法设置到热键栏。<br>满足发动条件时，大牙疾速变化为大牙乱裂。",
     "change": "持续时间从40秒变更为60秒"
   },
   {
     "isDisabled": false,
-    "name": "蛇尾術<br/>蛇尾术",
+    "name": "蛇尾術<br>蛇尾术",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/462326b75ba66828eb96e0f2d64ef7542daccf38.png",
     "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -324,7 +324,7 @@
   },
   {
     "isDisabled": false,
-    "name": "蛇尾擊<br/>蛇尾击",
+    "name": "蛇尾擊<br>蛇尾击",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/42670e7db3e339182d5d65c29f7acee4319d5360.png",
     "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -338,12 +338,12 @@
     "distant": "5",
     "range": "0",
     "rangeType": "zero",
-    "content": "对目标发动物理攻击。<br>威力：280<br/>发动条件：牙剑背击、牙剑侧裂、牙剑背裂、牙剑侧击连击成功时<br/><br/>※该技能无法设置到热键栏。<br/>满足发动条件时，蛇尾术变化为蛇尾击。",
+    "content": "对目标发动物理攻击。<br>威力：280<br>发动条件：牙剑背击、牙剑侧裂、牙剑背裂、牙剑侧击连击成功时<br><br>※该技能无法设置到热键栏。<br>满足发动条件时，蛇尾术变化为蛇尾击。",
     "change": "威力从250变更为280"
   },
   {
     "isDisabled": false,
-    "name": "蛇尾閃<br/>蛇尾闪",
+    "name": "蛇尾閃<br>蛇尾闪",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/6931cd1152c69f96360689e0e61a8c6cabfafe46.png",
     "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -357,12 +357,12 @@
     "distant": "0",
     "range": "5",
     "rangeType": "circle",
-    "content": "对自身周围的敌人发动范围物理攻击。<br>威力：100<br/>发动条件：大牙乱击、大牙乱裂连击成功时<br/><br/>※该技能无法设置到热键栏。<br/>满足发动条件时，蛇尾术变化为蛇尾闪。",
+    "content": "对自身周围的敌人发动范围物理攻击。<br>威力：100<br>发动条件：大牙乱击、大牙乱裂连击成功时<br><br>※该技能无法设置到热键栏。<br>满足发动条件时，蛇尾术变化为蛇尾闪。",
     "change": ""
   },
   {
     "isDisabled": false,
-    "name": "壱の蛇【強砕】<br/>蛇剑强碎",
+    "name": "壱の蛇【強砕】<br>蛇剑强碎",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/7958ea7095b37de74593fd6d1426d74177e46536.png",
     "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -376,12 +376,12 @@
     "distant": "3",
     "range": "0",
     "rangeType": "zero",
-    "content": "对目标发动物理攻击。<br>威力：500<br/>追加效果：获得1档飞蛇之魂<br/>最大档数：3档<br/>积蓄次数：2次<br/>该技能不仅有单独计算的复唱时间，还会与大蛇强碎共享复唱时间。",
+    "content": "对目标发动物理攻击。<br>威力：500<br>追加效果：获得1档飞蛇之魂<br>最大档数：3档<br>积蓄次数：2次<br>该技能不仅有单独计算的复唱时间，还会与大蛇强碎共享复唱时间。",
     "change": "技能名变更<br>删除惨毒效果<br>威力从450变更为500"
   },
   {
     "isDisabled": false,
-    "name": "弐の蛇【猛襲】<br/>蛇剑猛袭",
+    "name": "弐の蛇【猛襲】<br>蛇剑猛袭",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/a9a91ec0b652e92408c4211e510ffca14d7498cd.png",
     "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -395,12 +395,12 @@
     "distant": "3",
     "range": "0",
     "rangeType": "zero",
-    "content": "对目标发动物理攻击。<br>威力：570<br/>侧面攻击时威力：620<br/>追加效果：为自身附加猛袭状态<br/>持续时间：40秒<br/>猛袭效果：自身发动攻击造成的伤害提高10%<br/>追加效果：为自身附加双锐牙连击状态<br/>持续时间：30秒<br/>双锐牙连击效果：双牙连击的威力提高50<br/>追加效果：获得5点灵能<br/>这个技能命中后，双牙连术变成双牙连击，双牙乱术变成双牙乱击，并且各自可以发动一次<br/>发动条件：蛇剑强碎或蛇剑疾速发动后<br/>该战技有单独计算的复唱时间。",
+    "content": "对目标发动物理攻击。<br>威力：570<br>侧面攻击时威力：620<br>追加效果：为自身附加猛袭状态<br>持续时间：40秒<br>猛袭效果：自身发动攻击造成的伤害提高10%<br>追加效果：为自身附加双锐牙连击状态<br>持续时间：30秒<br>双锐牙连击效果：双牙连击的威力提高50<br>追加效果：获得5点灵能<br>这个技能命中后，双牙连术变成双牙连击，双牙乱术变成双牙乱击，并且各自可以发动一次<br>发动条件：蛇剑强碎或蛇剑疾速发动后<br>该战技有单独计算的复唱时间。",
     "change": "威力从500变更为570<br>侧面攻击时威力从550变更为620"
   },
   {
     "isDisabled": false,
-    "name": "弐の蛇【疾速】<br/>蛇剑疾速",
+    "name": "弐の蛇【疾速】<br>蛇剑疾速",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/2ff8a8c9e5710f229b6d3dc3e19ea40c7908cb50.png",
     "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -414,12 +414,12 @@
     "distant": "3",
     "range": "0",
     "rangeType": "zero",
-    "content": "对目标发动物理攻击。<br>威力：570<br/>背面攻击时威力：620<br/>追加效果：为自身附加疾速状态<br/>持续时间：40秒<br/>疾速效果：自身的自动攻击间隔、战技与魔法的咏唱及复唱时间缩短15%<br/>追加效果：为自身附加双锐牙乱击状态<br/>持续时间：30秒<br/>双锐牙乱击效果：双牙乱击的威力提高50<br/>追加效果：获得5点灵能<br/>这个技能命中后，双牙连术变成双牙连击，双牙乱术变成双牙乱击，并且各自可以发动一次<br/>发动条件：蛇剑强碎或蛇剑猛袭发动后<br/>该战技有单独计算的复唱时间。",
+    "content": "对目标发动物理攻击。<br>威力：570<br>背面攻击时威力：620<br>追加效果：为自身附加疾速状态<br>持续时间：40秒<br>疾速效果：自身的自动攻击间隔、战技与魔法的咏唱及复唱时间缩短15%<br>追加效果：为自身附加双锐牙乱击状态<br>持续时间：30秒<br>双锐牙乱击效果：双牙乱击的威力提高50<br>追加效果：获得5点灵能<br>这个技能命中后，双牙连术变成双牙连击，双牙乱术变成双牙乱击，并且各自可以发动一次<br>发动条件：蛇剑强碎或蛇剑猛袭发动后<br>该战技有单独计算的复唱时间。",
     "change": "威力从500变更为570<br>侧面攻击时威力从550变更为620"
   },
   {
     "isDisabled": false,
-    "name": "壱の大蛇【強砕】<br/>大蛇强碎",
+    "name": "壱の大蛇【強砕】<br>大蛇强碎",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/13c9698f33d48e95d53bb67e7eef68bfff122e14.png",
     "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -433,12 +433,12 @@
     "distant": "0",
     "range": "5",
     "rangeType": "circle",
-    "content": "对自身周围的敌人发动范围物理攻击。<br>威力：220<br/>追加效果：获得1档飞蛇之魂<br/>最大档数：3档<br/>积蓄次数：2次<br/>该技能不仅有单独计算的复唱时间，还会与蛇剑强碎共享复唱时间。",
+    "content": "对自身周围的敌人发动范围物理攻击。<br>威力：220<br>追加效果：获得1档飞蛇之魂<br>最大档数：3档<br>积蓄次数：2次<br>该技能不仅有单独计算的复唱时间，还会与蛇剑强碎共享复唱时间。",
     "change": "技能名变更<br>删除惨毒效果<br>威力从200变更为220"
   },
   {
     "isDisabled": false,
-    "name": "弐の大蛇【猛襲】<br/>大蛇猛袭",
+    "name": "弐の大蛇【猛襲】<br>大蛇猛袭",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/d807e8e444e8cb313a14e04f5c4d9f3af91b9706.png",
     "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -452,12 +452,12 @@
     "distant": "0",
     "range": "5",
     "rangeType": "circle",
-    "content": "对自身周围的敌人发动范围物理攻击。<br>威力：280<br/>追加效果：为自身附加猛袭状态<br/>持续时间：40秒<br/>猛袭效果：自身发动攻击造成的伤害提高10%<br/>追加效果：为自身附加双锐牙连闪状态<br/>持续时间：30秒<br/>双锐牙连闪效果：双牙连闪的威力提高30<br/>追加效果：获得5点灵能<br/>这个技能命中后，双牙连术变成双牙连闪，双牙乱术变成双牙乱闪，并且各自可以发动一次<br/>发动条件：大蛇强碎或大蛇疾速发动后<br/>该战技有单独计算的复唱时间。",
+    "content": "对自身周围的敌人发动范围物理攻击。<br>威力：280<br>追加效果：为自身附加猛袭状态<br>持续时间：40秒<br>猛袭效果：自身发动攻击造成的伤害提高10%<br>追加效果：为自身附加双锐牙连闪状态<br>持续时间：30秒<br>双锐牙连闪效果：双牙连闪的威力提高30<br>追加效果：获得5点灵能<br>这个技能命中后，双牙连术变成双牙连闪，双牙乱术变成双牙乱闪，并且各自可以发动一次<br>发动条件：大蛇强碎或大蛇疾速发动后<br>该战技有单独计算的复唱时间。",
     "change": "威力从250变更为280"
   },
   {
     "isDisabled": false,
-    "name": "弐の大蛇【疾速】<br/>大蛇疾速",
+    "name": "弐の大蛇【疾速】<br>大蛇疾速",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/2425fc375286fe6776b09f0db2f020faec679bfd.png",
     "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -471,12 +471,12 @@
     "distant": "0",
     "range": "5",
     "rangeType": "circle",
-    "content": "对自身周围的敌人发动范围物理攻击。<br>威力：250<br/>追加效果：为自身附加疾速状态<br/>持续时间：40秒<br/>疾速效果：自身的自动攻击间隔、战技与魔法的咏唱及复唱时间缩短15%<br/>追加效果：为自身附加双锐牙乱闪状态<br/>持续时间：30秒<br/>双锐牙乱闪效果：双牙乱闪的威力提高50<br/>追加效果：获得5点灵能<br/>这个技能命中后，双牙连术变成双牙连击，双牙乱术变成双牙乱击，并且各自可以发动一次<br/>发动条件：大蛇强碎或大蛇猛袭发动后<br/>该战技有单独计算的复唱时间。",
+    "content": "对自身周围的敌人发动范围物理攻击。<br>威力：250<br>追加效果：为自身附加疾速状态<br>持续时间：40秒<br>疾速效果：自身的自动攻击间隔、战技与魔法的咏唱及复唱时间缩短15%<br>追加效果：为自身附加双锐牙乱闪状态<br>持续时间：30秒<br>双锐牙乱闪效果：双牙乱闪的威力提高50<br>追加效果：获得5点灵能<br>这个技能命中后，双牙连术变成双牙连击，双牙乱术变成双牙乱击，并且各自可以发动一次<br>发动条件：大蛇强碎或大蛇猛袭发动后<br>该战技有单独计算的复唱时间。",
     "change": "威力从250变更为280"
   },
   {
     "isDisabled": false,
-    "name": "双牙連術<br/>双牙连术",
+    "name": "双牙連術<br>双牙连术",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/c0a3ce4ca4284759ef6ac5592b351f6985fe4edd.png",
     "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -495,7 +495,7 @@
   },
   {
     "isDisabled": false,
-    "name": "双牙乱術<br/>双牙乱术",
+    "name": "双牙乱術<br>双牙乱术",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/0093aca28c0a2877e6fb631b24af1d0b77c46f92.png",
     "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -514,7 +514,7 @@
   },
   {
     "isDisabled": false,
-    "name": "双牙連擊<br/>双牙连击",
+    "name": "双牙連擊<br>双牙连击",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/7f157bebbaa01d92600ee604fbce64f969730966.png",
     "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -528,12 +528,12 @@
     "distant": "5",
     "range": "0",
     "rangeType": "zero",
-    "content": "对目标发动物理攻击。<br>威力：120<br/>双锐牙连击时威力：170<br/>追加效果：蛇剑猛袭发动之后发动会为自身附加双锐牙乱击状态<br/>持续时间：30秒<br/>发动条件：蛇剑猛袭或蛇剑疾速连击成功时<br/><br/>※该技能无法设置到热键栏。<br/>满足发动条件时，双牙连术变化为双牙连击。",
+    "content": "对目标发动物理攻击。<br>威力：120<br>双锐牙连击时威力：170<br>追加效果：蛇剑猛袭发动之后发动会为自身附加双锐牙乱击状态<br>持续时间：30秒<br>发动条件：蛇剑猛袭或蛇剑疾速连击成功时<br><br>※该技能无法设置到热键栏。<br>满足发动条件时，双牙连术变化为双牙连击。",
     "change": "威力从100变更为120<br>双锐牙连击时威力从150变更为170"
   },
   {
     "isDisabled": false,
-    "name": "双牙乱擊<br/>双牙乱击",
+    "name": "双牙乱擊<br>双牙乱击",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/d2e6fe2cd7f5e0ac0170f7aeb78639533e4f7cc7.png",
     "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -547,12 +547,12 @@
     "distant": "5",
     "range": "0",
     "rangeType": "zero",
-    "content": "对目标发动物理攻击。<br>威力：120<br/>双锐牙乱击时威力：170<br/>追加效果：蛇剑猛袭发动之后发动会为自身附加双锐牙连击状态<br/>持续时间：30秒<br/>发动条件：蛇剑猛袭或蛇剑疾速连击成功时<br/><br/>※该技能无法设置到热键栏。<br/>满足发动条件时，双牙乱术变化为双牙乱击。",
+    "content": "对目标发动物理攻击。<br>威力：120<br>双锐牙乱击时威力：170<br>追加效果：蛇剑猛袭发动之后发动会为自身附加双锐牙连击状态<br>持续时间：30秒<br>发动条件：蛇剑猛袭或蛇剑疾速连击成功时<br><br>※该技能无法设置到热键栏。<br>满足发动条件时，双牙乱术变化为双牙乱击。",
     "change": "威力从100变更为120<br>双锐牙乱击时威力从150变更为170"
   },
   {
     "isDisabled": false,
-    "name": "双牙連閃<br/>双牙连闪",
+    "name": "双牙連閃<br>双牙连闪",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/94a94c69ef3f58b4b0601e1f04fdef144ad2830f.png",
     "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -566,12 +566,12 @@
     "distant": "0",
     "range": "5",
     "rangeType": "circle",
-    "content": "对自身周围的敌人发动范围物理攻击。<br>威力：50<br/>双锐牙连闪时威力：80<br/>追加效果：大蛇猛袭发动之后发动会为自身附加双锐牙乱闪状态<br/>持续时间：30秒<br/>发动条件：大蛇猛袭或大蛇疾速连击成功时<br/><br/>※该技能无法设置到热键栏。<br/>满足发动条件时，双牙连术变化为双牙连闪。",
+    "content": "对自身周围的敌人发动范围物理攻击。<br>威力：50<br>双锐牙连闪时威力：80<br>追加效果：大蛇猛袭发动之后发动会为自身附加双锐牙乱闪状态<br>持续时间：30秒<br>发动条件：大蛇猛袭或大蛇疾速连击成功时<br><br>※该技能无法设置到热键栏。<br>满足发动条件时，双牙连术变化为双牙连闪。",
     "change": ""
   },
   {
     "isDisabled": false,
-    "name": "双牙乱閃<br/>双牙乱闪",
+    "name": "双牙乱閃<br>双牙乱闪",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/29c3f69d1f38de7049262c99da58d8ff8ba8607d.png",
     "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -585,12 +585,12 @@
     "distant": "0",
     "range": "5",
     "rangeType": "circle",
-    "content": "对自身周围的敌人发动范围物理攻击。<br>威力：50<br/>双锐牙乱闪时威力：80<br/>追加效果：大蛇疾速发动之后发动会为自身附加双锐牙连闪状态<br/>持续时间：30秒<br/>发动条件：大蛇猛袭或大蛇疾速连击成功时<br/><br/>※该技能无法设置到热键栏。<br/>满足发动条件时，双牙乱术变化为双牙乱闪。",
+    "content": "对自身周围的敌人发动范围物理攻击。<br>威力：50<br>双锐牙乱闪时威力：80<br>追加效果：大蛇疾速发动之后发动会为自身附加双锐牙连闪状态<br>持续时间：30秒<br>发动条件：大蛇猛袭或大蛇疾速连击成功时<br><br>※该技能无法设置到热键栏。<br>满足发动条件时，双牙乱术变化为双牙乱闪。",
     "change": ""
   },
   {
     "isDisabled": false,
-    "name": "飛蛇の尾<br/>飞蛇之尾",
+    "name": "飛蛇の尾<br>飞蛇之尾",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/9b1b65c7abae88ab3c5ba775a7eda8e6afccf3b2.png",
     "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -604,12 +604,12 @@
     "distant": "20",
     "range": "5",
     "rangeType": "circle",
-    "content": "对目标及其周围敌人发动范围物理攻击。<br>威力：680<br/>攻击复数敌人时，对目标之外的敌人威力降低50%<br/>追加效果：为自身附加飞锐尾连尾状态<br>持续时间：60秒<br>飞锐尾连尾状态效果：飞蛇连尾击威力提升50<br/>这个技能命中后，双牙连术变成飞蛇连尾击，双牙乱术变成飞蛇乱尾击，并且各自可以发动一次<br/>发动条件：飞蛇之魂<br/>该战技有单独计算的复唱时间。",
+    "content": "对目标及其周围敌人发动范围物理攻击。<br>威力：680<br>攻击复数敌人时，对目标之外的敌人威力降低50%<br>追加效果：为自身附加飞锐尾连尾状态<br>持续时间：60秒<br>飞锐尾连尾状态效果：飞蛇连尾击威力提升50<br>这个技能命中后，双牙连术变成飞蛇连尾击，双牙乱术变成飞蛇乱尾击，并且各自可以发动一次<br>发动条件：飞蛇之魂<br>该战技有单独计算的复唱时间。",
     "change": "威力从600变更为680"
   },
   {
     "isDisabled": false,
-    "name": "蛇の霊気<br/>蛇之灵气",
+    "name": "蛇の霊気<br>蛇之灵气",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/07ad6a7df65952f604f164eb4ac1cb99238dd871.png",
     "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -623,12 +623,12 @@
     "distant": "0",
     "range": "0",
     "rangeType": "zero",
-    "content": "对自身附加1档飞蛇之魂<br/>此外，为自身附加祖灵降临预备状态<br/>持续时间：30秒<br>发动条件：自身处于战斗状态中",
+    "content": "对自身附加1档飞蛇之魂<br>此外，为自身附加祖灵降临预备状态<br>持续时间：30秒<br>发动条件：自身处于战斗状态中",
     "change": ""
   },
   {
     "isDisabled": false,
-    "name": "祖霊降ろし<br/>祖灵降临",
+    "name": "祖霊降ろし<br>祖灵降临",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/747eae977c8adbe87254c934e1e890fc54a85b50.png",
     "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -642,12 +642,12 @@
     "distant": "0",
     "range": "5",
     "rangeType": "circle",
-    "content": "对自身周围的敌人发动范围物理攻击。<br>威力：750<br/>攻击复数敌人时，对目标之外的敌人威力降低60%<br/>追加效果：为自身附加5档灵力<br/>持续时间：30秒<br/>发动条件：灵能50点<br/>该战技有单独计算的复唱时间。",
+    "content": "对自身周围的敌人发动范围物理攻击。<br>威力：750<br>攻击复数敌人时，对目标之外的敌人威力降低60%<br>追加效果：为自身附加5档灵力<br>持续时间：30秒<br>发动条件：灵能50点<br>该战技有单独计算的复唱时间。",
     "change": "威力从700变更为750"
   },
   {
     "isDisabled": false,
-    "name": "祖霊の牙【壱】<br/>灵牙一式",
+    "name": "祖霊の牙【壱】<br>灵牙一式",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/0669ed905da6f1885333d21619a678cf6b382a72.png",
     "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -661,12 +661,12 @@
     "distant": "3",
     "range": "5",
     "rangeType": "circle",
-    "content": "对目标及其周围敌人发动范围物理攻击。<br>威力：480<br/>祖灵降临发动之后发动威力提升到680<br/>攻击复数敌人时，对目标之外的敌人威力降低60%<br/>发动条件：灵力<br/>该战技有单独计算的复唱时间。<br/><br/>※该技能无法设置到热键栏。<br/>满足发动条件时，牙剑咬创和大牙咬创变化为灵牙一式。",
+    "content": "对目标及其周围敌人发动范围物理攻击。<br>威力：480<br>祖灵降临发动之后发动威力提升到680<br>攻击复数敌人时，对目标之外的敌人威力降低60%<br>发动条件：灵力<br>该战技有单独计算的复唱时间。<br><br>※该技能无法设置到热键栏。<br>满足发动条件时，牙剑咬创和大牙咬创变化为灵牙一式。",
     "change": "威力从400变更为480<br>祖灵降临发动之后发动威力提升从600变更为680"
   },
   {
     "isDisabled": false,
-    "name": "祖霊の牙【弐】<br/>灵牙二式",
+    "name": "祖霊の牙【弐】<br>灵牙二式",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/0c534882c858afef2cee59ccf78664dac5f5d28e.png",
     "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -680,12 +680,12 @@
     "distant": "3",
     "range": "5",
     "rangeType": "circle",
-    "content": "对目标及其周围敌人发动范围物理攻击。<br>威力：480<br/>灵牙一式发动之后发动威力提升到680<br/>发动条件：灵力<br/>该战技有单独计算的复唱时间。<br/><br/>※该技能无法设置到热键栏。<br/>满足发动条件时，牙剑穿裂和大牙穿裂变化为灵牙二式。",
+    "content": "对目标及其周围敌人发动范围物理攻击。<br>威力：480<br>灵牙一式发动之后发动威力提升到680<br>发动条件：灵力<br>该战技有单独计算的复唱时间。<br><br>※该技能无法设置到热键栏。<br>满足发动条件时，牙剑穿裂和大牙穿裂变化为灵牙二式。",
     "change": "威力从400变更为480<br>祖灵降临发动之后发动威力提升从600变更为680"
   },
   {
     "isDisabled": false,
-    "name": "祖霊の牙【参】<br/>灵牙三式",
+    "name": "祖霊の牙【参】<br>灵牙三式",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/bac0b9c0fc9068b083e47d645b2db52d8888ae7e.png",
     "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -699,12 +699,12 @@
     "distant": "3",
     "range": "5",
     "rangeType": "circle",
-    "content": "对目标及其周围敌人发动范围物理攻击。<br>威力：480<br/>灵牙二式发动之后发动威力提升到680<br/>攻击复数敌人时，对目标之外的敌人威力降低60%<br/>发动条件：灵力<br/>该战技有单独计算的复唱时间。<br/><br/>※该技能无法设置到热键栏。<br/>满足发动条件时，牙剑猛袭和大牙猛袭变化为灵牙三式。",
+    "content": "对目标及其周围敌人发动范围物理攻击。<br>威力：480<br>灵牙二式发动之后发动威力提升到680<br>攻击复数敌人时，对目标之外的敌人威力降低60%<br>发动条件：灵力<br>该战技有单独计算的复唱时间。<br><br>※该技能无法设置到热键栏。<br>满足发动条件时，牙剑猛袭和大牙猛袭变化为灵牙三式。",
     "change": "威力从400变更为480<br>祖灵降临发动之后发动威力提升从600变更为680"
   },
   {
     "isDisabled": false,
-    "name": "祖霊の牙【肆】<br/>灵牙四式",
+    "name": "祖霊の牙【肆】<br>灵牙四式",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/718f70f8e5f985309a09171ba83bcf34fba0cbf9.png",
     "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -718,12 +718,12 @@
     "distant": "3",
     "range": "5",
     "rangeType": "circle",
-    "content": "对目标及其周围敌人发动范围物理攻击。<br>威力：480<br/>灵牙三式发动之后发动威力提升到680<br/>攻击复数敌人时，对目标之外的敌人威力降低60%<br/>发动条件：灵力<br/>该战技有单独计算的复唱时间。<br/><br/>※该技能无法设置到热键栏。<br/>满足发动条件时，牙剑疾速和大牙疾速变化为灵牙四式。",
+    "content": "对目标及其周围敌人发动范围物理攻击。<br>威力：480<br>灵牙三式发动之后发动威力提升到680<br>攻击复数敌人时，对目标之外的敌人威力降低60%<br>发动条件：灵力<br>该战技有单独计算的复唱时间。<br><br>※该技能无法设置到热键栏。<br>满足发动条件时，牙剑疾速和大牙疾速变化为灵牙四式。",
     "change": "威力从400变更为480<br>祖灵降临发动之后发动威力提升从600变更为680"
   },
   {
     "isDisabled": false,
-    "name": "飛蛇連尾撃<br/>飞蛇连尾击",
+    "name": "飛蛇連尾撃<br>飞蛇连尾击",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/fb4eb443e7d759b2e6e01ead35aa6b6dd73abf4c.png",
     "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -737,12 +737,12 @@
     "distant": "20",
     "range": "5",
     "rangeType": "circle",
-    "content": "对目标及其周围敌人发动范围物理攻击。<br>威力：120<br/>飞锐尾连尾时威力：170<br/>攻击复数敌人时，对目标之外的敌人威力降低50%<br/>追加效果：为自身附加飞锐尾乱尾状态<br/>持续时间：60秒<br/>发动条件：飞蛇之尾发动后<br/><br/>※该技能无法设置到热键栏。<br/>满足发动条件时，双牙连术变化为飞蛇连尾击。",
+    "content": "对目标及其周围敌人发动范围物理攻击。<br>威力：120<br>飞锐尾连尾时威力：170<br>攻击复数敌人时，对目标之外的敌人威力降低50%<br>追加效果：为自身附加飞锐尾乱尾状态<br>持续时间：60秒<br>发动条件：飞蛇之尾发动后<br><br>※该技能无法设置到热键栏。<br>满足发动条件时，双牙连术变化为飞蛇连尾击。",
     "change": "威力从100变更为120<br>飞锐尾连尾时威力从150变更为170"
   },
   {
     "isDisabled": false,
-    "name": "飛蛇乱尾撃<br/>飞蛇乱尾击",
+    "name": "飛蛇乱尾撃<br>飞蛇乱尾击",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/eb4f394f15241c1820a674ba2f671d005ab431cf.png",
     "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -756,12 +756,12 @@
     "distant": "20",
     "range": "5",
     "rangeType": "circle",
-    "content": "对目标及其周围敌人发动范围物理攻击。<br>威力：120<br/>飞锐尾乱尾时威力：170<br/>攻击复数敌人时，对目标之外的敌人威力降低50%<br/>发动条件：飞蛇之尾发动后<br/><br/>※该技能无法设置到热键栏。<br/>满足发动条件时，双牙乱术变化为飞蛇乱尾击。",
+    "content": "对目标及其周围敌人发动范围物理攻击。<br>威力：120<br>飞锐尾乱尾时威力：170<br>攻击复数敌人时，对目标之外的敌人威力降低50%<br>发动条件：飞蛇之尾发动后<br><br>※该技能无法设置到热键栏。<br>满足发动条件时，双牙乱术变化为飞蛇乱尾击。",
     "change": "威力从100变更为120<br>飞锐尾乱尾时威力从150变更为170"
   },
   {
     "isDisabled": false,
-    "name": "祖霊の大蛇牙<br/>祖灵大蛇牙",
+    "name": "祖霊の大蛇牙<br>祖灵大蛇牙",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/9c66e4147b2a5467f541734d3aedc5e0f1522b07.png",
     "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -775,12 +775,12 @@
     "distant": "3",
     "range": "5",
     "rangeType": "circle",
-    "content": "对目标及其周围敌人发动范围物理攻击。<br>威力：1150<br/>攻击复数敌人时，对目标之外的敌人威力降低60%<br/>发动后祖灵降临状态消失<br/>发动条件：灵力1档以上<br/>该战技有单独计算的复唱时间。<br/><br/>※该技能无法设置到热键栏。<br/>满足发动条件时，祖灵降临变化为祖灵大蛇牙。",
+    "content": "对目标及其周围敌人发动范围物理攻击。<br>威力：1150<br>攻击复数敌人时，对目标之外的敌人威力降低60%<br>发动后祖灵降临状态消失<br>发动条件：灵力1档以上<br>该战技有单独计算的复唱时间。<br><br>※该技能无法设置到热键栏。<br>满足发动条件时，祖灵降临变化为祖灵大蛇牙。",
     "change": "威力从1050变更为1150"
   },
   {
     "isDisabled": false,
-    "name": "祖霊の蛇【壱】<br/>灵蛇一式",
+    "name": "祖霊の蛇【壱】<br>灵蛇一式",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/a7750d692ef417ce934373dab4f71214ca5d6676.png",
     "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -794,12 +794,12 @@
     "distant": "3",
     "range": "5",
     "rangeType": "circle",
-    "content": "对目标及其周围敌人发动范围物理攻击。<br>威力：280<br/>攻击复数敌人时，对目标之外的敌人威力降低60%<br/>发动条件：灵牙一式发动后<br/><br/>※该技能无法设置到热键栏。<br/>满足发动条件时，蛇尾术变化为灵牙一式。",
+    "content": "对目标及其周围敌人发动范围物理攻击。<br>威力：280<br>攻击复数敌人时，对目标之外的敌人威力降低60%<br>发动条件：灵牙一式发动后<br><br>※该技能无法设置到热键栏。<br>满足发动条件时，蛇尾术变化为灵牙一式。",
     "change": "威力从250变更为280"
   },
   {
     "isDisabled": false,
-    "name": "祖霊の蛇【弐】<br/>灵蛇二式",
+    "name": "祖霊の蛇【弐】<br>灵蛇二式",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/845aa0a62b6afed88ac65e36b63ec0e171526aa4.png",
     "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -813,12 +813,12 @@
     "distant": "3",
     "range": "5",
     "rangeType": "circle",
-    "content": "对目标及其周围敌人发动范围物理攻击。<br>威力：280<br>攻击复数敌人时，对目标之外的敌人威力降低60%<br/>发动条件：灵牙二式发动后<br/><br/>※该技能无法设置到热键栏。<br/>满足发动条件时，蛇尾术变化为灵牙二式。",
+    "content": "对目标及其周围敌人发动范围物理攻击。<br>威力：280<br>攻击复数敌人时，对目标之外的敌人威力降低60%<br>发动条件：灵牙二式发动后<br><br>※该技能无法设置到热键栏。<br>满足发动条件时，蛇尾术变化为灵牙二式。",
     "change": "威力从250变更为280"
   },
   {
     "isDisabled": false,
-    "name": "祖霊の蛇【参】<br/>灵蛇三式",
+    "name": "祖霊の蛇【参】<br>灵蛇三式",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/6fbd15532cd7c980e0f5c55b40d641d64c849b17.png",
     "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -832,12 +832,12 @@
     "distant": "3",
     "range": "5",
     "rangeType": "circle",
-    "content": "对目标及其周围敌人发动范围物理攻击。<br>威力：280<br/>攻击复数敌人时，对目标之外的敌人威力降低60%<br/>发动条件：灵牙三式发动后<br/><br/>※该技能无法设置到热键栏。<br/>满足发动条件时，蛇尾术变化为灵牙三式。",
+    "content": "对目标及其周围敌人发动范围物理攻击。<br>威力：280<br>攻击复数敌人时，对目标之外的敌人威力降低60%<br>发动条件：灵牙三式发动后<br><br>※该技能无法设置到热键栏。<br>满足发动条件时，蛇尾术变化为灵牙三式。",
     "change": "威力从250变更为280"
   },
   {
     "isDisabled": false,
-    "name": "祖霊の蛇【肆】<br/>灵蛇四式",
+    "name": "祖霊の蛇【肆】<br>灵蛇四式",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/479c9e0777b6a210f15ef8215c2bac81c1c5ffb0.png",
     "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -851,7 +851,7 @@
     "distant": "3",
     "range": "5",
     "rangeType": "circle",
-    "content": "对目标及其周围敌人发动范围物理攻击。<br>威力：280<br/>攻击复数敌人时，对目标之外的敌人威力降低60%<br/>发动条件：灵牙四式发动后<br/><br/>※该技能无法设置到热键栏。<br/>满足发动条件时，蛇尾术变化为灵牙四式。",
+    "content": "对目标及其周围敌人发动范围物理攻击。<br>威力：280<br>攻击复数敌人时，对目标之外的敌人威力降低60%<br>发动条件：灵牙四式发动后<br><br>※该技能无法设置到热键栏。<br>满足发动条件时，蛇尾术变化为灵牙四式。",
     "change": "威力从250变更为280"
   }
 ]
