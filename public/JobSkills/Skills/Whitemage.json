@@ -148,8 +148,8 @@
         "distant": "0",
         "rangeType": "zero",
         "range": "0",
-        "content": "一定时间内，自身的自动攻击间隔、魔法的咏唱及复唱时间缩短20%<br>持续时间：15秒<br>追加效果：3档闪爆预备<br>持续时间：30秒",
-        "change": "新增“追加效果：3档闪爆预备<br>持续时间：30秒”"
+        "content": "一定时间内，自身的自动攻击间隔、魔法的咏唱及复唱时间缩短20%<br>持续时间：15秒<br>追加效果：3档闪飒预备<br>持续时间：30秒",
+        "change": "新增“追加效果：3档闪飒预备<br>持续时间：30秒”"
     },
     {
         "isDisabled": false,
@@ -191,7 +191,7 @@
     },
     {
         "isDisabled": false,
-        "name": "Aetherial Shift<br>以太位移",
+        "name": "以太变移",
         "ndes": "",
         "pic": "https://lds-img.finalfantasyxiv.com/d/d69b1e0884f3f4edac543210cd9b42d74c2b3f25.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/Na619RGtVtbEvNn1vyFoSlvZ84.png",
@@ -452,8 +452,8 @@
         "distant": "0",
         "rangeType": "circle",
         "range": "20",
-        "content": "为自身与周围队员附加全大赦状态<br>持续时间：10秒<br>在状态中使用医治、愈疗、医沐、狂喜之心，会使目标产生额外的恢复效果<br>恢复力：200",
-        "change": "新增效果对象“医沐”"
+        "content": "为自身与周围队员附加全大赦状态<br>持续时间：10秒<br>在状态中使用医治、愈疗、医养、狂喜之心，会使目标产生额外的恢复效果<br>恢复力：200",
+        "change": "新增效果对象“医养”"
     },
     {
         "isDisabled": false,
@@ -628,7 +628,7 @@
     },
     {
         "isDisabled": false,
-        "name": "Glare IV<br>闪爆",
+        "name": "闪飒",
         "ndes": "",
         "pic": "https://lds-img.finalfantasyxiv.com/d/8114a12aa7d10fbe87b9edfe0fc6257adec7a06f.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/Na619RGtVtbEvNn1vyFoSlvZ84.png",
@@ -642,12 +642,12 @@
         "distant": "25",
         "rangeType": "circle",
         "range": "5",
-        "content": "对目标及其周围的敌人发动无属性范围魔法攻击<br>威力：640<br>攻击复数敌人时，对目标之外的敌人威力降低40%<br>发动条件：闪爆预备状态中",
+        "content": "对目标及其周围的敌人发动无属性范围魔法攻击<br>威力：640<br>攻击复数敌人时，对目标之外的敌人威力降低40%<br>发动条件：闪飒预备状态中",
         "change": "新增技能"
     },
     {
         "isDisabled": false,
-        "name": "Medica III<br>医沐",
+        "name": "医养",
         "ndes": "",
         "pic": "https://lds-img.finalfantasyxiv.com/d/afd378388b20cba91d3988c04efeff1256eae7b3.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/Na619RGtVtbEvNn1vyFoSlvZ84.png",
@@ -666,7 +666,7 @@
     },
     {
         "isDisabled": false,
-        "name": "Divine Caress<br>神爱抚",
+        "name": "神爱抚",
         "ndes": "",
         "pic": "https://lds-img.finalfantasyxiv.com/d/94e9cc4b561ab6fca2c4a92cdbb2c86cd7825df9.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/Na619RGtVtbEvNn1vyFoSlvZ84.png",

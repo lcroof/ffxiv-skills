@@ -199,7 +199,7 @@
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/Na619RGtVtbEvNn1vyFoSlvZ84.png",
         "tname": "白魔法师",
         "lvl": "Lv92",
-        "content": "对自身附加3档闪爆预备状态<br>持续时间：30秒<br>发动条件：神速咏唱",
+        "content": "对自身附加3档闪飒预备状态<br>持续时间：30秒<br>发动条件：神速咏唱",
         "change": "新增特性"
     },
     {
@@ -223,7 +223,7 @@
         "tname": "白魔法师",
         "ticon": "",
         "lvl": "Lv96",
-        "content": "医济变为医沐",
+        "content": "医济变为医养",
         "change": "新增特性"
     },
     {

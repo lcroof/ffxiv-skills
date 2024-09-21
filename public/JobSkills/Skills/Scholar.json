@@ -685,7 +685,7 @@
     },
     {
         "isDisabled": false,
-        "name": "埋伏の毒<br>埋伏之毒",
+        "name": "埋伏之毒",
         "ndes": "",
         "pic": "https://img.picgo.net/2024/06/09/15105585ebe5c2ff5.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/2r8fm3U0Io7Pw1XT1tvnjPthp4.png",
@@ -704,7 +704,7 @@
     },
     {
         "isDisabled": false,
-        "name": "意気軒昂の策<br>意气轩昂之策",
+        "name": "意气轩昂之策",
         "ndes": "",
         "pic": "https://img.picgo.net/2024/06/09/214999402693e7624.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/2r8fm3U0Io7Pw1XT1tvnjPthp4.png",
@@ -723,7 +723,7 @@
     },
     {
         "isDisabled": false,
-        "name": "セラフィズム<br>炽天主义",
+        "name": "炽天附体",
         "ndes": "",
         "pic": "https://img.picgo.net/2024/06/09/36871a9a233116f4b.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/2r8fm3U0Io7Pw1XT1tvnjPthp4.png",
@@ -737,12 +737,12 @@
         "distant": "0",
         "rangeType": "zero",
         "range": "0",
-        "content": "一定时间内，持续恢复自身及周围50m内的队员的体力<br>恢复力：100<br>追加效果：鼓舞激励之策变为顿悟，意气轩昂之策变为通明<br>同时，重置应急战术复唱时间并使其复唱时间减为1秒<br>持续时间：20秒<br>该技能无法与转化效果叠加<br>发动条件：自身处于战斗状态且小仙女处于同行状态",
+        "content": "一定时间内，持续恢复自身及周围50m内的队员的体力<br>恢复力：100<br>追加效果：鼓舞激励之策变为显灵之章，意气轩昂之策变为降临之章<br>同时，重置应急战术复唱时间并使其复唱时间减为1秒<br>持续时间：20秒<br>该技能无法与转化效果叠加<br>发动条件：自身处于战斗状态且小仙女处于同行状态",
         "change": "新增技能"
     },
     {
         "isDisabled": false,
-        "name": "マニフェステーション<br>顿悟",
+        "name": "显灵之章",
         "ndes": "",
         "pic": "https://img.picgo.net/2024/06/09/421da0955300915f5.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/2r8fm3U0Io7Pw1XT1tvnjPthp4.png",
@@ -756,12 +756,12 @@
         "distant": "30",
         "rangeType": "zero",
         "range": "0",
-        "content": "恢复目标的体力<br>恢复力：360<br>追加效果：为目标附加能够抵御一定伤害的防护罩鼓舞<br>鼓舞效果：抵消相当于治疗量180%的伤害<br>持续时间：30秒<br>无法与贤者的部分护盾效果共存<br>追加效果（暴击时）：为目标附加能够抵御一定伤害的防护罩激励<br>激励效果：抵消相当于治疗量180%的伤害<br>持续时间：30秒发动条件：自身处于炽天主义状态<br><br>※该技能无法设置到热键栏<br>满足发动条件时，鼓舞激励之策变化为顿悟",
+        "content": "恢复目标的体力<br>恢复力：360<br>追加效果：为目标附加能够抵御一定伤害的防护罩鼓舞<br>鼓舞效果：抵消相当于治疗量180%的伤害<br>持续时间：30秒<br>无法与贤者的部分护盾效果共存<br>追加效果（暴击时）：为目标附加能够抵御一定伤害的防护罩激励<br>激励效果：抵消相当于治疗量180%的伤害<br>持续时间：30秒发动条件：自身处于炽天附体状态<br><br>※该技能无法设置到热键栏<br>满足发动条件时，鼓舞激励之策变化为显灵之章",
         "change": "新增技能"
     },
     {
         "isDisabled": false,
-        "name": "アクセッション<br>通明",
+        "name": "降临之章",
         "ndes": "",
         "pic": "https://img.picgo.net/2024/06/09/56ade11a1001a6bf6.png",
         "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/2r8fm3U0Io7Pw1XT1tvnjPthp4.png",
@@ -775,7 +775,7 @@
         "distant": "0",
         "rangeType": "circle",
         "range": "15",
-        "content": "恢复自身及周围队员的体力<br>恢复力：240<br>追加效果：附加能够抵御一定伤害的防护罩<br>该防护罩能够抵消相当于治疗量180%的伤害<br>持续时间：30秒<br>无法与贤者的部分护盾效果共存<br>发动条件：自身处于炽天主义状态<br><br>※该技能无法设置到热键栏<br>满足发动条件时，意气轩昂之策变化为通明",
+        "content": "恢复自身及周围队员的体力<br>恢复力：240<br>追加效果：附加能够抵御一定伤害的防护罩<br>该防护罩能够抵消相当于治疗量180%的伤害<br>持续时间：30秒<br>无法与贤者的部分护盾效果共存<br>发动条件：自身处于炽天附体状态<br><br>※该技能无法设置到热键栏<br>满足发动条件时，意气轩昂之策变化为降临之章",
         "change": "新增技能"
     }
 ]
