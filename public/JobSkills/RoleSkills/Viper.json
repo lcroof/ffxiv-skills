@@ -19,7 +19,7 @@
       "range": "0",
       "rangeType": "zero",
       "content": "恢复自身体力<br>恢复力：800",
-      "change": "由6.58的恢复力：500变更为7.0的恢复力：800"
+      "change":""
     },
     {
       "isDisabled": false,
@@ -40,7 +40,7 @@
       "range": "0",
       "rangeType": "zero",
       "content": "令目标陷入眩晕状态　持续时间：3秒",
-      "change": ""
+      "change":""
     },
     {
       "isDisabled": false,
@@ -61,7 +61,7 @@
       "range": "0",
       "rangeType": "zero",
       "content": "一定时间内，将自身物理攻击所造成伤害的一部分转化为自身的体力<BR>持续时间：20秒",
-      "change": ""
+      "change":""
     },
     {
       "isDisabled": false,
@@ -82,7 +82,7 @@
       "range": "0",
       "rangeType": "zero",
       "content": "一定时间内，令目标物理攻击造成的伤害降低10%，魔法攻击造成的伤害降低5%<BR>持续时间：15秒",
-      "change": "由6.58的持续10秒变更为7.0的持续15秒"
+      "change":""
     },
     {
       "isDisabled": false,
@@ -105,7 +105,7 @@
       "range": "0",
       "rangeType": "zero",
       "content": "为自身张开一个防护罩，一定时间内令除特定攻击之外其他所有击退与吸引效果失效　持续时间：6秒<BR>防护罩追加效果（受到物理攻击时，发动几率100%）：攻击者减速20%　持续时间：15秒",
-      "change": ""
+      "change":""
     },
     {
       "isDisabled": false,
@@ -126,6 +126,6 @@
       "range": "0",
       "rangeType": "zero",
       "content": "一定时间内无视技能的方向要求　持续时间：10秒<BR>积蓄次数：2",
-      "change": ""
+      "change":""
     }
   ]

@@ -1,7 +1,7 @@
 [
     {
       "isDisabled": false,
-      "name": "牙剑效果提高",
+      "name": "獠齿效果提高",
       "ndes": "",
       "pic": "https://lds-img.finalfantasyxiv.com/d/9e14a796df9b3cae3544d8cb2d1854bc672ad210.png",
       "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -15,12 +15,12 @@
       "distant": "",
       "range": "",
       "rangeType": "zero",
-      "content": "能够发动蛇尾击<br/>发动条件：牙剑侧击、牙剑侧裂、牙剑背击、牙剑背裂连击成功时",
-      "change": ""
+      "content": "能够发动蛇尾击<br/>发动条件：侧击獠齿、侧裂獠齿、背击獠齿、背裂獠齿连击成功时",
+      "change":""
     },
     {
       "isDisabled": false,
-      "name": "大牙效果提高",
+      "name": "獠牙效果提高",
       "ndes": "",
       "pic": "https://lds-img.finalfantasyxiv.com/d/09630c297ad9fe64beeca174d41e2cf8c8ed559d.png",
       "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -34,8 +34,8 @@
       "distant": "",
       "range": "",
       "rangeType": "zero",
-      "content": "能够发动蛇尾闪<br/>发动条件：大牙乱击或大牙乱裂连击成功时",
-      "change": ""
+      "content": "能够发动蛇尾闪<br/>发动条件：乱击獠牙或乱裂獠牙连击成功时",
+      "change":""
     },
     {
       "isDisabled": false,
@@ -53,12 +53,12 @@
       "distant": "",
       "range": "",
       "rangeType": "zero",
-      "content": "部分技能的威力提高<BR><BR>牙剑咬创的威力：200<BR>牙剑穿裂的威力：200<BR>牙剑猛袭的威力：300<BR>牙剑疾速的威力：300",
-      "change": "7.05威力更改"
+      "content": "部分技能的威力提高<BR><BR>咬噬尖齿的威力：200<BR>穿裂尖齿的威力：200<BR>猛袭利齿的威力：300<BR>疾速利齿的威力：300",
+      "change":""
     },
     {
       "isDisabled": false,
-      "name": "蛇剑效果提高",
+      "name": "盘蛇效果提高",
       "ndes": "",
       "pic": "https://lds-img.finalfantasyxiv.com/d/4b105f04e744d6a65f6ed28c75a79ec5f0151a49.png",
       "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -72,12 +72,12 @@
       "distant": "",
       "range": "",
       "rangeType": "zero",
-      "content": "能够发动双牙连击和双牙乱击<br/>发动条件：蛇剑猛袭或蛇剑疾速连击成功时",
-      "change": ""
+      "content": "能够发动双牙连击和双牙乱击<br/>发动条件：猛袭盘蛇或疾速盘蛇连击成功时",
+      "change":""
     },
     {
       "isDisabled": false,
-      "name": "大蛇效果提高",
+      "name": "盘蟒效果提高",
       "ndes": "",
       "pic": "https://lds-img.finalfantasyxiv.com/d/2122a2b003b6dd72cc260a13a93f22097ebe07af.png",
       "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -91,8 +91,8 @@
       "distant": "",
       "range": "",
       "rangeType": "zero",
-      "content": "能够发动双牙连闪和双牙乱闪<br/>发动条件：大蛇猛袭或大蛇疾速连击成功时",
-      "change": ""
+      "content": "能够发动双牙连闪和双牙乱闪<br/>发动条件：猛袭盘蟒或疾速盘蟒连击成功时",
+      "change":""
     },
     {
       "isDisabled": false,
@@ -110,8 +110,8 @@
       "distant": "",
       "range": "",
       "rangeType": "zero",
-      "content": "可获得飞蛇之魂<br/>发动条件：蛇剑强碎或大蛇强碎命中时",
-      "change": ""
+      "content": "可获得飞蛇之魂<br/>发动条件：强碎灵蛇或强碎灵蟒命中时",
+      "change":""
     },
     {
       "isDisabled": false,
@@ -130,7 +130,7 @@
       "range": "",
       "rangeType": "zero",
       "content": "蛇行的积蓄次数增加到3次",
-      "change": ""
+      "change":""
     },
     {
       "isDisabled": false,
@@ -148,8 +148,8 @@
       "distant": "",
       "range": "",
       "rangeType": "zero",
-      "content": "部分技能的威力提高<BR><BR>牙剑侧击的威力：340<BR>牙剑侧裂的威力：340<BR>牙剑背击的威力：340<BR>牙剑背裂的威力：340",
-      "change": "7.05威力更改"
+      "content": "部分技能的威力提高<BR><BR>侧击獠齿的威力：340<BR>侧裂獠齿的威力：340<BR>背击獠齿的威力：340<BR>背裂獠齿的威力：340",
+      "change":""
     },
     {
       "isDisabled": false,
@@ -168,7 +168,7 @@
       "range": "",
       "rangeType": "zero",
       "content": "飞蛇之魂的最大档数增加到3档",
-      "change": ""
+      "change":""
     },
     {
       "isDisabled": false,
@@ -186,8 +186,8 @@
       "distant": "",
       "range": "",
       "rangeType": "zero",
-      "content": "可获得灵能<br/>此外，能够为自己附加祖灵降临预备状态<br/>持续时间：30秒<br/>发动条件：特定战技命中时或蛇之灵气发动后",
-      "change": ""
+      "content": "可获得灵能<br/>此外，能够为自己附加祖灵降临预备状态<br/>持续时间：30秒<br/>发动条件：特定战技命中时或蛇灵气发动后",
+      "change":""
     },
     {
       "isDisabled": false,
@@ -206,7 +206,7 @@
       "range": "",
       "rangeType": "zero",
       "content": "能够发动飞蛇连尾击和飞蛇乱尾击<br/>发动条件：飞蛇之尾命中时",
-      "change": ""
+      "change":""
     },
     {
       "isDisabled": false,
@@ -224,12 +224,12 @@
       "distant": "",
       "range": "",
       "rangeType": "zero",
-      "content": "灵力的最大档数增加到五档<br/>此外，能够实行祖灵大蛇牙<br/>发动条件：祖灵降临状态下",
-      "change": ""
+      "content": "灵力的最大档数增加到五档<br/>此外，能够发动吞世巨蛇<br/>发动条件：祖灵降临状态下",
+      "change":""
     },
     {
       "isDisabled": false,
-      "name": "灵牙精通",
+      "name": "祖灵之牙精通",
       "ndes": "",
       "pic": "https://lds-img.finalfantasyxiv.com/d/f06c1aae31dc1d1324391254870d3b0b0a1402ea.png",
       "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/J/WtPQ-0ncODHgW6sj7XNH9-Tgy8.png",
@@ -243,7 +243,7 @@
       "distant": "",
       "range": "",
       "rangeType": "zero",
-      "content": "能够发动灵蛇一式、灵蛇二式、灵蛇三式、灵蛇四式<br/>发动条件：分别在灵牙一式、灵牙二式、灵牙三式、灵牙四式发动后",
-      "change": ""
+      "content": "能够发动祖灵之蛇一式、祖灵之蛇二式、祖灵之蛇三式、祖灵之蛇四式<br/>发动条件：分别在祖灵之牙一式、祖灵之牙二式、祖灵之牙三式、祖灵之牙四式发动后",
+      "change":""
     }
 ]
