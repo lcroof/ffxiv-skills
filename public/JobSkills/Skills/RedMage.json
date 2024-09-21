@@ -284,8 +284,8 @@
     "distant": "0",
     "rangeType": "zero",
     "range": "0",
-    "content": "持续时间内发动1次赤暴雷或赤暴风、冲击不需要咏唱时间<br>持续时间：20秒<br>追加效果：冲击威力提高50<br>追加效果：发动赤暴雷或赤暴风时，必定为自身附加赤火炎预备或赤飞石预备状态<br>追加效果：贵族冲击预备<br>持续时间：30秒<br>积蓄次数：2",
-    "change":"新增“追加效果：贵族冲击预备<br>持续时间：30秒”"
+    "content": "持续时间内发动1次赤暴雷或赤暴风、冲击不需要咏唱时间<br>持续时间：20秒<br>追加效果：冲击威力提高50<br>追加效果：发动赤暴雷或赤暴风时，必定为自身附加赤火炎预备或赤飞石预备状态<br>追加效果：显贵冲击预备<br>持续时间：30秒<br>积蓄次数：2",
+    "change":"新增“追加效果：显贵冲击预备<br>持续时间：30秒”"
   },
   {
     "name": "划圆斩",
@@ -302,8 +302,8 @@
     "distant": "8",
     "rangeType": "sector",
     "range": "8",
-    "content": "向目标所在方向发出扇形范围物理攻击<br>威力：60<br>平衡量谱中黑魔元与白魔元都在20点以上时，该技能变为魔划圆斩·一式",
-    "change":"效果从“平衡量谱中黑魔元与白魔元都在20点以上时，该技能变为魔划圆斩”变更至“平衡量谱中黑魔元与白魔元都在20点以上时，该技能变为魔划圆斩·一式”"
+    "content": "向目标所在方向发出扇形范围物理攻击<br>威力：60<br>平衡量谱中黑魔元与白魔元都在20点以上时，该技能变为魔划圆斩·一段",
+    "change":"效果从“平衡量谱中黑魔元与白魔元都在20点以上时，该技能变为魔划圆斩”变更至“平衡量谱中黑魔元与白魔元都在20点以上时，该技能变为魔划圆斩·一段”"
   },
   {
     "name": "赤治疗",
@@ -356,8 +356,8 @@
     "distant": "0",
     "rangeType": "circle",
     "range": "30",
-    "content": "一定时间内，自身发动魔法攻击造成的伤害提高5%<br>持续时间：20秒<br>追加效果：令周围队员发动攻击造成的伤害提高5%<br>持续时间：20秒<br>追加效果：荆棘绞剑预备<br>持续时间：30秒",
-    "change":"新增“追加效果：荆棘绞剑预备<br>持续时间：30秒”"
+    "content": "一定时间内，自身发动魔法攻击造成的伤害提高5%<br>持续时间：20秒<br>追加效果：令周围队员发动攻击造成的伤害提高5%<br>持续时间：20秒<br>追加效果：荆棘环绕预备<br>持续时间：30秒",
+    "change":"新增“追加效果：荆棘环绕预备<br>持续时间：30秒”"
   },
   {
     "name": "魔元化",
@@ -374,8 +374,8 @@
     "distant": "0",
     "rangeType": "zero",
     "range": "0",
-    "content": "为自身附加3档魔法剑连击预备<br>持续时间：30秒<br>魔法剑连击预备效果：发动魔回刺、魔交击斩、魔连攻、魔划圆斩·一式、魔划圆斩·二式、魔划圆斩·三式时不消耗魔元<br>追加效果：为自身附加6档魔元化状态<br>持续时间：30秒<br>魔元化效果：自身发动魔法攻击造成的伤害提高5%<br>追加效果：消耗全部魔元化状态后对自身附加璀璨预备状态<br>持续时间：30秒<br>此技能会中断连击<br>发动条件：自身处于战斗状态",
-    "change":"效果从“获得50点黑魔元和白魔元”变更至“为自身附加3档魔法剑连击预备<br>持续时间：30秒<br>魔法剑连击预备效果：发动魔回刺、魔交击斩、魔连攻、魔划圆斩·一式、魔划圆斩·二式、魔划圆斩·三式时不消耗魔元”<br>新增“追加效果：消耗全部魔元化状态后对自身附加璀璨预备状态<br>持续时间：30秒”<br>魔元化状态的持续时间从15秒变更至30秒"
+    "content": "为自身附加3档魔法剑术<br>持续时间：30秒<br>魔法剑术效果：发动魔回刺、魔交击斩、魔连攻、魔划圆斩·一段、魔划圆斩·二段、魔划圆斩·三段时不消耗魔元<br>追加效果：为自身附加6档魔元化状态<br>持续时间：30秒<br>魔元化效果：自身发动魔法攻击造成的伤害提高5%<br>追加效果：消耗全部魔元化状态后对自身附加光芒四射预备状态<br>持续时间：30秒<br>此技能会中断连击<br>发动条件：自身处于战斗状态",
+    "change":"效果从“获得50点黑魔元和白魔元”变更至“为自身附加3档魔法剑术<br>持续时间：30秒<br>魔法剑术效果：发动魔回刺、魔交击斩、魔连攻、魔划圆斩·一段、魔划圆斩·二段、魔划圆斩·三段时不消耗魔元”<br>新增“追加效果：消耗全部魔元化状态后对自身附加光芒四射预备状态<br>持续时间：30秒”<br>魔元化状态的持续时间从15秒变更至30秒"
   },
   {
     "name": "震荡",
@@ -540,7 +540,7 @@
     "change":"威力从380变更至440"
   },
   {
-    "name": "Jolt III<br>激荡",
+    "name": "激荡",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/f3be0e80366bd72a864a87e41eadd964f07a5f57.png",
     "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/NRnqJxzRtbDKR1ZHzxazWBBR2Y.png",
@@ -594,7 +594,7 @@
     "change":"威力从750变更至800"
   },
   {
-    "name": "Vice of Thorns<br>荆棘绞剑",
+    "name": "荆棘环绕",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/23de2734d998406aa25f526147ebbea7f1012d67.png",
     "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/NRnqJxzRtbDKR1ZHzxazWBBR2Y.png",
@@ -608,11 +608,11 @@
     "distant": "25",
     "rangeType": "circle",
     "range": "5",
-    "content": "对目标及其周围敌人发动无属性范围魔法攻击<br>威力：700<br>攻击复数敌人时，对目标之外的敌人威力降低60%<br>发动条件：荆棘绞剑预备",
+    "content": "对目标及其周围敌人发动无属性范围魔法攻击<br>威力：700<br>攻击复数敌人时，对目标之外的敌人威力降低60%<br>发动条件：荆棘环绕预备",
     "change":"新增技能"
   },
   {
-    "name": "Grand Impact<br>贵族冲击",
+    "name": "显贵冲击",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/5be2009c3bc4bd918ee899e0c6edc953571e93a3.png",
     "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/NRnqJxzRtbDKR1ZHzxazWBBR2Y.png",
@@ -626,11 +626,11 @@
     "distant": "25",
     "rangeType": "circle",
     "range": "5",
-    "content": "对目标及其周围敌人发动无属性范围魔法攻击<br>威力：600<br>攻击复数敌人时，对目标之外的敌人威力降低60%<br>追加效果：获得3点黑魔元与3点白魔元<br>发动条件：贵族冲击预备<br><br>※该技能无法设置到热键栏<br>满足发动条件后，激荡和冲击变为贵族冲击",
+    "content": "对目标及其周围敌人发动无属性范围魔法攻击<br>威力：600<br>攻击复数敌人时，对目标之外的敌人威力降低60%<br>追加效果：获得3点黑魔元与3点白魔元<br>发动条件：显贵冲击预备<br><br>※该技能无法设置到热键栏<br>满足发动条件后，激荡和冲击变为显贵冲击",
     "change":"新增技能"
   },
   {
-    "name": "Prefulgence<br>璀璨",
+    "name": "光芒四射",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/f3988ae5cc17fcf0b655c5820f0c25ef2ac72b43.png",
     "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/NRnqJxzRtbDKR1ZHzxazWBBR2Y.png",
@@ -644,7 +644,7 @@
     "distant": "25",
     "rangeType": "circle",
     "range": "5",
-    "content": "对目标及其周围敌人发动无属性范围魔法攻击<br>威力：900<br>攻击复数敌人时，对目标之外的敌人威力降低60%<br>发动条件：璀璨预备<br><br>※该技能无法设置到热键栏<br>满足发动条件后，魔元化变为璀璨",
+    "content": "对目标及其周围敌人发动无属性范围魔法攻击<br>威力：900<br>攻击复数敌人时，对目标之外的敌人威力降低60%<br>发动条件：光芒四射预备<br><br>※该技能无法设置到热键栏<br>满足发动条件后，魔元化变为光芒四射",
     "change":"新增技能"
   },
   {
@@ -702,7 +702,7 @@
     "change":"威力130从变更至170<br>连击中威力从500变更至540"
   },
   {
-    "name": "魔划圆斩·一式",
+    "name": "魔划圆斩·一段",
     "ndes": "",
     "pic": "https://static.web.sdo.com/jijiamobile/pic/ff14/20190917jobguid/Red Mage/Action_32.png",
     "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/NRnqJxzRtbDKR1ZHzxazWBBR2Y.png",
@@ -716,11 +716,11 @@
     "distant": "8",
     "rangeType": "sector",
     "range": "8",
-    "content": "向目标所在方向发出扇形范围魔法攻击<br>威力：130<br>追加效果：为自身附加1档魔元集<br>发动条件：黑魔元、白魔元各20点<br><br>※该技能无法设置到热键栏<br>满足发动条件后，划圆斩变为魔划圆斩·一式",
-    "change":"技能名称从“魔划圆斩”变更至“魔划圆斩·一式”"
+    "content": "向目标所在方向发出扇形范围魔法攻击<br>威力：130<br>追加效果：为自身附加1档魔元集<br>发动条件：黑魔元、白魔元各20点<br><br>※该技能无法设置到热键栏<br>满足发动条件后，划圆斩变为魔划圆斩·一段",
+    "change":"技能名称从“魔划圆斩”变更至“魔划圆斩·一段”"
   },
   {
-    "name": "Moulinet Deux<br>魔划圆斩·二式",
+    "name": "魔划圆斩·二段",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/e5dfc01b5048f6bef58d504d6e6f633004ad8fc7.png",
     "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/NRnqJxzRtbDKR1ZHzxazWBBR2Y.png",
@@ -734,11 +734,11 @@
     "distant": "8",
     "rangeType": "sector",
     "range": "8",
-    "content": "向目标所在方向发出扇形范围魔法攻击<br>威力：140<br>连击条件：魔划圆斩·一式<br>追加效果：为自身附加1档魔元集<br>发动条件：黑魔元、白魔元各15点<br><br>※该技能无法设置到热键栏<br>满足发动条件后，魔划圆斩·一式变为魔划圆斩·二式",
+    "content": "向目标所在方向发出扇形范围魔法攻击<br>威力：140<br>连击条件：魔划圆斩·一段<br>追加效果：为自身附加1档魔元集<br>发动条件：黑魔元、白魔元各15点<br><br>※该技能无法设置到热键栏<br>满足发动条件后，魔划圆斩·一段变为魔划圆斩·二段",
     "change":"新增技能"
   },  
   {
-    "name": "Moulinet Trois<br>魔划圆斩·三式",
+    "name": "魔划圆斩·三段",
     "ndes": "",
     "pic": "https://lds-img.finalfantasyxiv.com/d/0f1ad21893a66c8f4b9253821fee9044ba1b4464.png",
     "tiurl": "https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/NRnqJxzRtbDKR1ZHzxazWBBR2Y.png",
@@ -752,7 +752,7 @@
     "distant": "8",
     "rangeType": "sector",
     "range": "8",
-    "content": "向目标所在方向发出扇形范围魔法攻击<br>威力：150<br>连击条件：魔划圆斩·二式<br>追加效果：为自身附加1档魔元集<br>发动条件：黑魔元、白魔元各15点<br><br>※该技能无法设置到热键栏<br>满足发动条件后，魔划圆斩·二式变为魔划圆斩·三式",
+    "content": "向目标所在方向发出扇形范围魔法攻击<br>威力：150<br>连击条件：魔划圆斩·二段<br>追加效果：为自身附加1档魔元集<br>发动条件：黑魔元、白魔元各15点<br><br>※该技能无法设置到热键栏<br>满足发动条件后，魔划圆斩·二段变为魔划圆斩·三段",
     "change":"新增技能"
   },
   {
