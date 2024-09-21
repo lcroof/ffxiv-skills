@@ -455,9 +455,9 @@
         "distant": "0",
         "rangeType": "zero",
         "range": "0",
-        "content": "获得超荷预备<br>持续时间：30秒<br>追加效果：获得全弹发射预备<br>持续时间：30秒<br>发动条件：自身处于战斗状态",
+        "content": "获得超荷预备<br>持续时间：30秒<br>追加效果：获得全金属爆发预备<br>持续时间：30秒<br>发动条件：自身处于战斗状态",
         "type": "",
-        "change": "删除效果“获得50点枪管热度”<br>新增效果“获得超荷预备”<br>新增效果“获得全弹发射预备”"
+        "change": "删除效果“获得50点枪管热度”<br>新增效果“获得超荷预备”<br>新增效果“获得全金属爆发预备”"
     },
     {
 		"isDisabled": false,
@@ -695,13 +695,13 @@
         "distant": "25",
         "rangeType": "line",
         "range": "25",
-        "content": "向目标所在方向发出直线范围物理攻击　<br>威力：600<br>攻击复数敌人时，对目标之外的敌人威力降低65%<br>追加效果：获得20点电能<br>追加效果：获得挖掘机预备<br>持续时间：30秒<br>该战技有单独计算的复唱时间",
+        "content": "向目标所在方向发出直线范围物理攻击　<br>威力：600<br>攻击复数敌人时，对目标之外的敌人威力降低65%<br>追加效果：获得20点电能<br>追加效果：获得掘地飞轮预备<br>持续时间：30秒<br>该战技有单独计算的复唱时间",
         "type": "",
-        "change": "新增效果“获得挖掘机预备”"
+        "change": "新增效果“获得掘地飞轮预备”"
     },   
     {
 		"isDisabled": false,
-        "name": "Double Check<br>双将",
+        "name": "双将",
         "ndes": "",
         "pic": "https://lds-img.finalfantasyxiv.com/d/5de8d4517d7e5179cc341ecb2d0bb63e0d716492.png",
         "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/2/oHLJxTt_OLDK_eQkRTBVNwwxeE.png",
@@ -721,7 +721,7 @@
     },
     {
 		"isDisabled": false,
-        "name": "Checkmate<br>将死",
+        "name": "将死",
         "ndes": "",
         "pic": "https://lds-img.finalfantasyxiv.com/d/f44e0b84bfe54b08662b521becbb338225ea90c9.png",
         "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/2/oHLJxTt_OLDK_eQkRTBVNwwxeE.png",
@@ -741,7 +741,7 @@
     },
     {
 		"isDisabled": false,
-        "name": "Excavator<br>挖掘机",
+        "name": "掘地飞轮",
         "ndes": "",
         "pic": "https://lds-img.finalfantasyxiv.com/d/6e221fc321a6d40ecac7a908c5b8c144c8c693a3.png",
         "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/2/oHLJxTt_OLDK_eQkRTBVNwwxeE.png",
@@ -755,13 +755,13 @@
         "distant": "25",
         "rangeType": "circle",
         "range": "5",
-        "content": "对目标及其周围的敌人发动范围物理攻击<br>威力：600<br>攻击复数敌人时，对目标之外的敌人威力降低65%<br>追加效果：获得获得20点电能<br>发动条件：挖掘机预备状态中<br><br>※该技能无法设置到热键栏<br>※满足发动条件时，回转飞锯会变成挖掘机",
+        "content": "对目标及其周围的敌人发动范围物理攻击<br>威力：600<br>攻击复数敌人时，对目标之外的敌人威力降低65%<br>追加效果：获得获得20点电能<br>发动条件：掘地飞轮预备状态中<br><br>※该技能无法设置到热键栏<br>※满足发动条件时，回转飞锯会变成掘地飞轮",
         "type": "updated",
         "change": "新增技能"
     },   
     {
 		"isDisabled": false,
-        "name": "Full Metal Field<br>全弹发射",
+        "name": "全金属爆发",
         "ndes": "",
         "pic": "https://lds-img.finalfantasyxiv.com/d/9c5bb54095373de5764bcfee0205f998f57b986b.png",
         "tiurl": "https://lds-img.finalfantasyxiv.com/promo/h/2/oHLJxTt_OLDK_eQkRTBVNwwxeE.png",
@@ -775,7 +775,7 @@
         "distant": "25",
         "rangeType": "circle",
         "range": "5",
-        "content": "对目标及其周围的敌人发动范围物理攻击<br>威力：700<br>该技能必定暴击并且直击<br>攻击复数敌人时，对目标之外的敌人威力降低50%<br>受暴击或直击发动率提高效果影响时，攻击造成的伤害提高<br>发动条件：全弹发射预备状态中<br><br>※该技能无法设置到热键栏",
+        "content": "对目标及其周围的敌人发动范围物理攻击<br>威力：700<br>该技能必定暴击并且直击<br>攻击复数敌人时，对目标之外的敌人威力降低50%<br>受暴击或直击发动率提高效果影响时，攻击造成的伤害提高<br>发动条件：全金属爆发预备状态中<br><br>※该技能无法设置到热键栏",
         "type": "updated",
         "change": "新增技能"
     }
